@@ -1,0 +1,549 @@
+
+
+
+create table EMP
+(
+employee_id varchar2(10),
+name varchar2(40),
+salary number(10,0),
+manager_id number(4,0),
+department_id number(4,0),
+working_project varchar2(10)
+);
+
+insert into emp(employee_id,name, salary, manager_id, department_id)
+select employee_id,first_name || ' ' || last_name, salary, manager_id, department_id
+from employees;
+
+
+SELECT *FROM EMP;
+
+
+
+
+CREATE OR REPLACE FUNCTION default_working_project (MID IN VARCHAR2)
+RETURN VARCHAR2 IS
+AVG_SAL NUMBER(8,2); 
+COUNTER NUMBER;
+MSG VARCHAR2(100) ;
+MAN_ID VARCHAR2;
+BEGIN
+AVG_SAL :=0;
+COUNTER :=0;
+MAN_ID:=MID;
+
+FOR R IN (SELECT SALARY FROM EMP WHERE MANAGER_ID=MAN_ID)
+LOOP
+COUNTER := COUNTER + 1 ;
+AVG_SAL := AVG_SAL+R.SALARY;
+END LOOP; 
+AVG_SAL := AVG_SAL/COUNTER;
+ IF AVG_SAL >= 10000 THEN
+ MSG := 'GRAND' ;
+ ELSIF AVG_SAL>8000 AND AVG_SAL<10000 THEN
+ MSG := 'MEDIUM' ;
+ ELSE
+ MSG := 'SMALL' ;
+ END IF ;
+RETURN MSG ; --return the message
+EXCEPTION
+--you must return value from this section also
+WHEN NO_DATA_FOUND THEN
+RETURN 'NULL MANAGER' ;
+WHEN TOO_MANY_ROWS THEN
+RETURN 'More than one MANAGER found.' ;
+WHEN OTHERS THEN
+RETURN 'Some unknown error occurred.' ;
+END ;
+/
+
+DECLARE
+MESSAGE VARCHAR2(100) ;
+BEGIN
+MESSAGE :=default_working_project(60) ;
+DBMS_OUTPUT.PUT_LINE(MESSAGE) ;
+END ;
+/
+
+
+
+
+
+
+--2
+
+
+CREATE OR REPLACE FUNCTION default_salary (MID IN VARCHAR2,STATUS IN VARCHAR2)
+RETURN VARCHAR2 IS
+MSG VARCHAR2(100) ;
+MSG2 VARCHAR2(100);
+BEGIN
+AVG_SAL :=0;
+COUNTER :=0;
+MAN_ID:=MID;
+IF STATUS= NULL THEN
+MSG2:=default_working_project (MID);
+END IF;
+
+ IF MSG2 = 'GRAND' THEN
+ MSG := 'SALARY IS 15000' ;
+ ELSIF MSG2='MEDIUM' THEN
+ MSG := 'SALARY IS 9000' ;
+ ELSE
+ MSG := 'SALARY IS 5000' ;
+ END IF ;
+RETURN MSG ; --return the message
+EXCEPTION
+--you must return value from this section also
+WHEN NO_DATA_FOUND THEN
+RETURN 'NULL MANAGER' ;
+WHEN TOO_MANY_ROWS THEN
+RETURN 'More than one MANAGER found.' ;
+WHEN OTHERS THEN
+RETURN 'Some unknown error occurred.' ;
+END ;
+/
+
+DECLARE
+MESSAGE VARCHAR2(100) ;
+BEGIN
+MESSAGE :=default_salary(60) ;
+DBMS_OUTPUT.PUT_LINE(MESSAGE) ;
+END ;
+/
+
+
+
+
+----3
+
+CREATE OR REPLACE TRIGGER check_entry
+AFTER INSERT
+ON EMP
+FOR EACH ROW
+DECLARE
+MAN_ID NUMBER ;
+MSG VARCHAR2(100);
+COUNTER NUMBER;
+BEGIN
+MAN_ID :=:NEW.MANAGER_ID;
+FOR R IN (SELECT MANAGER_ID FROM EMP WHERE MANAGER_ID=MAN_ID)
+LOOP
+COUNTER:= COUNTER+1;
+END LOOP;
+IF COUNTER<=1 THEN
+MSG := 'NOTHING';
+END IF;
+RETURN MSG;
+
+--DBMS_OUTPUT.PUT_LINE('Hello World2');
+END ;
+/
+insert into emp(employee_id,name, salary, manager_id, department_id, working_project) values 
+('623', 'Rahim', 15000, 100, 90, 'GRAND' );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+create table EMP
+(
+employee_id varchar2(10),
+name varchar2(40),
+salary number(10,0),
+manager_id number(4,0),
+department_id number(4,0),
+working_project varchar2(10)
+);
+
+insert into emp(employee_id,name, salary, manager_id, department_id)
+select employee_id,first_name || ' ' || last_name, salary, manager_id, department_id
+from employees;
+
+
+SELECT *FROM EMP;
+
+
+
+
+CREATE OR REPLACE FUNCTION default_working_project (MID IN VARCHAR2)
+RETURN VARCHAR2 IS
+AVG_SAL NUMBER(8,2); 
+COUNTER NUMBER;
+MSG VARCHAR2(100) ;
+MAN_ID VARCHAR2;
+BEGIN
+AVG_SAL :=0;
+COUNTER :=0;
+MAN_ID:=MID;
+
+FOR R IN (SELECT SALARY FROM EMP WHERE MANAGER_ID=MAN_ID)
+LOOP
+COUNTER := COUNTER + 1 ;
+AVG_SAL := AVG_SAL+R.SALARY;
+END LOOP; 
+AVG_SAL := AVG_SAL/COUNTER;
+ IF AVG_SAL >= 10000 THEN
+ MSG := 'GRAND' ;
+ ELSIF AVG_SAL>8000 AND AVG_SAL<10000 THEN
+ MSG := 'MEDIUM' ;
+ ELSE
+ MSG := 'SMALL' ;
+ END IF ;
+RETURN MSG ; --return the message
+EXCEPTION
+--you must return value from this section also
+WHEN NO_DATA_FOUND THEN
+RETURN 'NULL MANAGER' ;
+WHEN TOO_MANY_ROWS THEN
+RETURN 'More than one MANAGER found.' ;
+WHEN OTHERS THEN
+RETURN 'Some unknown error occurred.' ;
+END ;
+/
+
+DECLARE
+MESSAGE VARCHAR2(100) ;
+BEGIN
+MESSAGE :=default_working_project(60) ;
+DBMS_OUTPUT.PUT_LINE(MESSAGE) ;
+END ;
+/
+
+
+
+
+
+
+--2
+
+
+CREATE OR REPLACE FUNCTION default_salary (MID IN VARCHAR2,STATUS IN VARCHAR2)
+RETURN VARCHAR2 IS
+MSG VARCHAR2(100) ;
+MSG2 VARCHAR2(100);
+BEGIN
+AVG_SAL :=0;
+COUNTER :=0;
+MAN_ID:=MID;
+IF STATUS= NULL THEN
+MSG2:=default_working_project (MID);
+END IF;
+
+ IF MSG2 = 'GRAND' THEN
+ MSG := 'SALARY IS 15000' ;
+ ELSIF MSG2='MEDIUM' THEN
+ MSG := 'SALARY IS 9000' ;
+ ELSE
+ MSG := 'SALARY IS 5000' ;
+ END IF ;
+RETURN MSG ; --return the message
+EXCEPTION
+--you must return value from this section also
+WHEN NO_DATA_FOUND THEN
+RETURN 'NULL MANAGER' ;
+WHEN TOO_MANY_ROWS THEN
+RETURN 'More than one MANAGER found.' ;
+WHEN OTHERS THEN
+RETURN 'Some unknown error occurred.' ;
+END ;
+/
+
+DECLARE
+MESSAGE VARCHAR2(100) ;
+BEGIN
+MESSAGE :=default_salary(60) ;
+DBMS_OUTPUT.PUT_LINE(MESSAGE) ;
+END ;
+/
+
+
+
+
+----3
+
+CREATE OR REPLACE TRIGGER check_entry
+AFTER INSERT
+ON EMP
+FOR EACH ROW
+DECLARE
+MAN_ID NUMBER ;
+MSG VARCHAR2(100);
+COUNTER NUMBER;
+BEGIN
+MAN_ID :=:NEW.MANAGER_ID;
+FOR R IN (SELECT MANAGER_ID FROM EMP WHERE MANAGER_ID=MAN_ID)
+LOOP
+COUNTER:= COUNTER+1;
+END LOOP;
+IF COUNTER<=1 THEN
+MSG := 'NOTHING';
+END IF;
+RETURN MSG;
+
+--DBMS_OUTPUT.PUT_LINE('Hello World2');
+END ;
+/
+insert into emp(employee_id,name, salary, manager_id, department_id, working_project) values 
+('623', 'Rahim', 15000, 100, 90, 'GRAND' );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+create table EMP
+(
+employee_id varchar2(10),
+name varchar2(40),
+salary number(10,0),
+manager_id number(4,0),
+department_id number(4,0),
+working_project varchar2(10)
+);
+
+insert into emp(employee_id,name, salary, manager_id, department_id)
+select employee_id,first_name || ' ' || last_name, salary, manager_id, department_id
+from employees;
+
+
+SELECT *FROM EMP;
+
+
+
+
+CREATE OR REPLACE FUNCTION default_working_project (MID IN VARCHAR2)
+RETURN VARCHAR2 IS
+AVG_SAL NUMBER(8,2); 
+COUNTER NUMBER;
+MSG VARCHAR2(100) ;
+MAN_ID VARCHAR2;
+BEGIN
+AVG_SAL :=0;
+COUNTER :=0;
+MAN_ID:=MID;
+
+FOR R IN (SELECT SALARY FROM EMP WHERE MANAGER_ID=MAN_ID)
+LOOP
+COUNTER := COUNTER + 1 ;
+AVG_SAL := AVG_SAL+R.SALARY;
+END LOOP; 
+AVG_SAL := AVG_SAL/COUNTER;
+ IF AVG_SAL >= 10000 THEN
+ MSG := 'GRAND' ;
+ ELSIF AVG_SAL>8000 AND AVG_SAL<10000 THEN
+ MSG := 'MEDIUM' ;
+ ELSE
+ MSG := 'SMALL' ;
+ END IF ;
+RETURN MSG ; --return the message
+EXCEPTION
+--you must return value from this section also
+WHEN NO_DATA_FOUND THEN
+RETURN 'NULL MANAGER' ;
+WHEN TOO_MANY_ROWS THEN
+RETURN 'More than one MANAGER found.' ;
+WHEN OTHERS THEN
+RETURN 'Some unknown error occurred.' ;
+END ;
+/
+
+DECLARE
+MESSAGE VARCHAR2(100) ;
+BEGIN
+MESSAGE :=default_working_project(60) ;
+DBMS_OUTPUT.PUT_LINE(MESSAGE) ;
+END ;
+/
+
+
+
+
+
+
+--2
+
+
+CREATE OR REPLACE FUNCTION default_salary (MID IN VARCHAR2,STATUS IN VARCHAR2)
+RETURN VARCHAR2 IS
+MSG VARCHAR2(100) ;
+MSG2 VARCHAR2(100);
+BEGIN
+AVG_SAL :=0;
+COUNTER :=0;
+MAN_ID:=MID;
+IF STATUS= NULL THEN
+MSG2:=default_working_project (MID);
+END IF;
+
+ IF MSG2 = 'GRAND' THEN
+ MSG := 'SALARY IS 15000' ;
+ ELSIF MSG2='MEDIUM' THEN
+ MSG := 'SALARY IS 9000' ;
+ ELSE
+ MSG := 'SALARY IS 5000' ;
+ END IF ;
+RETURN MSG ; --return the message
+EXCEPTION
+--you must return value from this section also
+WHEN NO_DATA_FOUND THEN
+RETURN 'NULL MANAGER' ;
+WHEN TOO_MANY_ROWS THEN
+RETURN 'More than one MANAGER found.' ;
+WHEN OTHERS THEN
+RETURN 'Some unknown error occurred.' ;
+END ;
+/
+
+DECLARE
+MESSAGE VARCHAR2(100) ;
+BEGIN
+MESSAGE :=default_salary(60) ;
+DBMS_OUTPUT.PUT_LINE(MESSAGE) ;
+END ;
+/
+
+
+
+
+----3
+
+CREATE OR REPLACE TRIGGER check_entry
+AFTER INSERT
+ON EMP
+FOR EACH ROW
+DECLARE
+MAN_ID NUMBER ;
+MSG VARCHAR2(100);
+COUNTER NUMBER;
+BEGIN
+MAN_ID :=:NEW.MANAGER_ID;
+FOR R IN (SELECT MANAGER_ID FROM EMP WHERE MANAGER_ID=MAN_ID)
+LOOP
+COUNTER:= COUNTER+1;
+END LOOP;
+IF COUNTER<=1 THEN
+MSG := 'NOTHING';
+END IF;
+RETURN MSG;
+
+--DBMS_OUTPUT.PUT_LINE('Hello World2');
+END ;
+/
+insert into emp(employee_id,name, salary, manager_id, department_id, working_project) values 
+('623', 'Rahim', 15000, 100, 90, 'GRAND' );
+
+
+
+
+
+

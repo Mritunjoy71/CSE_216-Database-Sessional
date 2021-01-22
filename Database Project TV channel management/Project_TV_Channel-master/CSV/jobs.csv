@@ -1,0 +1,1001 @@
+JOB_ID,JOB_TITLE,MIN_SALARY,MAX_SALARY
+Health Coach II,Compensation Analyst,47255,70678
+Human Resources Assistant III,Account Executive,31964,19938
+Electrical Engineer,Geologist IV,18423,11646
+Chemical Engineer,Database Administrator II,27681,31112
+Administrative Assistant IV,Pharmacist,47417,63598
+Research Assistant I,Automation Specialist II,14198,72203
+Software Engineer I,Business Systems Development Analyst,26859,12715
+Assistant Media Planner,Professor,29261,78488
+Office Assistant III,Geologist II,15956,41382
+General Manager,Research Assistant IV,27160,94074
+Data Coordiator,Librarian,5906,83972
+Administrative Assistant II,Data Coordiator,42659,33433
+Librarian,Chemical Engineer,9646,42448
+Tax Accountant,Project Manager,49554,55201
+VP Marketing,VP Sales,27790,71704
+Administrative Assistant II,Civil Engineer,41056,71103
+Chemical Engineer,Office Assistant I,41799,48216
+Staff Scientist,Human Resources Manager,9326,57557
+Developer IV,Executive Secretary,48492,34233
+Civil Engineer,Budget/Accounting Analyst I,25232,79015
+Marketing Assistant,Research Associate,25461,12952
+Safety Technician II,VP Sales,29345,79322
+Administrative Assistant IV,Speech Pathologist,35915,69337
+Community Outreach Specialist,Office Assistant III,40115,66355
+Office Assistant II,Help Desk Technician,5270,83288
+Developer II,Business Systems Development Analyst,21419,31256
+Nurse,Senior Financial Analyst,40203,49323
+Marketing Manager,Marketing Manager,12487,71785
+Physical Therapy Assistant,Professor,25378,19648
+Paralegal,Biostatistician I,23309,54336
+Information Systems Manager,Data Coordiator,16144,17545
+Database Administrator II,General Manager,49765,47088
+Office Assistant III,Quality Control Specialist,45917,35465
+Software Consultant,Executive Secretary,47316,17068
+Health Coach I,Research Associate,15072,12056
+Project Manager,Geologist II,33664,66616
+Assistant Media Planner,Dental Hygienist,39265,63112
+Paralegal,Food Chemist,17946,87481
+Design Engineer,Staff Accountant I,25173,51887
+Social Worker,Recruiting Manager,22987,97681
+VP Sales,Account Executive,19314,39775
+Environmental Specialist,Accounting Assistant III,39698,50902
+Senior Developer,Paralegal,14718,49750
+Assistant Media Planner,Occupational Therapist,27622,24965
+Librarian,Cost Accountant,43972,37970
+General Manager,Media Manager I,19180,53448
+Senior Cost Accountant,Account Coordinator,43484,42748
+Professor,Media Manager III,44690,62346
+Quality Control Specialist,Accounting Assistant III,30027,53095
+Research Assistant III,Analyst Programmer,9741,61809
+Quality Engineer,Software Engineer IV,33291,77498
+Senior Sales Associate,Operator,38302,42730
+Product Engineer,Geological Engineer,40696,13975
+Senior Financial Analyst,GIS Technical Architect,25690,73627
+Automation Specialist III,Tax Accountant,36785,26731
+Software Consultant,Help Desk Technician,45819,16023
+Pharmacist,Product Engineer,17476,88859
+Senior Cost Accountant,Junior Executive,17323,71431
+Legal Assistant,Sales Associate,16978,98015
+Senior Editor,Automation Specialist IV,6869,82164
+Registered Nurse,GIS Technical Architect,39781,78617
+Clinical Specialist,Statistician II,46693,76361
+Desktop Support Technician,Structural Engineer,33920,26272
+Legal Assistant,Office Assistant III,12911,18782
+Social Worker,Quality Control Specialist,17809,58475
+Quality Engineer,GIS Technical Architect,42120,54084
+Developer IV,Financial Advisor,5931,96755
+Chief Design Engineer,Paralegal,31760,27189
+Senior Sales Associate,Desktop Support Technician,28662,72251
+Software Test Engineer III,Geologist III,22339,54640
+Research Associate,Administrative Officer,15265,89247
+Geologist IV,Administrative Assistant II,37936,54766
+Quality Engineer,Desktop Support Technician,26290,67519
+Software Test Engineer II,Dental Hygienist,6567,53329
+Internal Auditor,Geologist II,34009,30262
+Analog Circuit Design manager,Speech Pathologist,48596,87257
+Marketing Assistant,Operator,29730,77891
+Sales Associate,Administrative Assistant I,30209,29690
+Accountant II,Nurse Practicioner,22426,76124
+Recruiter,Pharmacist,27681,55386
+Nurse Practicioner,Cost Accountant,28939,84462
+Editor,Data Coordiator,11588,91628
+Staff Scientist,Physical Therapy Assistant,44152,56232
+Administrative Assistant III,Web Developer III,8819,84747
+Sales Representative,VP Sales,48901,16356
+Librarian,Business Systems Development Analyst,34944,84035
+Compensation Analyst,Engineer III,20288,84527
+GIS Technical Architect,Geological Engineer,9270,55310
+Tax Accountant,VP Product Management,10901,54212
+Human Resources Manager,Food Chemist,13276,21916
+Environmental Specialist,VP Marketing,48776,78708
+Systems Administrator I,Developer III,34836,28861
+Dental Hygienist,Occupational Therapist,37799,41040
+Clinical Specialist,Assistant Professor,44016,59346
+Biostatistician III,Librarian,29477,77149
+Administrative Assistant I,Desktop Support Technician,29300,32865
+Desktop Support Technician,Accounting Assistant I,14085,63873
+Junior Executive,Recruiter,9948,61734
+Senior Cost Accountant,Statistician II,48194,63941
+VP Marketing,Clinical Specialist,5739,86833
+Assistant Professor,Professor,49155,95945
+Actuary,Civil Engineer,41831,15892
+Assistant Manager,Civil Engineer,9973,81419
+Librarian,Research Assistant III,20228,47781
+Account Representative I,Technical Writer,35179,54211
+VP Accounting,Media Manager I,42108,14953
+Librarian,Editor,45623,78182
+Senior Cost Accountant,Nurse Practicioner,21756,47374
+Administrative Assistant IV,Cost Accountant,7955,33093
+Sales Associate,Operator,45370,25717
+Environmental Tech,Director of Sales,39252,83821
+Programmer Analyst II,Project Manager,26266,81467
+Desktop Support Technician,VP Quality Control,14543,98867
+Director of Sales,Information Systems Manager,10425,29618
+Director of Sales,Research Nurse,39796,67727
+Budget/Accounting Analyst II,Analyst Programmer,5708,24138
+Professor,Geologist IV,12510,51482
+Senior Editor,Civil Engineer,46941,16195
+GIS Technical Architect,Actuary,24109,71654
+Quality Engineer,Biostatistician III,6375,63273
+Environmental Tech,Tax Accountant,21768,99606
+Internal Auditor,Executive Secretary,34482,20681
+Chief Design Engineer,Social Worker,24588,82060
+Legal Assistant,Business Systems Development Analyst,33613,51456
+Assistant Media Planner,Assistant Professor,40594,12340
+Chief Design Engineer,Research Assistant I,44869,63038
+Internal Auditor,Assistant Media Planner,42012,90235
+Speech Pathologist,Media Manager I,13864,85852
+Desktop Support Technician,Mechanical Systems Engineer,48827,37083
+Internal Auditor,Social Worker,46516,92690
+Sales Representative,Senior Financial Analyst,16887,15149
+Structural Engineer,Quality Engineer,19079,58161
+Administrative Officer,Web Developer IV,16138,26799
+Assistant Media Planner,Web Designer I,21267,93542
+Senior Editor,Analyst Programmer,12472,69082
+Marketing Assistant,Senior Editor,34165,88598
+Data Coordiator,Associate Professor,47528,41112
+Occupational Therapist,Media Manager IV,38056,80302
+Office Assistant I,Data Coordiator,38550,16905
+Administrative Officer,Environmental Specialist,41854,18039
+Tax Accountant,Occupational Therapist,37829,61921
+Accountant III,Sales Associate,24609,50943
+Legal Assistant,Executive Secretary,11219,90724
+Cost Accountant,Electrical Engineer,33313,51169
+Structural Engineer,Structural Engineer,35576,94370
+Accounting Assistant I,Technical Writer,10864,37842
+Recruiting Manager,Junior Executive,17609,25904
+Technical Writer,Geological Engineer,18566,35856
+General Manager,Marketing Assistant,42275,53529
+Software Test Engineer I,Accountant II,42043,42718
+Desktop Support Technician,Food Chemist,11767,25335
+Assistant Media Planner,Business Systems Development Analyst,21499,46694
+Programmer Analyst III,Office Assistant III,46387,67319
+Recruiter,Nurse Practicioner,49504,42116
+Assistant Professor,VP Sales,9001,50845
+Administrative Officer,Occupational Therapist,14530,10865
+VP Product Management,VP Sales,47141,17379
+Accountant I,Pharmacist,8388,21062
+Information Systems Manager,Sales Representative,36823,30193
+General Manager,Software Consultant,22053,86657
+Biostatistician IV,Nurse Practicioner,9299,85053
+Clinical Specialist,Business Systems Development Analyst,9409,31662
+VP Accounting,Social Worker,7528,79806
+Budget/Accounting Analyst II,Statistician III,45581,47338
+Civil Engineer,Technical Writer,36779,98406
+Geological Engineer,Compensation Analyst,17057,92302
+Professor,Accountant II,16927,55985
+Chief Design Engineer,VP Quality Control,24800,94669
+Graphic Designer,VP Marketing,24258,57009
+Computer Systems Analyst II,Automation Specialist IV,10781,11915
+Quality Engineer,Engineer II,17022,56944
+Electrical Engineer,Senior Editor,32525,53769
+Associate Professor,Nuclear Power Engineer,23253,81353
+Chief Design Engineer,Electrical Engineer,48911,35282
+Nurse Practicioner,Health Coach I,49225,21881
+Automation Specialist II,Internal Auditor,49566,28076
+Safety Technician II,Health Coach IV,21711,18908
+Cost Accountant,GIS Technical Architect,44789,26019
+Research Associate,Structural Engineer,11021,17063
+Executive Secretary,VP Sales,23269,91969
+Staff Accountant III,VP Product Management,23368,13727
+Database Administrator I,Assistant Media Planner,38487,59376
+Help Desk Technician,Electrical Engineer,49142,62155
+Nurse Practicioner,Staff Scientist,48598,95444
+Computer Systems Analyst IV,Legal Assistant,36180,17758
+Pharmacist,VP Sales,16211,87849
+Web Developer I,Speech Pathologist,25203,67942
+Data Coordiator,Help Desk Technician,9391,70877
+Professor,Teacher,9393,33193
+Nurse,Business Systems Development Analyst,32088,39047
+Director of Sales,VP Marketing,46816,25209
+Recruiter,Community Outreach Specialist,20474,99352
+Senior Financial Analyst,Administrative Officer,33588,11586
+Junior Executive,Compensation Analyst,15089,21703
+Junior Executive,Developer I,38730,82489
+Safety Technician IV,GIS Technical Architect,28700,85977
+Assistant Media Planner,Technical Writer,49262,80035
+Nurse,Research Assistant III,42513,91856
+Actuary,Programmer IV,22739,69091
+Help Desk Operator,Legal Assistant,23934,92361
+Financial Analyst,VP Sales,17861,84690
+Media Manager II,Sales Associate,25410,91215
+Software Engineer I,Social Worker,8144,20348
+Analyst Programmer,Financial Analyst,36572,30441
+Programmer Analyst IV,Staff Accountant I,22084,93729
+Staff Accountant III,Payment Adjustment Coordinator,32570,84686
+Registered Nurse,Marketing Assistant,19360,19578
+Quality Control Specialist,Statistician I,47665,53064
+Quality Control Specialist,Mechanical Systems Engineer,42386,58486
+Developer II,Office Assistant III,43838,62396
+VP Product Management,Senior Editor,9555,79829
+Executive Secretary,Legal Assistant,41876,85447
+Quality Engineer,Office Assistant I,27680,73289
+Health Coach III,Executive Secretary,8457,96290
+Safety Technician III,Analyst Programmer,31159,90878
+Research Assistant I,Budget/Accounting Analyst I,24628,25918
+Administrative Officer,Staff Accountant III,15112,38885
+Clinical Specialist,Actuary,24524,74749
+Office Assistant II,Database Administrator II,24642,95665
+Recruiting Manager,Human Resources Assistant II,11016,49926
+Human Resources Assistant III,Automation Specialist III,35059,17310
+Programmer Analyst I,Assistant Media Planner,14468,67115
+Information Systems Manager,Product Engineer,45086,98757
+Quality Engineer,VP Marketing,14021,64159
+Research Associate,Quality Engineer,48113,80384
+Senior Developer,Director of Sales,12859,20535
+Community Outreach Specialist,Senior Quality Engineer,22269,11869
+Human Resources Manager,Financial Advisor,17594,53087
+Programmer I,Tax Accountant,22285,17384
+Compensation Analyst,Desktop Support Technician,41779,45433
+Occupational Therapist,Analyst Programmer,38732,58273
+Senior Cost Accountant,Pharmacist,45609,11723
+Pharmacist,Nuclear Power Engineer,21315,14051
+Programmer Analyst I,Account Executive,22729,98309
+Payment Adjustment Coordinator,Operator,23431,55515
+Community Outreach Specialist,Software Engineer I,25986,76998
+Accountant IV,Quality Control Specialist,9597,66528
+Computer Systems Analyst I,Associate Professor,22821,73188
+VP Product Management,Programmer III,28484,43383
+Senior Editor,Senior Sales Associate,46321,79462
+Sales Representative,Systems Administrator III,23647,82488
+Clinical Specialist,Financial Advisor,14496,22329
+Human Resources Assistant II,Professor,27055,39481
+Environmental Specialist,Operator,14344,20130
+Cost Accountant,General Manager,20005,63903
+Systems Administrator IV,Computer Systems Analyst III,31677,86264
+Sales Representative,Help Desk Operator,31656,67811
+Civil Engineer,Biostatistician III,23536,58338
+Human Resources Manager,Automation Specialist IV,22926,48452
+Junior Executive,VP Product Management,13184,94506
+Executive Secretary,Community Outreach Specialist,40468,25553
+Product Engineer,VP Product Management,7977,20146
+Developer III,Human Resources Manager,39245,13944
+Account Coordinator,Statistician III,40906,95740
+Assistant Professor,Chemical Engineer,43710,32463
+Assistant Manager,Operator,6631,86222
+Research Assistant IV,Safety Technician III,12456,94701
+Senior Financial Analyst,Financial Analyst,48717,31366
+Media Manager III,Mechanical Systems Engineer,42358,35134
+Accounting Assistant IV,General Manager,40888,83048
+Software Engineer I,Recruiting Manager,18121,19147
+Quality Control Specialist,Senior Sales Associate,7068,70998
+Sales Associate,Structural Engineer,7812,73072
+Clinical Specialist,Occupational Therapist,45400,12494
+Physical Therapy Assistant,Software Consultant,34060,50191
+VP Quality Control,Recruiting Manager,48777,33631
+Help Desk Operator,Software Consultant,21682,48990
+Health Coach II,Junior Executive,5833,63269
+Environmental Tech,VP Product Management,37735,94187
+Account Coordinator,Civil Engineer,29937,95992
+Safety Technician II,Account Representative II,48217,98496
+Social Worker,Mechanical Systems Engineer,36596,51369
+Director of Sales,Statistician II,41309,92617
+Graphic Designer,Human Resources Manager,19844,65530
+Pharmacist,Biostatistician III,15650,73579
+Environmental Specialist,Cost Accountant,9181,32122
+Director of Sales,Web Developer III,29108,47387
+Human Resources Manager,Senior Developer,49201,40082
+Administrative Assistant I,Help Desk Technician,22074,76294
+Staff Accountant IV,Health Coach I,28445,40324
+Geological Engineer,Business Systems Development Analyst,28160,91912
+Staff Scientist,Junior Executive,18883,96543
+VP Sales,Pharmacist,44200,69780
+Assistant Professor,Data Coordiator,35168,20871
+Speech Pathologist,Civil Engineer,30838,85815
+Food Chemist,Technical Writer,21579,49595
+Librarian,Statistician III,13040,44363
+Senior Developer,Biostatistician I,35659,97776
+Cost Accountant,Clinical Specialist,32882,46004
+Help Desk Technician,Operator,40223,16811
+Web Designer IV,Senior Quality Engineer,12513,42485
+Research Assistant IV,Social Worker,15194,94214
+Assistant Manager,Teacher,18814,25451
+Account Representative III,Librarian,12500,81339
+Human Resources Assistant III,Human Resources Assistant I,12025,75687
+Help Desk Technician,Web Designer III,33000,12896
+Software Consultant,Cost Accountant,35529,73726
+Software Test Engineer IV,Marketing Assistant,26740,28523
+Mechanical Systems Engineer,Safety Technician IV,20933,58455
+Project Manager,Software Test Engineer III,5013,12324
+Design Engineer,Senior Sales Associate,26731,67385
+Web Designer I,Research Nurse,19102,92359
+Financial Analyst,Environmental Specialist,13565,87551
+Recruiter,Electrical Engineer,36035,58624
+Media Manager I,Senior Sales Associate,45599,69095
+Account Representative IV,Web Designer I,9191,90374
+Accounting Assistant II,VP Product Management,13054,92142
+Dental Hygienist,Technical Writer,23550,50380
+Research Nurse,VP Accounting,14235,26265
+VP Product Management,Associate Professor,37006,10353
+Administrative Officer,Systems Administrator I,10820,75375
+Sales Associate,Media Manager I,40185,38929
+Associate Professor,Geological Engineer,32220,12893
+Account Executive,VP Sales,40582,64537
+Pharmacist,Business Systems Development Analyst,43996,40551
+Structural Analysis Engineer,Assistant Manager,35742,24204
+Community Outreach Specialist,Account Executive,39157,22775
+VP Quality Control,Account Executive,5267,40712
+Account Executive,Paralegal,42807,68199
+Internal Auditor,General Manager,20072,34992
+VP Sales,Actuary,21051,13341
+Programmer II,VP Quality Control,22925,55479
+Administrative Officer,VP Marketing,36025,34895
+Budget/Accounting Analyst IV,Computer Systems Analyst IV,32631,82540
+Environmental Specialist,Project Manager,28412,19367
+Developer II,Computer Systems Analyst III,11885,10484
+Dental Hygienist,Structural Analysis Engineer,8682,28614
+Human Resources Assistant I,Research Nurse,48478,71053
+Dental Hygienist,Senior Sales Associate,31665,97896
+VP Product Management,Senior Quality Engineer,16984,51671
+Senior Quality Engineer,Database Administrator I,12513,90603
+Clinical Specialist,Financial Analyst,37229,53689
+Civil Engineer,Compensation Analyst,33625,44971
+Administrative Officer,Software Test Engineer I,17905,93328
+Senior Sales Associate,Marketing Manager,46144,60641
+Community Outreach Specialist,Cost Accountant,10514,43013
+Cost Accountant,Junior Executive,30081,43288
+Chemical Engineer,Human Resources Assistant II,43774,20309
+Media Manager II,Graphic Designer,8356,57660
+Quality Engineer,Recruiter,42958,55549
+Senior Financial Analyst,Senior Developer,29699,88868
+Marketing Manager,General Manager,28495,24566
+Registered Nurse,Quality Engineer,23053,72489
+Engineer II,Financial Advisor,46947,45568
+Electrical Engineer,Sales Representative,7828,48941
+Executive Secretary,Nurse,42227,59638
+Administrative Officer,Database Administrator IV,12223,38920
+Statistician I,Design Engineer,38859,53698
+Research Associate,Analog Circuit Design manager,17713,29086
+Internal Auditor,Information Systems Manager,11429,62188
+Chemical Engineer,Analyst Programmer,20632,93129
+Physical Therapy Assistant,Statistician IV,48222,84830
+Office Assistant II,Desktop Support Technician,44821,44932
+Nuclear Power Engineer,Occupational Therapist,48928,32997
+Sales Representative,Senior Sales Associate,32049,42979
+Business Systems Development Analyst,Senior Quality Engineer,17988,34977
+Engineer I,Editor,35902,92034
+Payment Adjustment Coordinator,Occupational Therapist,12342,99365
+Statistician II,Food Chemist,6798,10257
+Registered Nurse,Safety Technician I,26116,67268
+VP Accounting,Assistant Professor,41618,19750
+Assistant Professor,Media Manager III,17239,73533
+Programmer IV,Geological Engineer,18767,93355
+Recruiter,Environmental Tech,42910,81954
+Structural Engineer,Assistant Manager,35771,29605
+Senior Financial Analyst,Research Associate,6660,50257
+Electrical Engineer,Account Representative I,10787,90056
+Sales Representative,Teacher,7394,77388
+VP Marketing,Senior Quality Engineer,24489,54242
+Programmer I,Data Coordiator,46066,49427
+Business Systems Development Analyst,Nuclear Power Engineer,24973,20531
+Human Resources Assistant II,Marketing Assistant,20619,56629
+VP Quality Control,Graphic Designer,39762,75755
+Analyst Programmer,Structural Engineer,8561,30024
+Physical Therapy Assistant,Project Manager,46587,76084
+Recruiting Manager,Quality Control Specialist,14653,49961
+Help Desk Operator,Structural Analysis Engineer,6449,91782
+Project Manager,Pharmacist,40739,10332
+Environmental Specialist,Budget/Accounting Analyst III,48852,11277
+Office Assistant II,Design Engineer,45863,67192
+Tax Accountant,General Manager,33783,29730
+Director of Sales,Occupational Therapist,16414,33054
+Technical Writer,Database Administrator II,10979,22812
+Senior Sales Associate,Product Engineer,47967,76751
+Graphic Designer,Account Representative II,49357,20247
+Automation Specialist III,Payment Adjustment Coordinator,15799,59271
+Actuary,Teacher,7146,79919
+Systems Administrator III,VP Product Management,28392,51843
+Biostatistician II,Administrative Officer,8751,26596
+Computer Systems Analyst I,Cost Accountant,46620,58713
+Programmer Analyst III,Technical Writer,11918,33933
+Account Executive,Tax Accountant,24747,78530
+VP Product Management,Geological Engineer,48333,83326
+Account Executive,Developer II,22539,91526
+Systems Administrator III,Programmer III,45579,79626
+Biostatistician I,Quality Engineer,27080,60874
+Financial Advisor,Software Test Engineer III,11289,91349
+Financial Analyst,Executive Secretary,31972,64523
+Analog Circuit Design manager,Business Systems Development Analyst,31031,92185
+Quality Control Specialist,Analyst Programmer,36726,96768
+Accounting Assistant I,Director of Sales,39322,99169
+Accountant II,Occupational Therapist,23534,39018
+Mechanical Systems Engineer,Data Coordiator,11339,61037
+Director of Sales,Account Executive,35294,48272
+Assistant Manager,Chief Design Engineer,15682,99361
+Systems Administrator I,Project Manager,21239,47999
+Assistant Media Planner,Analog Circuit Design manager,48294,73789
+Professor,Assistant Media Planner,49377,81122
+Quality Engineer,Civil Engineer,42542,63722
+Database Administrator II,Registered Nurse,35622,35352
+Actuary,Junior Executive,35717,93103
+Senior Developer,Account Coordinator,43250,62266
+Staff Scientist,Community Outreach Specialist,24805,65462
+Information Systems Manager,Pharmacist,6152,32117
+Professor,VP Sales,42639,46723
+Assistant Professor,Administrative Officer,15268,60487
+Compensation Analyst,Assistant Professor,32038,71423
+Systems Administrator III,Nuclear Power Engineer,22529,23707
+Web Designer IV,Payment Adjustment Coordinator,28255,81976
+Financial Advisor,Product Engineer,5528,95142
+Structural Analysis Engineer,Nurse Practicioner,48916,17051
+Marketing Manager,Web Developer IV,9068,26848
+Recruiting Manager,Nurse,36791,46115
+Compensation Analyst,Director of Sales,28501,53859
+Chemical Engineer,Financial Analyst,12250,46034
+Help Desk Operator,GIS Technical Architect,29606,38966
+Safety Technician IV,Account Coordinator,32229,53947
+Tax Accountant,Registered Nurse,22590,21596
+Account Executive,Environmental Tech,6188,40368
+Structural Analysis Engineer,Legal Assistant,25133,40956
+Human Resources Manager,Assistant Professor,7985,95072
+VP Quality Control,VP Quality Control,46502,97841
+Information Systems Manager,Junior Executive,6401,19656
+Nuclear Power Engineer,Human Resources Manager,30614,77866
+Accountant I,Civil Engineer,14553,80426
+Mechanical Systems Engineer,Actuary,30239,99140
+Media Manager II,Human Resources Manager,33469,36167
+Electrical Engineer,Human Resources Assistant III,9736,50386
+VP Marketing,Staff Scientist,35922,93553
+Cost Accountant,Compensation Analyst,47496,80300
+VP Product Management,Human Resources Manager,21743,57795
+Account Executive,VP Marketing,32007,71266
+Staff Scientist,Marketing Assistant,29911,21667
+Environmental Specialist,VP Sales,26062,14702
+General Manager,Director of Sales,21130,32188
+Senior Cost Accountant,Accounting Assistant IV,7098,86253
+Staff Accountant II,Environmental Tech,29906,62334
+Engineer I,Legal Assistant,29795,90084
+Legal Assistant,Statistician IV,31728,40786
+Physical Therapy Assistant,Financial Advisor,31561,68607
+Social Worker,Operator,49384,28988
+Product Engineer,Office Assistant IV,34619,70598
+VP Quality Control,Research Assistant I,48872,61879
+Director of Sales,Payment Adjustment Coordinator,11457,20035
+Accounting Assistant II,Staff Accountant I,23059,39980
+Geologist III,Design Engineer,41885,80274
+Product Engineer,Media Manager III,34456,15197
+Systems Administrator IV,Chief Design Engineer,44667,89575
+Account Coordinator,Design Engineer,18951,92697
+Financial Analyst,Developer IV,10079,61533
+Accounting Assistant I,VP Sales,11690,27948
+Speech Pathologist,Mechanical Systems Engineer,29761,14208
+Health Coach IV,Account Representative IV,21848,79262
+Nurse,Biostatistician IV,28888,79629
+Community Outreach Specialist,Senior Quality Engineer,32070,99091
+Administrative Assistant II,Cost Accountant,10145,44924
+Payment Adjustment Coordinator,Executive Secretary,29063,70777
+Assistant Media Planner,Product Engineer,27589,51187
+Health Coach II,Staff Scientist,23755,27844
+Marketing Assistant,Web Designer I,20955,42510
+Human Resources Assistant II,Marketing Manager,30293,86309
+Data Coordiator,Mechanical Systems Engineer,19033,19127
+Environmental Tech,Paralegal,47437,60736
+Civil Engineer,Librarian,20715,33268
+Technical Writer,Social Worker,15367,88763
+Accountant II,Account Representative IV,34495,38135
+Financial Advisor,Marketing Assistant,39155,45982
+Cost Accountant,Dental Hygienist,19987,92756
+Internal Auditor,Chief Design Engineer,28222,94147
+Quality Engineer,Programmer Analyst IV,35370,23422
+Staff Accountant II,Developer IV,44905,41295
+Marketing Manager,Accounting Assistant I,32980,62289
+Office Assistant IV,Financial Analyst,47216,42000
+Legal Assistant,Software Test Engineer II,48420,59674
+Senior Editor,Product Engineer,12289,96857
+Marketing Manager,Environmental Tech,27007,48174
+Help Desk Technician,Structural Analysis Engineer,45725,85325
+Biostatistician III,Tax Accountant,40308,33877
+Assistant Manager,Teacher,30420,98604
+General Manager,Internal Auditor,8415,72629
+Internal Auditor,Social Worker,46691,64186
+General Manager,Chief Design Engineer,40881,63164
+Physical Therapy Assistant,Software Engineer II,10916,99028
+Editor,Occupational Therapist,30842,19262
+Junior Executive,Staff Scientist,29954,16134
+Software Engineer III,Sales Representative,7355,62574
+Marketing Assistant,Payment Adjustment Coordinator,18295,41992
+Registered Nurse,Web Designer III,15038,43127
+Research Nurse,Assistant Media Planner,6010,67008
+Paralegal,Account Representative I,9139,21313
+Paralegal,Automation Specialist II,5687,92976
+Research Assistant II,VP Quality Control,26865,29452
+Environmental Specialist,Electrical Engineer,15991,47286
+Safety Technician III,Recruiting Manager,49752,90874
+Developer II,Nurse Practicioner,6574,83293
+Software Engineer II,Recruiter,14238,49785
+Assistant Media Planner,Design Engineer,33146,12669
+Registered Nurse,VP Accounting,34422,29320
+Editor,Technical Writer,8316,25123
+Mechanical Systems Engineer,VP Sales,7170,22789
+Staff Accountant II,Internal Auditor,36039,36217
+Senior Editor,Electrical Engineer,6460,49153
+Sales Associate,Junior Executive,37113,62027
+Editor,Clinical Specialist,30793,42465
+Senior Cost Accountant,Electrical Engineer,23129,46090
+Statistician IV,Developer I,23796,89663
+Nuclear Power Engineer,Research Assistant IV,12696,17996
+Desktop Support Technician,Senior Developer,41001,48545
+Financial Advisor,Paralegal,41351,40678
+Actuary,Professor,16402,21915
+Analyst Programmer,Account Representative IV,37499,99182
+Project Manager,Assistant Professor,18634,86765
+Systems Administrator II,Tax Accountant,9911,59585
+VP Marketing,Senior Developer,47063,86350
+Paralegal,Help Desk Technician,36542,93462
+VP Quality Control,Senior Developer,20451,34203
+VP Marketing,Social Worker,46798,98515
+Speech Pathologist,Actuary,47412,63057
+Computer Systems Analyst IV,Community Outreach Specialist,15333,10741
+Quality Engineer,Quality Control Specialist,19055,10077
+Occupational Therapist,Account Representative II,46684,83853
+Desktop Support Technician,Accounting Assistant III,48724,33365
+Environmental Tech,Analyst Programmer,36136,51903
+Geologist II,Business Systems Development Analyst,28754,35473
+Director of Sales,Teacher,16346,96595
+Civil Engineer,Food Chemist,14399,48032
+Administrative Officer,Administrative Officer,12045,24668
+Programmer Analyst III,Senior Developer,14650,73339
+Research Associate,Technical Writer,9077,55526
+Senior Financial Analyst,Actuary,17545,68474
+Sales Associate,Financial Advisor,47925,28343
+Nurse,Human Resources Assistant I,19200,90645
+Environmental Specialist,Analog Circuit Design manager,35705,46570
+Payment Adjustment Coordinator,Computer Systems Analyst III,20678,73074
+Chemical Engineer,Geological Engineer,44200,71100
+Operator,Cost Accountant,5151,52103
+Geologist I,Recruiting Manager,28551,53989
+Health Coach IV,Senior Editor,29928,33963
+Financial Analyst,Help Desk Operator,29025,59540
+Account Representative I,VP Sales,9361,16554
+Research Nurse,Information Systems Manager,30546,80663
+Research Assistant III,Chief Design Engineer,40602,22179
+Programmer Analyst IV,GIS Technical Architect,9061,38320
+General Manager,Design Engineer,10906,54398
+Executive Secretary,Administrative Officer,18366,31110
+VP Quality Control,Automation Specialist II,31038,89923
+Computer Systems Analyst I,Teacher,39743,33730
+Assistant Professor,Actuary,28088,36180
+Operator,Chief Design Engineer,11795,75049
+Payment Adjustment Coordinator,Financial Analyst,30160,74062
+Software Test Engineer II,Business Systems Development Analyst,12091,10937
+Biostatistician IV,Senior Developer,26519,94979
+Account Executive,Sales Associate,13275,26553
+Technical Writer,Health Coach III,19293,13187
+Accounting Assistant II,Chief Design Engineer,26219,19467
+Mechanical Systems Engineer,Staff Scientist,15937,60583
+Geological Engineer,Occupational Therapist,34570,90396
+Senior Developer,Programmer IV,17203,88602
+Marketing Assistant,Automation Specialist I,47058,22144
+Software Engineer I,Chief Design Engineer,24320,34276
+Account Coordinator,Professor,25759,23353
+Analyst Programmer,GIS Technical Architect,15948,94869
+Associate Professor,Health Coach III,42968,19556
+Senior Editor,Systems Administrator II,33303,35272
+Human Resources Manager,Web Designer II,10838,48526
+Tax Accountant,Editor,26070,44826
+Design Engineer,Junior Executive,32873,60449
+Biostatistician I,Developer III,12879,58778
+Computer Systems Analyst II,Recruiter,7492,14929
+Professor,Professor,26559,70430
+Internal Auditor,Food Chemist,43930,67990
+Recruiter,Pharmacist,32079,51759
+Nurse Practicioner,Payment Adjustment Coordinator,43982,92502
+Financial Analyst,Engineer IV,41440,39597
+Associate Professor,Help Desk Operator,8914,37194
+Recruiter,VP Product Management,13225,76697
+Product Engineer,GIS Technical Architect,48370,59896
+Information Systems Manager,VP Sales,43239,37561
+Research Nurse,Quality Control Specialist,38837,25404
+Mechanical Systems Engineer,Nuclear Power Engineer,33184,98073
+Quality Control Specialist,Executive Secretary,5206,84944
+Data Coordiator,Developer I,26670,41136
+Chemical Engineer,Programmer Analyst III,18725,58878
+Biostatistician III,Mechanical Systems Engineer,39279,14732
+Software Test Engineer IV,Accounting Assistant IV,28886,50003
+Human Resources Assistant III,Nurse Practicioner,6820,70763
+Assistant Professor,Physical Therapy Assistant,31908,94809
+Technical Writer,Director of Sales,41250,47673
+Programmer III,Recruiting Manager,43212,91826
+Graphic Designer,Environmental Tech,29222,83940
+Help Desk Technician,Compensation Analyst,46114,80174
+Junior Executive,Health Coach III,9440,11822
+Graphic Designer,Registered Nurse,31655,13359
+Software Test Engineer III,Social Worker,21305,86061
+Teacher,Research Nurse,40019,22935
+Analog Circuit Design manager,Mechanical Systems Engineer,18792,94840
+Project Manager,Sales Associate,44242,53417
+VP Product Management,Software Engineer IV,28918,91902
+Operator,Compensation Analyst,34882,17508
+Chief Design Engineer,Programmer III,6367,11653
+Environmental Tech,Internal Auditor,27700,48044
+Chief Design Engineer,Statistician IV,19378,44301
+Account Executive,Civil Engineer,13636,71700
+Software Engineer I,Director of Sales,6736,85081
+Accounting Assistant IV,Community Outreach Specialist,34313,67934
+Speech Pathologist,Assistant Media Planner,8815,61740
+Account Representative II,VP Accounting,33693,63355
+Human Resources Assistant I,Budget/Accounting Analyst IV,13383,53596
+Associate Professor,Software Test Engineer III,42540,83646
+Speech Pathologist,Senior Developer,18712,78348
+Statistician I,Web Designer II,30135,17832
+Quality Control Specialist,Accountant I,23409,45407
+Dental Hygienist,Marketing Manager,14047,62473
+Software Engineer I,Pharmacist,49733,49622
+Programmer Analyst II,VP Sales,8902,78957
+VP Marketing,Software Consultant,8095,51229
+Geological Engineer,Office Assistant I,38817,18751
+Programmer IV,Environmental Tech,29686,31896
+Help Desk Operator,Legal Assistant,6272,58900
+Staff Accountant I,Graphic Designer,38310,65979
+Analyst Programmer,Software Consultant,38463,36147
+Physical Therapy Assistant,Programmer Analyst III,10293,61824
+Office Assistant II,Analyst Programmer,45510,92784
+Media Manager II,Mechanical Systems Engineer,5945,11306
+VP Product Management,Database Administrator I,42025,56762
+Research Nurse,Librarian,38270,65506
+Project Manager,Help Desk Operator,26256,86706
+Data Coordiator,Clinical Specialist,39259,39075
+Engineer IV,VP Accounting,10052,20251
+VP Sales,Health Coach IV,14660,35964
+Senior Editor,Nuclear Power Engineer,9132,53876
+Chemical Engineer,Assistant Media Planner,12350,80116
+Help Desk Operator,Teacher,9153,69770
+Account Coordinator,Director of Sales,45041,80314
+Professor,Assistant Professor,45547,93791
+Programmer I,Senior Developer,15905,67560
+Analog Circuit Design manager,Account Executive,46025,85314
+Staff Accountant IV,Actuary,23263,63566
+Sales Representative,Help Desk Technician,25430,71873
+Biostatistician III,Business Systems Development Analyst,26550,13291
+Legal Assistant,Nurse Practicioner,35218,32418
+Quality Engineer,Statistician III,44185,39205
+VP Accounting,Sales Associate,11742,24118
+Actuary,Pharmacist,22265,75234
+VP Quality Control,Quality Control Specialist,20353,15440
+Financial Analyst,Chemical Engineer,7384,22803
+Environmental Specialist,Analog Circuit Design manager,34603,98514
+VP Accounting,Office Assistant IV,32402,19889
+Biostatistician III,Systems Administrator III,24729,36657
+Quality Engineer,Paralegal,18658,39773
+Cost Accountant,Assistant Media Planner,5496,72398
+General Manager,Accounting Assistant II,24788,19983
+Dental Hygienist,Staff Accountant IV,17259,27282
+Web Developer IV,Director of Sales,36969,72776
+Assistant Manager,Analog Circuit Design manager,24828,30472
+Technical Writer,Staff Scientist,16188,12116
+Media Manager II,Web Designer III,35034,60557
+Sales Associate,Teacher,22839,79550
+Budget/Accounting Analyst IV,Business Systems Development Analyst,24092,57193
+Food Chemist,Civil Engineer,47711,49722
+Dental Hygienist,Administrative Officer,8288,40057
+Data Coordiator,Web Designer IV,25719,49332
+Nurse,Marketing Assistant,18647,95980
+Community Outreach Specialist,Administrative Officer,31703,18513
+Analyst Programmer,Staff Scientist,11972,30681
+Financial Advisor,Software Engineer II,37892,65090
+Help Desk Technician,Assistant Media Planner,18498,83892
+Quality Engineer,Physical Therapy Assistant,44370,26110
+Research Associate,Statistician III,24335,91393
+Computer Systems Analyst III,Analyst Programmer,10436,76026
+Civil Engineer,Director of Sales,25545,16682
+Programmer II,Teacher,27411,59301
+Electrical Engineer,Assistant Manager,36054,74444
+Associate Professor,Engineer III,28458,87707
+Assistant Professor,Biostatistician II,37920,12126
+Legal Assistant,VP Sales,35756,90552
+Product Engineer,Media Manager III,11320,16920
+VP Sales,Senior Developer,21033,28324
+Operator,Clinical Specialist,38318,75598
+Statistician III,Developer IV,40073,48098
+Assistant Manager,Civil Engineer,47833,92443
+Sales Associate,Actuary,17104,60456
+Geologist III,Occupational Therapist,46034,86159
+Registered Nurse,Software Engineer I,39704,38931
+VP Product Management,Research Nurse,12793,52532
+Structural Engineer,Paralegal,19000,86746
+Safety Technician I,Environmental Specialist,32445,41073
+Desktop Support Technician,VP Sales,37177,41995
+VP Product Management,Senior Sales Associate,42407,29361
+Registered Nurse,Biostatistician II,6802,76330
+Developer I,General Manager,24790,61220
+Chief Design Engineer,Account Coordinator,19756,76226
+Speech Pathologist,Web Designer II,41175,15328
+Data Coordiator,Administrative Assistant IV,5138,67415
+Compensation Analyst,Senior Editor,40225,30165
+Tax Accountant,Administrative Officer,31525,98026
+Help Desk Operator,Assistant Professor,9640,59372
+Systems Administrator III,Programmer Analyst II,34150,68838
+Engineer II,Mechanical Systems Engineer,34927,12084
+Dental Hygienist,Help Desk Operator,19016,29818
+Professor,Analyst Programmer,9451,92550
+Executive Secretary,Pharmacist,30702,76471
+Design Engineer,Quality Engineer,12583,67807
+Administrative Officer,VP Accounting,8130,25830
+Occupational Therapist,Sales Associate,21262,26196
+Recruiting Manager,Clinical Specialist,43284,28868
+Software Consultant,Staff Accountant I,15826,25515
+Civil Engineer,Associate Professor,43861,98058
+Librarian,Analog Circuit Design manager,49914,48436
+Project Manager,VP Product Management,39161,60785
+Mechanical Systems Engineer,Software Test Engineer IV,18408,85095
+Web Designer II,Administrative Assistant II,43258,83275
+Design Engineer,Financial Analyst,19309,83211
+Marketing Manager,Payment Adjustment Coordinator,44648,55769
+Structural Analysis Engineer,Actuary,47937,52355
+Junior Executive,Financial Analyst,6305,82751
+Nuclear Power Engineer,GIS Technical Architect,7082,46078
+Senior Financial Analyst,Safety Technician IV,46765,55510
+Environmental Tech,Business Systems Development Analyst,41883,64710
+Computer Systems Analyst II,Software Engineer IV,21124,35740
+VP Marketing,General Manager,32099,71214
+Senior Editor,Desktop Support Technician,43870,84155
+Recruiter,Recruiter,14139,15524
+Marketing Assistant,Paralegal,24205,51113
+Nuclear Power Engineer,Help Desk Operator,40215,59000
+Chemical Engineer,Sales Associate,10469,54105
+Environmental Tech,Geologist III,35024,57882
+Analog Circuit Design manager,Professor,24606,78791
+Paralegal,Accountant II,40900,68269
+Analyst Programmer,VP Product Management,43355,62290
+Financial Analyst,Project Manager,27503,90453
+Actuary,Community Outreach Specialist,37146,49319
+Physical Therapy Assistant,Internal Auditor,39174,47015
+Marketing Manager,VP Accounting,17449,68393
+Mechanical Systems Engineer,Geological Engineer,10129,62741
+Physical Therapy Assistant,Internal Auditor,10257,57258
+Registered Nurse,Engineer I,17733,18082
+Chemical Engineer,Marketing Manager,35100,59285
+Desktop Support Technician,Accounting Assistant III,33338,15603
+Physical Therapy Assistant,Programmer Analyst I,45384,47931
+Administrative Assistant IV,Office Assistant I,26983,88116
+Product Engineer,Web Developer II,30435,78886
+General Manager,Information Systems Manager,13121,56266
+Senior Cost Accountant,Financial Analyst,43681,54559
+Nurse,Social Worker,39498,67534
+Quality Engineer,Recruiter,45566,90662
+Biostatistician IV,Analog Circuit Design manager,14061,74842
+Staff Accountant II,Compensation Analyst,48397,97824
+Nurse,VP Quality Control,38685,19044
+Help Desk Technician,Recruiter,27184,55444
+Staff Accountant II,Legal Assistant,12712,12108
+Executive Secretary,General Manager,11074,30405
+Junior Executive,Executive Secretary,22770,55174
+Business Systems Development Analyst,Account Coordinator,6289,84051
+Desktop Support Technician,Senior Quality Engineer,37895,41175
+Nurse,Professor,45606,78017
+Financial Advisor,Registered Nurse,34358,53554
+Biostatistician I,Biostatistician II,5924,48712
+Accounting Assistant IV,Data Coordiator,26301,19818
+Paralegal,Account Executive,7096,50002
+Account Executive,Legal Assistant,43970,36184
+Recruiting Manager,Administrative Assistant II,20451,79635
+Executive Secretary,Pharmacist,11408,53570
+Civil Engineer,Recruiting Manager,19627,19296
+Assistant Manager,Food Chemist,24344,55113
+Engineer II,Marketing Assistant,42122,79106
+Software Test Engineer I,Financial Analyst,10112,51375
+Community Outreach Specialist,Physical Therapy Assistant,6667,37003
+Staff Scientist,Food Chemist,22255,11852
+Dental Hygienist,Software Engineer IV,49212,48407
+Social Worker,Actuary,29921,24603
+Desktop Support Technician,Senior Developer,7328,86169
+Developer III,Senior Financial Analyst,45180,97269
+Accountant III,Software Consultant,13014,56419
+Information Systems Manager,Compensation Analyst,32509,83132
+Senior Cost Accountant,Office Assistant I,10522,14021
+Environmental Specialist,Financial Analyst,46425,95870
+Professor,Web Designer IV,30390,13296
+Nurse,Financial Advisor,22778,44164
+Data Coordiator,Quality Engineer,42698,46706
+Senior Quality Engineer,Data Coordiator,17984,42098
+Chemical Engineer,Chief Design Engineer,31248,54370
+Information Systems Manager,Registered Nurse,17818,73868
+Office Assistant I,Sales Associate,32837,24970
+Staff Accountant II,Business Systems Development Analyst,29224,98840
+Design Engineer,Human Resources Manager,35590,99469
+Project Manager,Chief Design Engineer,10953,13459
+Systems Administrator II,Compensation Analyst,41948,39158
+Geological Engineer,Analyst Programmer,42775,93756
+Registered Nurse,Structural Analysis Engineer,16824,33571
+Staff Scientist,Account Executive,18605,82364
+VP Marketing,Desktop Support Technician,13714,62221
+Environmental Tech,Human Resources Assistant III,44255,34754
+Nurse Practicioner,Administrative Officer,5898,81865
+Speech Pathologist,Help Desk Technician,42905,30261
+Account Executive,Research Assistant IV,11076,72884
+Quality Control Specialist,Associate Professor,45180,80272
+Engineer III,Software Engineer II,37087,52286
+Business Systems Development Analyst,Media Manager I,35476,72117
+Geologist I,Senior Sales Associate,20894,19753
+Web Developer IV,Design Engineer,31791,38011
+Food Chemist,Safety Technician II,44951,91868
+Paralegal,Senior Developer,9422,48150
+Safety Technician II,Community Outreach Specialist,45530,49398
+Programmer III,Sales Representative,29231,81131
+Media Manager IV,Office Assistant IV,12761,55791
+Accounting Assistant III,Financial Analyst,17628,58035
+Operator,Software Test Engineer I,16927,88395
+Environmental Tech,VP Product Management,49806,50758
+Administrative Assistant I,Office Assistant IV,14603,55311
+Statistician IV,Developer I,38829,71128
+Mechanical Systems Engineer,Project Manager,42878,11185
+Geological Engineer,Assistant Manager,24321,16982
+Nurse,Tax Accountant,10897,37197
+Help Desk Technician,Senior Quality Engineer,30175,94003
+Structural Engineer,Account Coordinator,38223,44630
+Marketing Manager,Compensation Analyst,15318,77168
+Statistician I,Media Manager IV,10298,56634
+Dental Hygienist,Cost Accountant,15729,25569
+Software Consultant,Marketing Assistant,17312,21214
+Analyst Programmer,Quality Control Specialist,19930,59783
+Web Developer IV,Community Outreach Specialist,42012,51455
+Food Chemist,Editor,21835,66062
+Automation Specialist I,Statistician I,11638,13637
+Computer Systems Analyst II,Physical Therapy Assistant,31599,11669
+Data Coordiator,Social Worker,26625,10116
+Project Manager,Nurse Practicioner,28254,94372
+Assistant Media Planner,VP Product Management,47114,26255
+Statistician III,VP Quality Control,37406,97995
+Senior Financial Analyst,Automation Specialist II,27072,74931
+Business Systems Development Analyst,Human Resources Manager,34800,69999
+Health Coach II,Senior Developer,37914,40317
+Design Engineer,Sales Associate,28231,59402
+Physical Therapy Assistant,Data Coordiator,45392,72637
+Civil Engineer,Information Systems Manager,46262,52060
+Environmental Specialist,Media Manager III,45013,15093
+Internal Auditor,Clinical Specialist,35456,59021
+Internal Auditor,Product Engineer,7561,60660
+Product Engineer,Clinical Specialist,34633,74499
+Teacher,Accounting Assistant III,34944,90919
+Account Executive,Senior Developer,36597,27386
+Structural Engineer,Health Coach III,23047,36232
+Dental Hygienist,General Manager,8495,41776
+Administrative Assistant IV,Cost Accountant,41352,44566
+Human Resources Assistant I,Information Systems Manager,34483,25353
+Programmer III,Research Assistant II,5999,25763
+VP Marketing,Senior Editor,47435,15856
+Information Systems Manager,Account Executive,15595,49096
+VP Accounting,Administrative Officer,29036,21815
+Community Outreach Specialist,Computer Systems Analyst II,46415,81475
+Cost Accountant,Executive Secretary,40815,11038
+Assistant Professor,Information Systems Manager,16360,99201
+Chief Design Engineer,Human Resources Assistant IV,27966,16463
+Assistant Manager,Nurse,39281,51887
+Office Assistant III,Executive Secretary,42918,61574
+Business Systems Development Analyst,Programmer Analyst IV,14701,78649
+Business Systems Development Analyst,Financial Advisor,27888,67034
+Accountant I,Teacher,22441,57297
+Computer Systems Analyst II,VP Marketing,7626,12598
+Statistician IV,Financial Advisor,43032,68065
+Budget/Accounting Analyst III,Staff Scientist,42919,84491
+Nurse Practicioner,Human Resources Assistant III,21746,58639
+Programmer Analyst IV,Human Resources Manager,9179,22548
+Human Resources Assistant I,Nuclear Power Engineer,35883,49828
+Senior Developer,Software Engineer IV,29108,16502
+Senior Sales Associate,Marketing Assistant,45502,11386
+Social Worker,VP Sales,10078,87870
+Nurse,Business Systems Development Analyst,36281,52696
+Technical Writer,Engineer II,34056,40749
+Legal Assistant,Speech Pathologist,36724,98077
+Assistant Manager,Nurse Practicioner,46957,46762
+Software Engineer III,Paralegal,24861,89966
+Paralegal,Executive Secretary,34705,63223
+Administrative Officer,Design Engineer,7369,18286
+Chief Design Engineer,Tax Accountant,24643,49747
+Senior Quality Engineer,Engineer II,45602,78813
+Chemical Engineer,Budget/Accounting Analyst II,20144,33415
+Nuclear Power Engineer,VP Product Management,30336,37210
+Speech Pathologist,Electrical Engineer,28063,14966
+Systems Administrator II,Financial Analyst,39659,40674
+VP Accounting,Cost Accountant,30992,93984
+Data Coordiator,Electrical Engineer,25145,43541
+Chemical Engineer,Staff Accountant I,6130,16044
+Biostatistician IV,GIS Technical Architect,31421,20188
+Sales Representative,Chemical Engineer,9891,97867
+VP Marketing,Senior Developer,29486,54353
+Budget/Accounting Analyst IV,Media Manager II,17631,33874
+General Manager,Pharmacist,8814,50902
+Database Administrator III,VP Sales,27274,88168
+Statistician I,Assistant Media Planner,9183,98528
+Programmer III,Nurse Practicioner,26870,72048
+Senior Financial Analyst,Dental Hygienist,20094,48973
+Sales Representative,Accounting Assistant IV,21628,27628
+Chemical Engineer,Occupational Therapist,25090,67882
+Compensation Analyst,Occupational Therapist,11928,19048
+Speech Pathologist,Desktop Support Technician,23620,53496
+Chief Design Engineer,Cost Accountant,29092,66061
+Environmental Tech,Marketing Manager,34336,91004
+Tax Accountant,Human Resources Assistant I,44165,85282
+Account Representative IV,Human Resources Assistant IV,24110,59856
+Senior Financial Analyst,Structural Analysis Engineer,16504,99123
+Staff Accountant IV,Pharmacist,17910,35336
+Information Systems Manager,Registered Nurse,29043,78973
+Programmer Analyst II,Statistician I,19517,84420
+Cost Accountant,Web Designer II,48523,11503
+Desktop Support Technician,Legal Assistant,25909,57421
+Human Resources Manager,Senior Quality Engineer,20305,29118
+Associate Professor,Assistant Professor,38467,57558
+Accounting Assistant I,Statistician III,45770,86449
+Office Assistant III,Cost Accountant,20897,56095
+Office Assistant II,Geologist I,15141,22467
+Recruiting Manager,Systems Administrator IV,22513,27526
+VP Quality Control,Legal Assistant,11285,35018
+Actuary,Database Administrator II,34382,96937
+Financial Analyst,Clinical Specialist,28193,53827
+Senior Quality Engineer,Marketing Manager,44013,98003
+Social Worker,Developer II,37667,10419
+Senior Quality Engineer,Accounting Assistant IV,11051,16847
+Registered Nurse,Financial Analyst,22673,85736
+Safety Technician III,Community Outreach Specialist,40343,55259
+Technical Writer,Editor,8125,52754
+Occupational Therapist,Programmer IV,8296,85037
+Web Designer IV,Speech Pathologist,31280,91365
+Systems Administrator II,VP Quality Control,37878,40103
+Senior Editor,Payment Adjustment Coordinator,23820,55963
+Marketing Manager,Human Resources Manager,38517,71511
+Internal Auditor,Assistant Media Planner,47199,52498
+Computer Systems Analyst I,Geological Engineer,20837,55535
+Professor,Senior Sales Associate,45096,78588
+Help Desk Operator,Editor,28660,99804
+GIS Technical Architect,Administrative Assistant III,30107,28801
+VP Accounting,Research Assistant II,26852,57551
+Desktop Support Technician,Community Outreach Specialist,24579,64156
+Associate Professor,Software Engineer IV,45480,69790
+Research Assistant IV,Cost Accountant,28271,30233
+Registered Nurse,Clinical Specialist,28113,49908
+Sales Representative,Internal Auditor,12965,25504
+VP Product Management,Quality Engineer,12950,71547
+Director of Sales,Senior Cost Accountant,25972,78769
+Assistant Professor,Senior Sales Associate,29098,73652
+Legal Assistant,Marketing Assistant,25393,57876
+Nurse,Media Manager III,15987,31756
+Media Manager IV,Assistant Media Planner,22995,85652
+Teacher,Associate Professor,10392,26854
+Assistant Professor,Speech Pathologist,35652,20223
+Recruiter,Information Systems Manager,32055,67696
+Analog Circuit Design manager,Systems Administrator II,11220,71438
+Teacher,Physical Therapy Assistant,5656,80669
+Systems Administrator I,Administrative Officer,10792,94736
+Actuary,Help Desk Technician,31695,57028
+Help Desk Operator,Help Desk Operator,47290,41696
+Civil Engineer,Environmental Tech,18918,78501
+Senior Editor,Research Nurse,16486,59345
+Geologist IV,Design Engineer,41100,80498
+Software Test Engineer I,Editor,28373,52567
+Food Chemist,Web Developer III,47489,78789
+Environmental Tech,Staff Accountant II,42040,29182
+Internal Auditor,Structural Analysis Engineer,36337,33498
+Speech Pathologist,Budget/Accounting Analyst IV,37417,75226
+Business Systems Development Analyst,Social Worker,42393,79852
+Sales Associate,Business Systems Development Analyst,19484,93681
+Administrative Assistant III,Librarian,44143,41025
+Tax Accountant,Safety Technician II,30848,10870
+Software Engineer I,Statistician IV,22722,94493
+Quality Control Specialist,Software Engineer II,6979,25527
+Junior Executive,Safety Technician IV,40550,46144
+Human Resources Assistant II,Recruiter,25972,10599
+Design Engineer,Librarian,31051,11317
+Cost Accountant,Analyst Programmer,6695,18756
+Quality Engineer,VP Product Management,39079,85063
+Analyst Programmer,Health Coach IV,44008,91995
+Help Desk Operator,Assistant Manager,41996,62532
+VP Accounting,Administrative Assistant III,19041,28891
+Geological Engineer,Data Coordiator,19106,45501
+Research Associate,Administrative Officer,10523,45879
+Developer IV,Analyst Programmer,33287,38969
+VP Product Management,Information Systems Manager,6327,32648
+Office Assistant I,Help Desk Operator,44331,17837
+Editor,Senior Developer,5706,47243
+Occupational Therapist,Cost Accountant,29341,22655
+Assistant Media Planner,Assistant Professor,20547,93752
+Web Developer IV,Dental Hygienist,20663,22446
+Professor,Mechanical Systems Engineer,38206,20845
+Automation Specialist IV,Sales Associate,33331,36319
+Chief Design Engineer,Marketing Manager,32005,36050
+Pharmacist,Legal Assistant,23450,56200
+Statistician II,Account Coordinator,49759,63999
+Senior Cost Accountant,Food Chemist,29433,39885
+Senior Sales Associate,Help Desk Operator,13336,32358
+Senior Financial Analyst,Chemical Engineer,15319,46679

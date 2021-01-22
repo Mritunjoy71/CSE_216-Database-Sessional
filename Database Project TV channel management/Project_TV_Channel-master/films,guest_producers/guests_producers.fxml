@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="583.0" prefWidth="778.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="main.Guests_producersFxmlController">
+   <children>
+      <TableView layoutX="7.0" layoutY="14.0" prefHeight="200.0" prefWidth="751.0">
+        <columns>
+          <TableColumn fx:id="c1" prefWidth="75.0" text="ID" />
+          <TableColumn fx:id="c2" prefWidth="75.0" text="FIRST_NAME" />
+            <TableColumn fx:id="c3" prefWidth="75.0" text="LAST_NAME" />
+            <TableColumn fx:id="c4" prefWidth="75.0" text="TYPE" />
+            <TableColumn fx:id="c5" prefWidth="75.0" text="DESIGNATION" />
+            <TableColumn fx:id="c6" prefWidth="75.0" text="ORGANIZATION" />
+            <TableColumn fx:id="c7" prefWidth="75.0" text="EMAIL" />
+            <TableColumn fx:id="c8" prefWidth="75.0" text="PHONE_NUMBER" />
+            <TableColumn fx:id="c9" prefWidth="75.0" text="AGE" />
+            <TableColumn fx:id="c10" prefWidth="75.0" text="LOCATION_ID" />
+        </columns>
+      </TableView>
+      <ListView fx:id="list" layoutX="14.0" layoutY="227.0" onMouseClicked="#onMouseAction" prefHeight="335.0" prefWidth="200.0" />
+      <Label layoutX="240.0" layoutY="234.0" prefHeight="7.0" prefWidth="55.0" text="ID" />
+      <TextField fx:id="t1" layoutX="234.0" layoutY="251.0" promptText="id" />
+      <TextField fx:id="t2" layoutX="234.0" layoutY="301.0" promptText="first_name" />
+      <TextField fx:id="t3" layoutX="234.0" layoutY="355.0" promptText="last_name" />
+      <TextField fx:id="t4" layoutX="233.0" layoutY="411.0" promptText="type" />
+      <TextField fx:id="t5" layoutX="233.0" layoutY="464.0" promptText="designation" />
+      <TextField fx:id="t6" layoutX="234.0" layoutY="518.0" promptText="organization" />
+      <TextField fx:id="t7" layoutX="415.0" layoutY="251.0" promptText="email" />
+      <TextField fx:id="t8" layoutX="415.0" layoutY="309.0" promptText="phone_number" />
+      <TextField fx:id="t9" layoutX="415.0" layoutY="355.0" promptText="age" />
+      <TextField fx:id="t10" layoutX="415.0" layoutY="411.0" promptText="location_id" />
+      <Label layoutX="239.0" layoutY="283.0" text="FIRST_NAME" />
+      <Label layoutX="241.0" layoutY="330.0" text="LAST_NAME" />
+      <Label layoutX="239.0" layoutY="387.0" text="TYPE" />
+      <Label layoutX="235.0" layoutY="440.0" text="DESIGNATION" />
+      <Label layoutX="239.0" layoutY="495.0" text="ORGANIZATION" />
+      <Label layoutX="415.0" layoutY="234.0" text="EMAIL" />
+      <Label layoutX="423.0" layoutY="292.0" />
+      <Label layoutX="418.0" layoutY="283.0" text="PHONE_NUMBER" />
+      <Label layoutX="418.0" layoutY="338.0" text="AGE" />
+      <Label layoutX="418.0" layoutY="387.0" text="LOCATION_ID" />
+      <Button fx:id="save" layoutX="415.0" layoutY="452.0" mnemonicParsing="false" onAction="#saveOnAction" text="Save" />
+      <Button fx:id="delete" layoutX="485.0" layoutY="452.0" mnemonicParsing="false" onAction="#deleteOnAction" text="Delete" />
+      <Button fx:id="update" layoutX="415.0" layoutY="491.0" mnemonicParsing="false" onAction="#updateOnAction" text="Update" />
+      <Button fx:id="refresh" layoutX="485.0" layoutY="491.0" mnemonicParsing="false" onAction="#refreshOnAction" text="Refresh" />
+      <Label layoutX="418.0" layoutY="522.0" prefHeight="43.0" prefWidth="149.0" />
+   </children>
+</AnchorPane>

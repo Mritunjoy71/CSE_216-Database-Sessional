@@ -1,0 +1,23 @@
+SELECT last_name
+from employees;
+where last_name IN ('_a%','_e%','_i%','_o%','_u%');
+
+SELECT (first_name||' '||last_name) fullname ,HIRE_DATE
+from EMPLOYEES
+where FIRST_NAME like '%i%' or FIRST_NAME like '%I%' or LAST_NAME <> 'S%' AND HIRE_DATE>='03-october-2006';  
+
+
+SELECT DEPARTMENT_ID,max(HIRE_DATE) firt_hire,min(HIRE_DATE) last_hire,avg(salary)
+from employees
+GROUP BY DEPARTMENT_ID
+having (avg(SALARY) between 6000 and 12000) and DEPARTMENT_ID is NOT NULL ;
+
+
+select LOCATION_ID ,count(*)
+from DEPARTMENTS
+GROUP BY LOCATION_ID
+ORDER BY  LOCATION_ID asc;
+
+SELECT COUNTRY_ID,COUNTRY_NAME
+from COUNTRIES
+where length(COUNTRY_NAME )<8;

@@ -1,0 +1,4 @@
+Following one is an example 
+select text from user_source where type='FUNCTION' and name ='GET_EMPLOYEES_FOR_MANAGER' order by line,text;
+
+*use capital letters inside the quotations, i.e., type value and name value.

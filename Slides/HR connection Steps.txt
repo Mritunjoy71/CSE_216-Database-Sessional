@@ -1,0 +1,12 @@
+1. First go to SQL plus and connect  to system with 
+username: sys as sysdba
+password: 123 (iac password)
+
+2. Then give the following command:
+alter user hr identified by hr account unlock;
+
+3. Then test the connection with following command:
+connect hr
+When prompted for password give 'hr' as input. 
+If it displays connection successful , then connection is 
+set up properly.

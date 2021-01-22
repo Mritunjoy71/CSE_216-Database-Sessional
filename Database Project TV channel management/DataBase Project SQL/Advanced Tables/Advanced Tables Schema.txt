@@ -1,0 +1,11 @@
+1.Table_name: Casting
+	I.Cast_id(pk: 251-800)
+	II.first_name
+	III.Last_name
+	IV.Gender
+	V.Email
+	VI.Mobile_no.
+	VII.Address
+	IX.Designation
+	XI.Date_of_birth
+	

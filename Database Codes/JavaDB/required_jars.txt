@@ -1,0 +1,21 @@
+MySQL
+----------
+mysql-connector-java-5.1.35-bin.jar
+
+Oracle
+----------
+ojdbc6.jar
+
+PostgreSQL
+------------------
+postgresql-42.1.1.jar
+
+SQL Server
+----------------
+sqljdbc4.jar
+
+MongoDB
+---------------
+bson-3.4.2.jar
+mongodb-driver-3.4.2.jar
+mongodb-driver-core-3.4.2.jar

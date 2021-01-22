@@ -1,0 +1,6 @@
+1. For each employee print last name, salary, and job title. 
+2. For each department and job types, find the total number of employees working. Print 
+department names, job titles, and total employees working. 
+3. Find those employees whose earns the maximum salary in his/her department. (Use NOT EXISTS) 
+4. Find EMPLOYEE_ID of those employees who are not managers. (Use minus)
+5. Find the employees whose current job title is same as one of their previous job titles. (Use set operation)

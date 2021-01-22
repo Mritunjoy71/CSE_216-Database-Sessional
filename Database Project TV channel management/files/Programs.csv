@@ -1,0 +1,1001 @@
+Program_id,Emp_id,TRP,Program_name,Starting_time,Ending_time,Starting_Date,Ending_Date,Program_type,Sponsor,Number_of_Episodes
+243,12,355.116,Treeflex,4:30 PM,2:03 PM,12/3/2003,29/07/2001,Talk Show,GasLog Partners LP,65
+637,127,367.874,Y-find,5:46 AM,10:45 PM,9/8/2001,22/10/2010,Drama,Entertainment Gaming Asia Incorporated,23
+750,202,9.782,Span,9:46 AM,7:27 AM,18/10/2013,6/5/2012,Film,Tortoise Energy Infrastructure Corporation,0
+330,37,121.381,Pannier,9:05 AM,2:25 AM,26/09/2005,29/03/2011,Religious Program,Liberty Interactive Corporation,73
+409,200,393.384,Span,4:20 PM,4:00 PM,26/05/2010,25/12/2013,Sport,"Merrill Lynch & Co., Inc.",0
+356,218,266.907,Tampflex,3:22 PM,4:22 AM,25/03/2016,16/11/2003,Serial,"Builders FirstSource, Inc.",89
+224,97,237.36,Mat Lam Tam,2:03 PM,6:27 PM,23/05/2004,23/02/2001,Drama,Avenue Income Credit Strategies Fund,61
+249,94,129.994,Flowdesk,2:10 PM,7:59 AM,19/07/2011,1/1/2010,News,SpartanNash Company,16
+95,111,415.806,Voltsillam,1:27 PM,3:22 PM,6/11/2007,21/12/2015,Drama,"Goldman Sachs BDC, Inc.",36
+944,239,356.592,Biodex,11:30 AM,1:45 PM,20/12/2006,23/05/2016,News,National Storage Affiliates Trust,53
+203,227,454.908,Toughjoyfax,11:46 PM,5:24 AM,28/05/2004,4/10/2013,Talk Show,"BeiGene, Ltd.",30
+788,11,341.568,Bigtax,8:37 PM,4:38 PM,2/10/2000,5/4/2011,Film,"Peoples Bancorp of North Carolina, Inc.",0
+87,32,26.935,Prodder,8:45 PM,7:21 PM,30/11/2008,1/1/2016,Drama,"Equinix, Inc.",14
+22,196,346.49,Rank,12:31 AM,7:19 PM,12/2/2016,2/12/2002,Serial,"Conifer Holdings, Inc.",60
+160,117,94.157,Trippledex,11:04 PM,10:10 AM,1/10/2004,17/12/2011,Telefilm,X-Links Gold Shares Covered Call ETN,0
+546,9,65.492,Zathin,4:03 PM,10:13 PM,13/10/2006,19/12/2007,Film,"ASB Bancorp, Inc.",0
+675,105,454.754,Home Ing,9:28 PM,11:05 AM,23/05/2001,4/2/2000,Sport,"The Ensign Group, Inc.",0
+667,227,203.617,Wrapsafe,9:05 AM,11:20 AM,3/2/2012,2/4/2005,Audience Show,"Gulf Island Fabrication, Inc.",99
+835,249,138.392,Konklux,8:38 AM,6:03 PM,9/11/2005,29/06/2010,Drama,GlaxoSmithKline PLC,27
+279,243,192.335,Alpha,10:05 AM,10:38 PM,4/1/2014,22/12/2014,Religious Program,VivoPower International PLC,49
+848,13,405.834,Job,10:48 PM,12:51 PM,25/09/2001,11/6/2007,Aaaahhhhhhhhhhhhhhh!,"Alliance One International, Inc.",7
+811,32,456.741,Treeflex,9:48 PM,11:51 AM,19/08/2015,31/01/2000,Aaaahhhhhhhhhhh!,"Gabelli Equity Trust, Inc. (The)",87
+216,246,311.056,Alphazap,7:10 PM,6:38 PM,29/03/2006,2/9/2007,Aaaahhhhh!,State Bank Financial Corporation.,35
+645,203,386.625,Bigtax,2:20 AM,10:11 AM,15/05/2015,4/9/2008,Aaaahhhhhhhhhhhhhhh!,PIMCO California Municipal Income Fund III,92
+510,244,124.888,Zoolab,6:41 AM,12:18 PM,14/03/2004,21/07/2009,Aaaahhhhhhhh!,"Miragen Therapeutics, Inc.",37
+634,53,85.251,Pannier,12:04 AM,11:59 AM,13/05/2010,9/9/2004,Aaaahhhhhhhh!,Aegon NV,56
+471,159,86.174,Kanlam,7:49 AM,6:19 PM,29/09/2014,24/06/2005,Aaaahhhhhhhh!,Microbot Medical Inc. ,89
+871,170,428.862,Prodder,10:29 PM,12:44 AM,8/12/2006,11/6/2007,Aaaahhhhh!,Kennametal Inc.,50
+740,140,380.467,Holdlamis,7:01 AM,8:12 PM,17/03/2006,24/06/2012,Aaaahhhhhhhhh!,Liberty Global plc,80
+522,201,61.394,Voltsillam,12:03 AM,4:53 AM,11/11/2010,25/12/2010,Aaaahhhhhh!,"Royce Value Trust, Inc.",24
+269,160,161.159,Daltfresh,10:54 AM,11:55 AM,30/08/2015,22/09/2006,Aaaahhhhh!,PowerShares Global Water Portfolio,76
+426,144,301.978,Stronghold,11:02 PM,5:51 AM,14/09/2013,13/11/2004,Aaaahhhhhhhhh!,PowerShares Water Resources Portfolio,74
+718,11,249.983,Keylex,4:31 AM,4:01 PM,22/01/2013,19/01/2004,Aaaahhhhhh!,GP Investments Acquisition Corp.,98
+97,48,105.895,Sonsing,6:50 PM,5:14 AM,11/10/2015,12/12/2011,Aaaahhhhhhhhhhhh!,Generac Holdlings Inc.,47
+9,117,452.935,Tempsoft,10:13 AM,2:48 PM,15/05/2011,28/12/2002,Aaaahhhhhhhhhhhhhh!,NXT-ID Inc.,37
+693,157,169.265,Solarbreeze,5:14 AM,5:38 AM,25/08/2002,9/3/2011,Aaaahhhhhhhhhhhh!,First Trust Intermediate Duration Preferred & Income Fund,43
+805,235,451.518,Aerified,6:56 AM,11:07 AM,17/01/2004,28/04/2007,Aaaahhhhhhhhhhhh!,"Onvia, Inc.",27
+655,89,77.438,Cardify,11:32 PM,12:40 PM,20/07/2009,31/01/2011,Aaaahhh!,Saban Capital Acquisition Corp.,64
+410,164,80.387,Fixflex,10:12 AM,6:13 PM,9/2/2016,15/12/2002,Aaaahhhhhhhhhhh!,Nustar Energy L.P.,28
+206,129,151.432,Sonair,6:52 PM,10:20 AM,6/4/2002,19/07/2004,Aaaahhhhhhhhhhhhhh!,Advent Claymore Convertible Securities and Income Fund,97
+468,102,460.98,Fix San,12:47 PM,3:32 AM,15/02/2005,6/2/2001,Aaaahhhhhhhhhhhhh!,PowerShares S&P SmallCap Utilities Portfolio,62
+567,49,283.56,Biodex,10:58 AM,12:31 AM,27/10/2013,6/5/2009,Aaaahhhhhhhhhhhhh!,Janus Henderson Small/Mid Cap Growth Alpha ETF,28
+380,148,465.486,Ventosanzap,7:52 PM,10:30 PM,26/12/2016,26/12/2014,Aaaahhhhhhhhhhhhhhh!,Prudential Public Limited Company,43
+593,117,96.42,Latlux,11:10 AM,4:30 AM,15/12/2014,11/10/2003,Aaaahhhhh!,Minerals Technologies Inc.,14
+473,176,428.633,Bitchip,2:57 PM,5:39 AM,22/06/2003,24/05/2012,Aaaahhhhhhhh!,First Trust South Korea AlphaDEX Fund,68
+626,227,225.288,Lotlux,8:07 PM,5:30 PM,7/7/2008,27/05/2008,Aaaahhhhhhhhhh!,"Washington Trust Bancorp, Inc.",85
+815,31,56.311,Voltsillam,3:07 AM,2:07 AM,9/8/2014,10/11/2014,Aaaahhhh!,Universal Electronics Inc.,1
+30,163,386.786,Keylex,6:28 PM,2:55 PM,2/9/2006,2/10/2009,Aaaahhhhh!,Wix.com Ltd.,31
+266,6,331.739,Lotstring,5:34 PM,3:39 PM,21/10/2004,17/09/2006,Aaaahhhhhhhhhhhh!,Graco Inc.,61
+348,193,408.266,Hatity,4:18 AM,6:27 AM,5/8/2006,22/07/2010,Aaaahhhh!,"Cullen/Frost Bankers, Inc.",63
+543,184,431.218,Viva,5:51 PM,7:26 AM,30/07/2010,7/2/2016,Aaaahhhhhhhhhhhh!,"Genocea Biosciences, Inc.",99
+147,18,263.273,Gembucket,8:15 AM,2:23 AM,13/10/2012,31/01/2008,Aaaahhhhh!,"Argo Group International Holdings, Ltd.",37
+263,236,423.422,Sonair,9:06 AM,11:16 AM,18/09/2011,1/8/2010,Aaaahhhhhhhhhh!,Alliance California Municipal Income Fund Inc,2
+697,157,254.066,Treeflex,3:14 AM,1:47 AM,20/12/2003,19/11/2010,Aaaahhhhhh!,Madison Covered Call & Equity Strategy Fund,67
+925,38,433.407,Sonair,9:58 AM,8:30 AM,28/02/2012,6/9/2006,Aaaahhhhhhh!,"AMAG Pharmaceuticals, Inc.",92
+781,245,293.07,Tempsoft,6:17 AM,8:38 PM,10/12/2014,20/11/2002,Aaaahhhhhhhhhhhhh!,Kentucky First Federal Bancorp,94
+601,4,309.468,Aerified,1:27 AM,2:05 AM,6/8/2004,29/12/2007,Aaaahhhhhhhhhhhhh!,Synovus Financial Corp.,87
+663,208,478.407,Zoolab,4:14 AM,9:12 AM,8/11/2003,18/12/2008,Aaaahhh!,Sempra Energy,65
+908,143,45.117,Cardify,2:45 AM,2:26 AM,27/06/2013,20/12/2014,Aaaahhhhhhhh!,Golden Ocean Group Limited,27
+480,119,305.003,Alpha,5:50 AM,10:50 AM,9/10/2016,7/7/2008,Aaaahhhh!,Performant Financial Corporation,8
+702,37,128.929,Alpha,12:55 PM,3:20 AM,27/05/2010,5/8/2010,Aaaahhhhhhhhhh!,The Gabelli Healthcare & Wellness Trust,87
+159,217,228.898,Cardguard,8:31 PM,9:03 AM,1/5/2006,22/07/2010,Aaaahhhhhhhhhhhhh!,"Interface, Inc.",28
+154,243,164.718,Subin,8:50 PM,10:23 AM,8/3/2005,12/1/2008,Aaaahhhhhhh!,First Trust Asia Pacific Ex-Japan AlphaDEX Fund,5
+750,131,374.063,Zamit,3:10 PM,10:58 PM,3/12/2004,17/01/2010,Aaaahhhhhhhhhhhhhh!,WisdomTree Emerging Markets Quality Dividend Growth Fund,1
+768,173,195.872,Treeflex,12:43 AM,2:56 PM,27/08/2003,21/06/2015,Aaaahhhh!,Tonix Pharmaceuticals Holding Corp.,84
+827,232,98.642,Bytecard,3:08 PM,11:32 AM,5/11/2001,4/11/2004,Aaaahhhhhhhhhh!,"Southwest Gas Holdings, Inc.",89
+574,52,205.182,Solarbreeze,1:17 PM,4:14 PM,23/04/2009,20/06/2009,Aaaahhhh!,Tejon Ranch Co,94
+103,199,496.094,Voltsillam,8:46 PM,11:42 AM,31/10/2009,30/09/2007,Aaaahhhhhhhhhhhhhh!,Newtek Business Services Corp.,34
+846,104,175.361,Greenlam,1:06 PM,7:28 AM,24/11/2014,19/09/2015,Aaaahhhhhhhhh!,"Everbridge, Inc.",72
+97,73,477.59,Sonsing,7:24 PM,7:12 AM,13/08/2007,18/05/2003,Aaaahhhhhhhhhhhhhh!,"BroadSoft, Inc.",95
+232,231,425.6,Bitwolf,2:15 AM,11:49 PM,7/9/2000,3/3/2001,Aaaahhhh!,Teledyne Technologies Incorporated,34
+719,92,472.158,Tampflex,1:47 PM,1:13 PM,8/6/2012,2/8/2016,Aaaahhhhhhhhhhhhhh!,"NextEra Energy, Inc.",68
+423,142,81.413,Bigtax,8:01 AM,3:16 AM,9/9/2015,29/04/2015,Aaaahhhhhhhhhh!,Legacy Reserves LP,65
+802,54,283.73,Latlux,9:51 AM,6:47 PM,2/10/2002,16/01/2008,Aaaahhhhhhhhhhhhhhh!,PowerShares DWA SmallCap Momentum Portfolio,14
+782,218,16.431,Lotstring,8:44 PM,3:57 AM,13/09/2004,17/01/2011,Aaaahhh!,"Banco Santander, S.A.",95
+472,28,482.39,Veribet,5:29 PM,9:06 AM,25/10/2016,1/10/2003,Aaaahhhhhhh!,AGNC Investment Corp.,42
+676,103,442.887,Redhold,4:03 PM,6:26 AM,12/7/2013,14/01/2005,Aaaahhhhhhhhhhhhh!,"Bob Evans Farms, Inc.",3
+966,161,197.33,Greenlam,12:21 AM,8:26 PM,25/04/2007,8/7/2001,Aaaahhhh!,Monsanto Company,86
+17,235,104.761,Bitwolf,7:07 AM,2:58 PM,18/03/2003,13/04/2002,Aaaahhhhhhhhhhhhhh!,Stone Energy Corporation,5
+785,225,482.408,Otcom,12:38 AM,2:59 PM,16/05/2013,4/1/2004,Aaaahhhhhh!,Daily Journal Corp. (S.C.),8
+691,169,114.104,Span,9:05 AM,10:55 AM,15/11/2003,10/9/2010,Aaaahhhhhhhhhhhhhhh!,BlackRock Municipal Income Trust,82
+71,187,16.984,Rank,5:03 PM,10:37 AM,3/12/2012,18/01/2000,Aaaahhhhhhhhh!,Orix Corp Ads,40
+446,141,326.074,Bytecard,3:16 AM,4:37 PM,8/7/2016,4/6/2001,Aaaahhhhhhhhhh!,"Cascadian Therapeutics, Inc.",68
+545,77,498.32,Domainer,5:51 PM,4:37 PM,13/01/2013,22/10/2014,Aaaahhhhhhhhhhh!,Aspen Insurance Holdings Limited,17
+668,182,409.223,Y-find,5:13 AM,3:04 PM,22/12/2015,12/1/2006,Aaaahhhhhhhhhhhh!,ENSCO plc,56
+120,30,230.906,Fixflex,1:12 PM,11:29 AM,24/05/2016,6/3/2007,Aaaahhhhhh!,Allegion plc,18
+374,21,97.579,Daltfresh,9:31 PM,1:15 PM,28/07/2003,6/2/2013,Aaaahhhhhhh!,United Security Bancshares,5
+640,204,337.358,Bamity,4:43 PM,11:10 AM,15/12/2005,18/05/2002,Aaaahhhhhhhh!,"CNO Financial Group, Inc.",64
+21,243,225.908,Alpha,7:12 AM,2:21 AM,27/03/2012,16/05/2015,Aaaahhhhhhhhhhhhh!,Syngenta AG,56
+330,31,24.716,Home Ing,2:56 PM,11:46 PM,12/4/2002,7/6/2015,Aaaahhhhhh!,"Lifetime Brands, Inc.",38
+354,232,298.102,Biodex,1:35 AM,4:46 AM,31/08/2016,9/8/2014,Aaaahhhhh!,"Group 1 Automotive, Inc.",62
+532,14,103.16,Andalax,10:47 PM,2:56 PM,14/08/2009,20/06/2002,Aaaahhhhhhhhhhh!,Deutsche Bank AG,43
+1000,15,35.734,Bitwolf,7:42 AM,12:05 AM,12/1/2006,10/9/2008,Aaaahhhhhhhhhhhh!,Noah Holdings Ltd.,40
+70,186,96.395,Greenlam,3:38 PM,9:24 PM,10/2/2010,27/11/2015,Aaaahhhhhhh!,Euro Tech Holdings Company Limited,15
+428,53,214.348,Bigtax,10:09 PM,6:08 AM,10/8/2003,17/08/2005,Aaaahhhhhhhhhhh!,"Alteryx, Inc.",62
+858,195,466.932,Trippledex,9:35 AM,3:13 AM,1/9/2010,23/10/2007,Aaaahhhhhhhhhhhhhh!,"Hemisphere Media Group, Inc.",25
+111,37,44.194,Overhold,5:35 PM,11:19 PM,9/1/2012,26/10/2011,Aaaahhhhhhhhhh!,"T2 Biosystems, Inc.",88
+761,76,294.783,Y-Solowarm,12:12 PM,7:50 PM,21/12/2008,28/05/2010,Aaaahhh!,Jacobs Engineering Group Inc.,99
+105,157,92.398,Domainer,12:54 PM,4:41 AM,5/5/2008,23/12/2009,Aaaahhh!,Morgan Stanley,31
+896,211,488.838,Fix San,6:29 AM,9:16 PM,10/9/2007,20/08/2012,Aaaahhh!,LCI Industries ,94
+873,246,163.306,Subin,1:12 AM,3:18 PM,11/3/2004,21/10/2016,Aaaahhhhhhhhhhhh!,"MidWestOne Financial Group, Inc.",54
+211,78,12.386,Wrapsafe,12:46 AM,12:54 PM,11/2/2008,17/04/2012,Aaaahhhhhhh!,Vaalco Energy Inc,27
+856,81,210.503,Bitchip,3:46 PM,2:07 PM,2/8/2014,12/4/2012,Aaaahhhhhhhhhhhhhh!,Korn/Ferry International,7
+198,67,60.484,Biodex,10:26 AM,5:25 PM,17/05/2014,7/11/2010,Aaaahhhhhhh!,"Castlight Health, inc.",25
+946,159,188.171,Prodder,7:02 PM,8:50 PM,25/06/2016,16/08/2009,Aaaahhhhhhhhhhh!,"Viking Therapeutics, Inc.",31
+1000,20,144.93,Asoka,10:41 PM,11:30 AM,10/4/2007,30/05/2007,Aaaahhh!,Crawford & Company,3
+37,69,345.023,Fixflex,7:18 AM,12:03 AM,31/03/2006,7/12/2010,Aaaahhhhhhhh!,"BCE, Inc.",22
+823,140,390.217,Mat Lam Tam,2:09 AM,3:06 PM,12/6/2013,8/8/2010,Aaaahhhhhhhhh!,"Hudson Technologies, Inc.",4
+531,233,288.153,Lotlux,1:05 AM,12:37 AM,3/4/2016,20/02/2009,Aaaahhhhh!,"Bridgeline Digital, Inc.",28
+776,54,74.633,Lotstring,5:11 AM,10:29 AM,10/10/2008,16/09/2000,Aaaahhh!,"Citizens Financial Group, Inc.",54
+137,224,214.52,Voltsillam,3:49 PM,5:41 AM,7/10/2004,1/1/2014,Aaaahhhhh!,Marine Petroleum Trust,1
+822,214,460.986,Domainer,3:29 AM,4:49 PM,10/3/2013,17/08/2008,Aaaahhhhhhhhhhhhh!,iPath US Treasury 10-year Bear ETN,22
+978,8,462.994,Alpha,6:58 PM,5:14 PM,9/3/2009,11/2/2008,Aaaahhhhhh!,"Boston Private Financial Holdings, Inc.",14
+446,114,469.918,Domainer,10:56 AM,7:22 AM,30/09/2007,22/08/2002,Aaaahhhhhhhhhhhhh!,"KalVista Pharmaceuticals, Inc.",65
+63,187,173.179,Bitwolf,9:56 AM,4:51 PM,21/11/2010,29/08/2006,Aaaahhhhhhhhh!,Uniti Group Inc.,7
+373,249,401.223,Y-Solowarm,10:26 PM,12:15 AM,9/1/2017,23/01/2009,Aaaahhhhhhhhh!,"Alphatec Holdings, Inc.",27
+88,1,138.245,Duobam,6:16 PM,12:35 AM,17/08/2006,23/12/2006,Aaaahhhhhhhhhhh!,PureFunds ETFx HealthTech ETF,34
+1000,44,392.594,Redhold,11:38 PM,4:23 PM,8/8/2010,20/05/2002,Aaaahhhh!,Trimble Inc.,11
+561,226,186.37,Voltsillam,2:58 AM,3:11 PM,3/8/2015,10/1/2008,Aaaahhhhhhhhhhhhhhh!,Veeco Instruments Inc.,69
+131,208,426.547,Regrant,10:27 AM,7:35 AM,15/10/2005,27/07/2011,Aaaahhhhhhhhhhhhhhh!,Dana Incorporated,58
+475,194,190.242,Treeflex,2:39 AM,5:54 PM,6/9/2009,22/04/2016,Aaaahhhhhh!,Fidelity Nasdaq Composite Index Tracking Stock,93
+462,165,229.055,Sonsing,12:10 AM,1:23 PM,31/10/2005,14/07/2002,Aaaahhhhhhhhhhhhh!,"Interpublic Group of Companies, Inc. (The)",90
+474,186,343.797,Vagram,5:13 PM,9:53 PM,4/3/2013,4/8/2016,Aaaahhhh!,"Owens-Illinois, Inc.",82
+534,37,361.998,Ronstring,5:25 PM,6:16 PM,30/08/2010,23/03/2003,Aaaahhhhhhhhhhhhh!,"HealthEquity, Inc.",14
+484,106,76.933,Zoolab,4:02 PM,9:48 PM,1/5/2010,28/12/2001,Aaaahhhh!,NGL ENERGY PARTNERS LP,33
+679,162,173.578,Matsoft,9:33 AM,10:22 PM,9/2/2009,12/3/2001,Aaaahhhhhhhhhhhhh!,First Trust NASDAQ-100- Technology Index Fund,39
+655,238,255.143,Tin,7:27 PM,9:19 PM,12/8/2002,16/07/2004,Aaaahhhhh!,Solar Capital Ltd.,39
+651,241,198.279,Rank,8:57 AM,9:07 PM,23/12/2009,21/12/2002,Aaaahhhh!,Kenon Holdings Ltd.,12
+364,235,267.677,Fintone,1:39 PM,5:45 PM,14/04/2003,12/8/2004,Aaaahhhhhhhhhhh!,Invesco Plc,33
+979,235,111.84,Flowdesk,4:26 PM,4:19 AM,24/09/2006,19/07/2001,Aaaahhh!,Aircastle Limited,41
+475,179,360.885,Regrant,10:59 AM,3:33 AM,22/07/2002,5/9/2014,Aaaahhhhhhhhhhhhh!,Sharps Compliance Corp,93
+267,245,469.134,Ventosanzap,5:58 AM,3:24 AM,4/2/2010,9/1/2007,Aaaahhhhhhhhhhhh!,Amarin Corporation plc,4
+389,55,309.346,Domainer,7:16 AM,4:44 PM,7/7/2004,31/01/2005,Aaaahhhhhhhhhhh!,Cognex Corporation,63
+737,232,459.124,Ronstring,4:08 PM,1:21 AM,17/10/2016,20/12/2014,Aaaahhhhhhhhhhhh!,CBS Corporation,56
+679,68,9.962,Rank,3:01 AM,3:32 PM,30/03/2009,31/07/2002,Aaaahhhhh!,iShares MSCI Brazil Small-Cap ETF,42
+678,188,218.882,Viva,7:41 AM,9:13 AM,12/7/2000,13/09/2013,Aaaahhhhhhh!,Wintrust Financial Corporation,73
+763,236,66.209,Flowdesk,3:31 AM,9:47 AM,10/9/2015,25/07/2012,Aaaahhh!,Silver Run Acquisition Corporation II,19
+852,170,294.477,Cardify,12:33 PM,12:31 PM,1/4/2014,31/01/2003,Aaaahhhhhhhhh!,"Home Federal Bancorp, Inc. of Louisiana",98
+993,139,482.208,Prodder,10:55 AM,11:02 AM,2/6/2009,30/03/2003,Aaaahhhhhh!,"StarTek, Inc.",37
+619,138,1.713,Bytecard,6:47 PM,10:54 AM,3/4/2014,15/06/2001,Aaaahhh!,Horizon Technology Finance Corporation,4
+419,9,366.765,Tin,6:38 PM,7:50 PM,17/08/2007,23/08/2013,Aaaahhhhhhhhhhh!,Brookfield Business Partners L.P.,51
+925,119,295.477,Namfix,7:18 PM,10:15 AM,3/10/2002,15/10/2016,Aaaahhhhhh!,BB&T Corporation,15
+108,249,88.11,Holdlamis,5:08 PM,3:32 AM,1/12/2010,4/6/2016,Aaaahhhhhhhhhhhhh!,Patheon N.V.,59
+337,194,48.725,Quo Lux,6:05 AM,8:54 AM,2/11/2014,27/10/2012,Aaaahhhhhhhhhh!,Monotype Imaging Holdings Inc.,16
+244,70,338.691,Redhold,10:22 AM,7:36 PM,30/09/2014,6/7/2016,Aaaahhhhhhh!,"National Health Investors, Inc.",84
+654,123,182.459,Duobam,7:47 AM,12:36 PM,30/07/2008,17/02/2006,Aaaahhhhhhhh!,"MainSource Financial Group, Inc.",7
+611,76,367.277,Cardify,3:32 AM,8:11 PM,17/04/2003,8/10/2009,Aaaahhhhhhhhhhhhh!,"Ominto, Inc.",17
+556,164,246.188,Voyatouch,10:21 AM,9:25 AM,30/12/2010,14/02/2013,Aaaahhhhhhhhhhhhhhh!,"Full House Resorts, Inc.",85
+362,99,396.662,Sonsing,8:24 AM,4:12 PM,9/3/2002,11/2/2001,Aaaahhhhhhhhhhh!,Kemper Corporation,55
+193,221,419.206,Trippledex,1:31 AM,12:36 AM,16/11/2005,22/10/2014,Aaaahhh!,CF Corporation,89
+77,25,381.185,Bamity,11:28 AM,5:59 AM,23/05/2008,23/09/2013,Aaaahhhhhh!,Frank&#39;s International N.V.,63
+936,108,348.151,Cookley,8:46 AM,1:55 PM,25/11/2015,13/06/2005,Aaaahhhhhhhhhhhh!,STRATS Trust,53
+162,211,269.965,Sub-Ex,12:14 AM,4:47 AM,2/8/2009,11/3/2005,Aaaahhhhhhh!,Cinedigm Corp,61
+308,26,29.447,Tempsoft,10:13 AM,2:16 AM,20/08/2001,30/11/2001,Aaaahhhhhhhhhhhhhh!,General Finance Corporation,60
+944,8,216.185,Fixflex,11:41 AM,11:22 PM,26/09/2011,4/6/2005,Aaaahhhhh!,Tech Data Corporation,16
+106,74,396.809,Overhold,7:13 AM,8:59 PM,6/7/2002,27/05/2004,Aaaahhhhhhhhhh!,Ducommun Incorporated,35
+576,164,152.393,Subin,4:41 AM,8:22 AM,24/02/2012,10/6/2011,Aaaahhhhhhhhh!,Occidental Petroleum Corporation,43
+905,8,409.245,Latlux,4:34 PM,5:57 AM,24/10/2000,20/09/2005,Aaaahhhhhhhhhhh!,Blackstone GSO Senior Floating Rate Term Fund,99
+545,46,147.111,Vagram,6:50 AM,7:25 PM,29/04/2014,23/03/2005,Aaaahhhhhhh!,First Trust TCW Opportunistic Fixed Income ETF,28
+628,66,480.961,Regrant,7:47 PM,2:43 AM,27/08/2001,13/07/2001,Aaaahhhhhh!,WAVE Life Sciences Ltd.,76
+882,21,131.492,Stim,4:20 AM,11:21 PM,14/03/2008,5/5/2014,Aaaahhhhhhhhhhh!,Torchmark Corporation,28
+26,101,336.799,Temp,8:56 AM,9:42 PM,10/8/2014,11/7/2005,Aaaahhhhhhhhhhhhhhh!,Two Harbors Investments Corp,38
+146,8,235.281,Toughjoyfax,11:52 AM,3:16 PM,17/09/2004,16/03/2012,Aaaahhhhhhhh!,Teekay LNG Partners L.P.,55
+513,203,79.413,Y-find,8:57 AM,3:30 AM,24/01/2004,30/11/2016,Aaaahhhhh!,KB Home,40
+784,137,369.488,Wrapsafe,7:54 PM,4:37 AM,17/11/2016,4/6/2015,Aaaahhhhhhhhhhh!,Gerdau S.A.,87
+948,164,262.635,Trippledex,5:30 AM,11:08 PM,19/02/2008,13/05/2006,Aaaahhhh!,"MoSys, Inc.",12
+536,107,12.947,Y-Solowarm,4:51 PM,4:47 AM,26/12/2005,19/12/2000,Aaaahhhhh!,"Banco Santander, S.A.",2
+637,32,205.791,Ventosanzap,4:09 PM,1:16 PM,14/05/2012,11/8/2006,Aaaahhhhhhhhhh!,Astrotech Corporation,76
+440,230,148.503,Zamit,2:18 PM,8:10 AM,21/01/2008,19/06/2012,Aaaahhhh!,GATX Corporation,43
+280,12,24.665,Stronghold,9:20 AM,11:04 AM,29/06/2008,5/10/2015,Aaaahhhhhhhhhhh!,UBS AG,22
+657,66,385.444,Flowdesk,7:28 PM,12:53 AM,17/06/2003,19/01/2011,Aaaahhhhhhhh!,Highpower International Inc,88
+464,185,50.115,Lotlux,3:08 PM,8:27 PM,14/12/2014,19/07/2010,Aaaahhhhhhh!,"CommerceHub, Inc.",15
+334,192,292.439,Konklux,10:42 PM,2:24 PM,22/03/2015,13/09/2007,Aaaahhh!,TAT Technologies Ltd.,43
+48,20,443.008,Keylex,1:37 PM,10:21 AM,9/7/2006,7/8/2013,Aaaahhhhhhhh!,GMS Inc.,80
+355,14,389.579,Lotstring,11:01 PM,1:51 PM,4/10/2004,2/11/2000,Aaaahhhhhhhhhhhhhh!,Astronics Corporation,23
+582,61,467.636,Overhold,5:24 AM,4:58 AM,13/12/2013,10/5/2014,Aaaahhhhhhh!,"Mitek Systems, Inc.",86
+97,30,277.089,Job,5:11 PM,6:35 PM,21/06/2011,22/12/2013,Aaaahhhhhhhhhhhhh!,"Customers Bancorp, Inc",50
+694,50,142.605,Zoolab,1:23 AM,4:13 PM,24/01/2012,16/04/2006,Aaaahhh!,Westamerica Bancorporation,80
+966,33,237.895,Quo Lux,2:51 PM,4:54 PM,10/8/2011,28/04/2010,Aaaahhhhh!,Tantech Holdings Ltd.,2
+291,205,24.607,Overhold,7:58 AM,7:43 PM,18/09/2012,26/04/2004,Aaaahhhhhhhh!,"Civista Bancshares, Inc. ",34
+933,65,272.419,Alphazap,8:46 PM,1:15 PM,4/1/2007,31/12/2010,Aaaahhhhhhhhh!,Knowles Corporation,26
+301,137,437.357,Sub-Ex,1:38 AM,7:09 PM,29/10/2002,26/01/2013,Aaaahhhhhhhhhhhhhh!,"Ecology and Environment, Inc.",61
+420,20,299.614,Toughjoyfax,4:58 AM,7:39 PM,12/8/2013,20/05/2004,Aaaahhhhhhhhhh!,GSV Capital Corp,100
+796,152,452.743,Treeflex,8:32 PM,11:14 PM,29/05/2010,10/5/2015,Aaaahhhhhhhhhhh!,Synaptics Incorporated,31
+628,6,300.549,Toughjoyfax,7:01 AM,7:54 PM,28/03/2002,21/10/2008,Aaaahhhhhhhhhhhhh!,"Mesa Laboratories, Inc.",76
+587,88,71.34,Prodder,12:08 PM,3:45 AM,5/10/2001,15/10/2007,Aaaahhhhhhhhhh!,"PGT Innovations, Inc.",93
+28,158,59.054,Y-Solowarm,11:37 AM,9:34 AM,26/10/2016,5/9/2002,Aaaahhhhhhhhhhhhh!,"Templeton Global Income Fund, Inc.",52
+125,150,135.32,Ventosanzap,11:04 PM,10:19 PM,3/9/2009,14/10/2003,Aaaahhh!,"Quantenna Communications, Inc.",77
+541,169,440.629,Keylex,3:50 PM,5:33 PM,15/03/2001,4/11/2006,Aaaahhhhh!,Asure Software Inc,33
+486,1,235.435,Temp,12:25 AM,10:10 AM,14/02/2010,14/10/2003,Aaaahhhhhhhhh!,Crestwood Equity Partners LP,60
+750,68,44.013,Zoolab,2:03 AM,6:20 AM,7/3/2007,30/05/2010,Aaaahhhhhhhh!,"Independence Contract Drilling, Inc.",9
+958,6,127.09,Tempsoft,7:58 PM,12:57 AM,4/10/2007,12/5/2004,Aaaahhhhhhhhh!,Citigroup Inc.,31
+451,137,150.126,Asoka,4:45 AM,7:07 AM,16/04/2012,24/08/2011,Aaaahhhhhhhhhh!,Precision Drilling Corporation,53
+760,247,451.163,Transcof,9:04 PM,4:56 AM,30/05/2011,5/11/2013,Aaaahhhhhhhhhhhh!,"CNO Financial Group, Inc.",14
+79,26,123.96,Duobam,3:56 AM,10:14 PM,2/11/2007,29/01/2016,Aaaahhhhhhhhhhhhhhh!,"Intellia Therapeutics, Inc.",80
+523,145,426.91,Fixflex,2:45 AM,1:26 PM,14/09/2005,27/06/2007,Aaaahhhhhhhhhh!,"Capitol Federal Financial, Inc.",21
+365,232,130.45,Stronghold,12:52 AM,4:04 PM,5/10/2010,12/12/2005,Aaaahhhh!,Formula Systems (1985) Ltd.,77
+83,34,300.074,Lotstring,8:45 PM,6:03 AM,25/06/2004,15/02/2003,Aaaahhhhhh!,"Oaktree Capital Group, LLC",50
+861,13,26.073,Temp,1:04 PM,2:12 PM,21/12/2003,4/11/2006,Aaaahhhhhhhhhhhhhh!,Union Pacific Corporation,58
+191,120,136.073,Stim,2:20 AM,2:43 PM,12/11/2004,15/10/2010,Aaaahhh!,"Enviva Partners, LP",100
+203,219,317.01,Stronghold,1:00 PM,5:56 AM,12/1/2001,16/08/2008,Aaaahhhhhhhhhhhh!,"Crossroads Systems, Inc.",77
+277,10,313.172,Opela,6:55 PM,6:31 PM,1/4/2008,5/11/2011,Aaaahhh!,"Bemis Company, Inc.",55
+159,41,85.036,Tin,12:00 PM,4:39 AM,22/07/2004,24/10/2000,Aaaahhhhhhhhhhhhh!,"Halyard Health, Inc.",66
+806,228,423.451,Keylex,8:57 AM,8:08 AM,11/7/2005,9/7/2014,Aaaahhhhhh!,"Shoe Carnival, Inc.",62
+66,160,108.999,Lotstring,11:22 PM,2:45 AM,24/04/2012,15/10/2012,Aaaahhhhhhhh!,Seadrill Partners LLC,15
+502,201,78.085,Keylex,4:34 PM,12:32 PM,11/8/2010,2/1/2016,Aaaahhhhh!,Luxfer Holdings PLC,81
+943,95,335.887,Flexidy,6:25 AM,9:59 AM,13/11/2013,14/09/2013,Aaaahhhhhhhhhhhh!,Pegasystems Inc.,99
+74,97,256.124,Trippledex,6:06 AM,4:34 AM,1/1/2013,15/03/2001,Aaaahhhhhhhhhhhhh!,Camtek Ltd.,76
+324,55,376.152,Y-Solowarm,4:18 AM,2:34 PM,7/12/2000,25/01/2012,Aaaahhh!,"Appliance Recycling Centers of America, Inc.",79
+681,40,420.567,Stronghold,4:51 AM,1:49 AM,9/11/2011,4/7/2007,Aaaahhhhhhhhh!,"Rambus, Inc.",95
+781,145,292.865,Job,7:08 PM,2:37 PM,19/03/2015,24/11/2008,Aaaahhhhhhhhhhhh!,MFS Government Markets Income Trust,62
+647,217,422.094,Y-Solowarm,10:12 AM,12:59 AM,28/02/2001,27/05/2013,Aaaahhhhhhh!,The Charles Schwab Corporation,57
+919,98,232.618,Bitwolf,2:08 PM,11:01 PM,14/01/2007,7/7/2005,Aaaahhh!,"Etsy, Inc.",11
+522,82,217.186,Job,2:38 PM,7:46 AM,21/09/2004,6/12/2007,Aaaahhhhhh!,"Sevcon, Inc.",38
+879,61,93.838,Wrapsafe,2:02 PM,3:24 PM,11/6/2013,12/7/2000,Aaaahhhhh!,Allstate Corporation (The),20
+346,209,481.846,Bitchip,8:16 AM,3:38 AM,28/08/2013,1/4/2009,Aaaahhhhhhh!,Global Partner Acquisition Corp.,59
+850,69,334.643,Cardguard,9:24 PM,9:34 AM,17/01/2010,17/08/2014,Aaaahhhhh!,Aegon NV,72
+43,142,225.812,Mat Lam Tam,9:16 PM,3:48 AM,28/02/2008,24/01/2007,Aaaahhhhhhhhhhhhhh!,"Commerce Bancshares, Inc.",22
+901,123,486.184,Bytecard,12:54 AM,11:39 PM,20/11/2005,5/8/2016,Aaaahhhh!,Nutraceutical International Corporation,93
+808,76,270.267,Ronstring,5:30 AM,9:03 AM,3/7/2011,23/06/2008,Aaaahhhhhhhhhhh!,"ClubCorp Holdings, Inc.",1
+279,120,480.336,Subin,5:30 PM,5:09 PM,20/08/2007,7/5/2006,Aaaahhhhhhhh!,Antero Midstream Partners LP,83
+336,97,192.673,Sonair,12:19 PM,7:06 AM,6/7/2015,23/05/2005,Aaaahhhhhhhhhhhh!,MiX Telematics Limited,2
+872,12,199.772,Cardguard,5:21 AM,6:53 PM,16/01/2005,20/08/2007,Aaaahhhhhhhhh!,"Silicon Laboratories, Inc.",42
+570,110,143.343,Lotstring,4:31 AM,1:54 AM,20/11/2001,28/02/2014,Aaaahhhh!,"Owens & Minor, Inc.",69
+268,163,251.344,Bitchip,5:50 PM,1:56 AM,11/1/2005,17/05/2008,Aaaahhhhhhh!,Brookfield Real Assets Income Fund Inc.,86
+90,247,312.051,Stringtough,7:44 PM,9:40 PM,15/01/2013,28/09/2004,Aaaahhhhhh!,Energen Corporation,31
+774,51,36.238,Stim,5:05 PM,11:01 AM,10/6/2008,31/07/2012,Aaaahhhhhhhhhh!,"Achaogen, Inc.",91
+985,249,252.207,Opela,12:55 PM,7:21 AM,1/4/2006,17/05/2004,Aaaahhhh!,"America First Multifamily Investors, L.P.",54
+909,106,145.85,Aerified,7:06 AM,9:09 PM,19/05/2007,11/4/2005,Aaaahhhhhhhhhhhh!,Aegon NV,68
+753,190,352.18,Cookley,4:14 AM,6:27 AM,13/10/2007,27/09/2013,Aaaahhhhhh!,"Alteryx, Inc.",97
+770,89,93.737,Quo Lux,1:39 AM,3:25 PM,8/2/2014,25/09/2004,Aaaahhhhhhhhhhhh!,"Vertex Energy, Inc",83
+551,175,490.656,It,2:56 PM,12:58 PM,14/11/2006,22/06/2000,Aaaahhhhhhhhhhhhhhh!,Asbury Automotive Group Inc,16
+438,38,347.822,Zaam-Dox,3:58 PM,6:15 PM,8/12/2013,9/11/2016,Aaaahhhhh!,"EnLink Midstream, LLC",77
+86,116,397.081,Tampflex,5:41 PM,9:33 AM,18/04/2011,3/4/2000,Aaaahhhhhhhhhh!,Woori Bank,1
+596,99,445.327,Tampflex,9:48 PM,8:36 AM,9/12/2001,21/07/2012,Aaaahhhhhhhhhhhhh!,Precision Drilling Corporation,71
+627,236,63.58,Latlux,12:09 AM,6:51 PM,1/10/2013,22/11/2002,Aaaahhhhh!,Jack In The Box Inc.,57
+725,47,193.544,It,3:01 AM,11:08 PM,14/11/2015,20/10/2010,Aaaahhhhhhhhhhhh!,"United Bancshares, Inc.",23
+732,181,346.991,Bytecard,6:36 PM,2:39 PM,20/06/2004,17/03/2003,Aaaahhh!,"Sangamo Therapeutics, Inc.",98
+815,37,316.758,Asoka,12:46 PM,8:34 AM,20/08/2013,20/08/2012,Aaaahhhh!,Jumei International Holding Limited,93
+539,182,61.577,It,9:21 PM,10:20 PM,4/8/2000,8/1/2017,Aaaahhhhhhhhhhhhhhh!,"Moneygram International, Inc.",84
+130,64,42.324,Stronghold,9:11 PM,8:52 AM,20/01/2011,14/12/2003,Aaaahhhh!,"Interlink Electronics, Inc.",34
+233,67,223.634,Konklab,8:50 AM,7:20 AM,26/03/2009,28/03/2009,Aaaahhhh!,Knowles Corporation,9
+694,220,395.245,Duobam,7:44 PM,7:13 PM,30/05/2016,9/10/2008,Aaaahhhhh!,"Blackrock MuniYield Michigan Quality Fund, Inc.",78
+542,82,457.996,Sub-Ex,3:11 AM,5:51 AM,9/12/2016,21/04/2012,Aaaahhhh!,"Mota Group, Inc.",24
+484,29,80.438,Domainer,4:05 PM,12:52 AM,13/02/2012,7/6/2004,Aaaahhhhhhhhh!,"Firsthand Technology Value Fund, Inc.",48
+53,67,475.608,Voltsillam,8:25 PM,1:50 AM,17/03/2003,30/12/2009,Aaaahhhhhh!,First Commonwealth Financial Corporation,10
+364,65,142.947,Cardify,3:30 AM,2:48 PM,25/08/2011,10/8/2012,Aaaahhhhhhhhh!,"MMA Capital Management, LLC",68
+198,85,304.324,Zoolab,3:31 AM,6:21 AM,11/4/2003,26/02/2009,Aaaahhhhh!,"Beasley Broadcast Group, Inc.",64
+972,231,10.226,Pannier,3:51 PM,7:30 PM,1/6/2003,19/07/2014,Aaaahhhhhhh!,Trimble Inc.,93
+477,12,34.559,Cookley,6:29 PM,12:07 PM,11/7/2014,15/10/2005,Aaaahhhhh!,China Recycling Energy Corporation,77
+127,20,309.254,Stringtough,2:28 PM,5:32 AM,4/3/2009,20/07/2014,Aaaahhhhhhhhhhhh!,iShares MSCI Europe Financials Sector Index Fund,57
+5,223,96.511,Ronstring,7:41 PM,6:53 PM,17/05/2015,19/04/2009,Aaaahhhhh!,"Versum Materials, Inc.",24
+256,226,293.658,Viva,3:00 PM,10:02 PM,6/6/2005,16/11/2006,Aaaahhhhhhhhh!,"Ballard Power Systems, Inc.",38
+764,172,351.292,Y-find,1:51 PM,4:58 AM,1/12/2008,2/3/2007,Aaaahhhhhhh!,Kadant Inc,70
+155,49,497.565,Tampflex,7:54 AM,11:48 PM,8/7/2015,17/09/2013,Aaaahhh!,"Aratana Therapeutics, Inc.",54
+156,133,194.201,Bitwolf,2:25 PM,12:22 AM,26/02/2016,11/2/2016,Aaaahhhhhhhhhh!,"Hawaiian Electric Industries, Inc.",86
+92,35,156.882,Holdlamis,11:45 AM,5:03 PM,25/04/2012,9/1/2006,Aaaahhh!,Bank Of New York Mellon Corporation (The),71
+403,170,287.592,Viva,4:36 AM,7:10 AM,2/5/2004,25/09/2003,Aaaahhhhhhhhhhhh!,"BeyondSpring, Inc.",53
+500,155,278.077,Hatity,8:42 PM,12:22 PM,3/5/2015,9/4/2014,Aaaahhhhhhhhhhhhhh!,"American Software, Inc.",64
+267,96,491.044,Rank,5:19 AM,2:40 PM,24/02/2002,13/04/2001,Aaaahhhhhhhh!,"Acorn International, Inc.",54
+527,196,418.724,Vagram,12:01 AM,4:29 PM,13/12/2000,1/1/2014,Aaaahhhhhhhhhhhhhhh!,Verizon Communications Inc.,84
+855,39,357.815,Toughjoyfax,7:25 PM,12:59 PM,30/04/2012,4/10/2000,Aaaahhhh!,Marine Petroleum Trust,73
+276,218,482.834,Bitwolf,12:26 AM,7:32 AM,26/10/2010,11/6/2008,Aaaahhhhhhhhh!,SVB Financial Group,9
+779,212,229.34,Biodex,7:49 AM,4:40 PM,5/11/2003,12/9/2001,Aaaahhhhhhhhhhhhh!,General Finance Corporation,11
+696,6,146.141,Regrant,4:24 AM,11:36 AM,8/10/2010,13/09/2007,Aaaahhhhhhhhhhhhhh!,The Blackstone Group L.P.,12
+655,168,82.071,Hatity,12:02 PM,2:56 PM,26/12/2008,15/05/2011,Aaaahhhhhhhh!,Mobileye N.V.,16
+605,157,134.95,Domainer,1:59 AM,8:39 PM,7/9/2003,3/6/2015,Aaaahhhhh!,B Communications Ltd.,87
+895,144,278.618,Tempsoft,1:34 PM,6:06 AM,15/12/2008,3/1/2015,Aaaahhhh!,VictoryShares US Large Cap High Div Volatility Wtd ETF,53
+768,229,403.104,Overhold,5:46 PM,8:06 AM,5/12/2003,22/03/2000,Aaaahhhhhhhh!,CVS Health Corporation,87
+159,68,82.519,Tin,7:12 AM,9:32 AM,8/4/2004,16/05/2014,Aaaahhhhhh!,"SilverBow Resorces, Inc.",83
+687,64,24.5,Bitwolf,12:36 PM,11:34 PM,5/9/2015,17/05/2003,Aaaahhhhhhhh!,"CBOE Holdings, Inc.",61
+145,111,456.941,Mat Lam Tam,10:29 PM,5:05 PM,25/06/2002,25/12/2011,Aaaahhhhhhhhhh!,Janus Henderson Small/Mid Cap Growth Alpha ETF,85
+281,183,289.921,Kanlam,1:21 PM,11:28 AM,30/09/2008,9/4/2015,Aaaahhhhhhhhh!,Aspen Insurance Holdings Limited,81
+263,111,412.945,Voltsillam,11:15 AM,11:47 AM,10/7/2007,19/05/2005,Aaaahhhhh!,First United Corporation,31
+647,97,183.603,Tresom,9:16 AM,7:12 AM,18/12/2012,1/12/2013,Aaaahhhhhhhhhhhhh!,Nuveen Intermediate Duration Municipal Term Fund,46
+607,48,296.418,Trippledex,8:15 PM,2:16 PM,1/4/2001,23/02/2000,Aaaahhhhhhhh!,Liberty Interactive Corporation,56
+706,183,290.914,Aerified,6:40 AM,4:23 PM,5/7/2007,15/12/2013,Aaaahhhhh!,"WellCare Health Plans, Inc.",89
+651,194,19.61,Vagram,5:17 AM,8:49 PM,23/10/2004,21/03/2002,Aaaahhhhhhhhhhh!,SVB Financial Group,69
+647,51,323.912,Stringtough,5:35 PM,5:54 PM,15/08/2000,23/04/2013,Aaaahhhh!,"Boston Properties, Inc.",87
+664,11,127.569,Ventosanzap,8:04 PM,7:26 PM,2/7/2000,2/9/2011,Aaaahhhhh!,"EnLink Midstream Partners, LP",35
+323,221,239.281,Cardguard,7:12 AM,3:42 AM,18/01/2014,6/1/2006,Aaaahhhhhhhh!,Royal Dutch Shell PLC,84
+605,138,93.259,Pannier,7:21 AM,9:45 AM,2/1/2000,22/02/2012,Aaaahhhhhhh!,"NCI Building Systems, Inc.",49
+648,132,94.037,Job,7:44 AM,9:12 PM,8/1/2002,6/11/2004,Aaaahhhhhh!,"Verastem, Inc.",53
+913,144,89.883,Duobam,3:55 PM,6:13 AM,6/11/2002,5/1/2004,Aaaahhhhhhhhh!,"Halozyme Therapeutics, Inc.",67
+282,95,187.846,Zamit,9:09 PM,9:08 AM,6/4/2004,7/2/2005,Aaaahhhhhhhhhhhhhhh!,Tekla Healthcare Opportunies Fund,10
+254,101,359.427,Domainer,11:16 AM,9:31 AM,18/03/2012,12/2/2009,Aaaahhhhhh!,"Ennis, Inc.",17
+33,163,448.49,Tres-Zap,6:27 PM,6:11 AM,1/7/2000,24/03/2013,Aaaahhh!,"Appliance Recycling Centers of America, Inc.",66
+791,125,309.835,Voyatouch,11:37 AM,1:26 AM,28/11/2015,5/9/2015,Aaaahhhhhhhhhhhhh!,L.B. Foster Company,28
+618,164,58.915,Toughjoyfax,4:57 PM,1:26 PM,26/11/2001,3/1/2001,Aaaahhhhh!,Severn Bancorp Inc,23
+59,77,44.625,Domainer,1:49 PM,5:00 AM,20/06/2004,6/4/2011,Aaaahhhhhhhhhhhhh!,Hoegh LNG Partners LP,47
+674,214,461.211,Bitchip,4:07 PM,1:39 PM,4/2/2005,7/2/2010,Aaaahhhhhhhhhhhhhh!,Kayne Anderson Acquisition Corp.,86
+644,15,179.003,Zaam-Dox,10:11 PM,2:26 PM,27/06/2001,1/6/2004,Aaaahhhhhhh!,BioShares Biotechnology Products Fund,21
+569,69,163.524,It,10:42 PM,6:49 PM,29/07/2014,12/2/2012,Aaaahhhhhhhhhhhhhhh!,"NetApp, Inc.",68
+319,172,260.371,Bigtax,8:40 PM,4:03 PM,4/12/2005,17/11/2010,Aaaahhhh!,"Synergy Pharmaceuticals, Inc.",81
+886,165,39.407,Tres-Zap,5:29 AM,7:19 AM,28/09/2005,23/09/2007,Aaaahhhh!,Oil-Dri Corporation Of America,63
+113,84,44.685,Tresom,7:43 AM,9:04 AM,24/11/2008,17/08/2002,Aaaahhhhh!,"Herman Miller, Inc.",53
+762,242,32.725,Voyatouch,7:23 PM,9:29 PM,26/04/2015,14/07/2016,Aaaahhhhhh!,Brown Forman Corporation,30
+77,192,91.088,Flowdesk,9:53 PM,4:44 AM,3/9/2013,29/10/2015,Aaaahhhhhhhhhhhhhhh!,Avista Healthcare Public Acquisition Corp.,69
+184,60,8.402,Viva,3:01 AM,4:55 PM,13/08/2008,4/12/2002,Aaaahhhhhhhhhhh!,"Gabelli Equity Trust, Inc. (The)",25
+298,181,413.974,Vagram,8:41 PM,8:32 AM,9/2/2005,30/01/2006,Aaaahhhhhhhhhhh!,"Centennial Resource Development, Inc.",37
+703,152,423.477,Y-find,3:04 PM,11:23 AM,22/05/2004,25/10/2002,Aaaahhhhhhhhhhhh!,"Corvus Pharmaceuticals, Inc.",59
+904,177,288.005,Bitwolf,11:37 AM,12:39 AM,27/12/2000,17/12/2006,Aaaahhhhhhh!,Vanguard Russell 1000 Value ETF,68
+257,186,333.765,Ronstring,8:23 PM,5:00 AM,7/7/2016,22/10/2010,Aaaahhhh!,PowerShares FTSE International Low Beta Equal Weight Portfolio,1
+269,171,347.917,Home Ing,12:17 AM,4:56 PM,21/08/2003,29/09/2004,Aaaahhhhhhh!,Ingevity Corporation,52
+228,119,110.765,Fixflex,10:58 PM,2:20 AM,9/8/2011,19/10/2002,Aaaahhhhhhh!,"National Bankshares, Inc.",6
+9,230,61.529,Y-Solowarm,12:16 AM,3:07 AM,17/05/2004,28/06/2005,Aaaahhhhhhhhhhhh!,"Dicerna Pharmaceuticals, Inc.",55
+602,60,143.247,Voyatouch,1:40 PM,8:38 PM,7/11/2007,4/1/2017,Aaaahhhhhhhhh!,IRSA Propiedades Comerciales S.A.,19
+858,75,205.518,Cookley,7:54 PM,6:04 PM,26/04/2009,15/04/2012,Aaaahhhhhhh!,Cato Corporation (The),18
+197,59,336.76,Treeflex,9:22 PM,5:14 AM,8/5/2011,30/11/2015,Aaaahhhhhhhhhhhhhhh!,"Del Taco Restaurants, Inc.",84
+300,150,466.644,Otcom,9:12 PM,1:44 AM,7/5/2007,8/2/2007,Aaaahhhhhhhhhhhhhh!,"County Bancorp, Inc.",43
+598,131,37.872,Lotlux,3:25 PM,9:44 AM,23/11/2008,9/7/2006,Aaaahhhhhhhhhhh!,Legacy Reserves LP,9
+963,230,387.152,Lotlux,8:05 PM,7:38 AM,5/2/2004,1/12/2010,Aaaahhhhhhhh!,BlackBerry Limited,11
+866,187,189.254,Holdlamis,9:33 AM,7:24 AM,29/05/2004,17/11/2009,Aaaahhhhhhhhhhhh!,Nuveen Real Estate Fund,9
+174,144,491.073,Span,8:13 PM,10:08 PM,30/11/2006,11/9/2002,Aaaahhhhhhhh!,Drive Shack Inc.,45
+770,118,80.327,Opela,7:59 PM,10:06 AM,15/10/2007,23/01/2003,Aaaahhhhhhhhhhhhhh!,Teekay Corporation,11
+305,96,53.406,Solarbreeze,8:51 AM,4:49 AM,22/03/2014,12/3/2005,Aaaahhhhhhhhhhhh!,"Jaguar Animal Health, Inc.",35
+417,159,438.314,Namfix,7:03 PM,7:31 PM,19/10/2012,15/05/2004,Aaaahhhhhhhhhhhhh!,Nuveen Arizona Quality Municipal Income Fund,77
+255,145,210.675,Hatity,6:30 PM,11:16 PM,25/07/2002,1/2/2015,Aaaahhhhhhhhh!,"Genesee & Wyoming, Inc.",70
+638,179,371.984,Domainer,9:27 AM,6:32 AM,17/05/2001,23/07/2015,Aaaahhhhh!,XL Group Ltd.,97
+323,35,35.327,Lotlux,9:57 PM,9:21 AM,29/08/2009,23/06/2009,Aaaahhhh!,Nuveen Diversified Dividend and Income Fund,94
+54,54,472.796,Cookley,2:50 AM,11:10 AM,19/06/2002,3/9/2013,Aaaahhhhh!,"Jernigan Capital, Inc.",83
+413,36,138.936,Viva,8:32 AM,1:18 PM,5/10/2000,8/11/2008,Aaaahhhh!,Franco-Nevada Corporation,92
+4,207,43.986,Tampflex,4:19 PM,10:33 PM,21/10/2013,28/09/2016,Aaaahhhhhhhhhhhh!,"GTY Technology Holdings, Inc.",76
+533,190,146.06,Voltsillam,3:50 PM,4:30 PM,16/03/2004,23/12/2016,Aaaahhhhhhh!,"BlackLine, Inc.",19
+196,40,433.86,Alpha,2:51 PM,5:17 PM,4/1/2002,9/9/2014,Aaaahhhh!,Mobile TeleSystems OJSC,30
+137,126,331.521,It,8:33 PM,11:41 PM,3/10/2004,9/12/2012,Aaaahhhhhhhhhhhhhh!,"Gores Holdings II, Inc.",100
+174,238,40.956,Stim,9:54 AM,12:44 PM,18/07/2015,23/02/2005,Aaaahhhh!,"Cass Information Systems, Inc",68
+52,61,267.066,Cookley,8:53 AM,10:01 PM,2/4/2016,28/06/2005,Aaaahhhhhh!,Crescent Point Energy Corporation,67
+415,145,284.855,Greenlam,6:58 AM,10:40 AM,2/2/2007,9/1/2007,Aaaahhhhhh!,"Maxim Integrated Products, Inc.",20
+121,56,186.746,Alpha,11:27 AM,5:57 AM,14/10/2013,23/04/2016,Aaaahhhhhh!,Iron Mountain Incorporated,10
+693,27,314.565,Namfix,8:13 PM,10:49 AM,25/05/2006,18/08/2015,Aaaahhhh!,Hooker Furniture Corporation,4
+927,36,484.656,Regrant,12:40 PM,8:17 AM,26/11/2000,24/05/2003,Aaaahhhhhhhhhhhhh!,SandRidge Mississippian Trust I,51
+882,16,380.37,Solarbreeze,5:23 PM,12:41 PM,13/12/2011,30/09/2003,Aaaahhhh!,"Spectrum Brands Holdings, Inc.",71
+462,124,17.417,Cardguard,10:33 PM,10:06 PM,28/02/2003,18/06/2012,Aaaahhhhhhhhhhhh!,"Union Bankshares, Inc.",95
+635,31,97.729,Job,6:57 PM,5:18 PM,11/4/2014,19/12/2001,Aaaahhhhhhhh!,"Liberty Expedia Holdings, Inc.",9
+672,28,365.245,Zontrax,8:19 PM,7:16 PM,1/7/2008,22/12/2005,Aaaahhhhhhhhhhhhhh!,Logitech International S.A.,68
+652,183,325.465,Home Ing,10:24 AM,12:22 AM,26/08/2010,14/01/2016,Aaaahhhhhhhhhhhh!,Biogen Inc.,31
+945,153,380.973,Ronstring,10:47 PM,2:24 PM,17/08/2003,17/05/2012,Aaaahhhhh!,Apollo Commercial Real Estate Finance,48
+209,250,18.446,Latlux,12:10 AM,1:45 PM,14/01/2008,19/08/2004,Aaaahhh!,"athenahealth, Inc.",19
+837,139,216.14,Sonsing,12:14 AM,4:23 PM,31/05/2015,25/03/2002,Aaaahhhhhhhhhhhhhhh!,Rice Energy Inc.,46
+275,72,154.473,Rank,5:19 PM,1:55 PM,7/11/2010,9/8/2003,Aaaahhhhhhhhhhhh!,"RigNet, Inc.",33
+344,244,327.238,Lotlux,9:23 AM,2:46 PM,13/12/2004,18/08/2002,Aaaahhhhhhhh!,Quinpario Acquisition Corp. 2,46
+441,104,359.55,Opela,9:00 AM,8:11 PM,1/1/2011,28/10/2006,Aaaahhhhhhhh!,J P Morgan Chase & Co,19
+394,124,143.773,Biodex,2:20 PM,4:56 PM,22/01/2009,12/5/2009,Aaaahhhhh!,"SuperCom, Ltd.",70
+815,43,198.36,Latlux,8:30 AM,4:04 PM,21/10/2013,25/12/2002,Aaaahhhhhhhhh!,Eagle Point Credit Company Inc.,46
+780,239,178.617,Konklab,7:59 AM,9:33 AM,26/05/2000,9/7/2014,Aaaahhhhhhh!,"The Ensign Group, Inc.",9
+458,62,286.868,Solarbreeze,3:40 AM,9:44 PM,27/09/2015,14/04/2013,Aaaahhhhhhhhhhhhhhh!,Independent Bank Corporation,21
+446,12,1.203,Namfix,8:05 AM,9:51 PM,7/7/2003,20/10/2008,Aaaahhhhhhhhhhhhhhh!,"NextEra Energy, Inc.",75
+460,185,348.852,Zathin,7:24 AM,8:48 PM,9/4/2007,5/1/2016,Aaaahhhh!,"Under Armour, Inc.",73
+368,75,124.773,Andalax,11:41 PM,1:33 AM,12/7/2015,30/05/2006,Aaaahhhhhhhhhhh!,First Trust Japan AlphaDEX Fund,84
+454,125,308.432,Latlux,9:54 AM,2:43 PM,8/3/2013,22/04/2006,Aaaahhhh!,Systemax Inc.,58
+582,161,280.03,Prodder,3:40 AM,10:14 PM,25/04/2003,21/06/2012,Aaaahhhhhhhhhhhhh!,"Century Communities, Inc.",29
+447,137,267.673,Opela,2:32 AM,12:46 AM,27/12/2011,8/3/2007,Aaaahhhhhhhhhhhhhhh!,New Mountain Finance Corporation,39
+950,83,69.138,Wrapsafe,2:06 AM,6:35 PM,20/07/2013,10/10/2010,Aaaahhhh!,PowerShares KBW Property & Casualty Insurance Portfolio,11
+677,163,264.535,Tampflex,8:07 AM,2:17 PM,9/10/2004,9/6/2002,Aaaahhhhhhhhhhh!,Michael Kors Holdings Limited,61
+931,219,161.892,Fix San,7:55 PM,9:34 AM,11/9/2001,3/4/2016,Aaaahhhhhhhhhhh!,First Trust RiverFront Dynamic Emerging Markets ETF,93
+377,40,178.313,Konklab,4:41 AM,3:45 PM,8/9/2014,9/3/2008,Aaaahhhhhhhh!,Hess Corporation,51
+868,225,260.225,Flowdesk,11:58 AM,3:09 AM,8/1/2012,22/02/2000,Aaaahhhhhh!,Synovus Financial Corp.,54
+206,141,204.687,Daltfresh,11:42 AM,3:57 AM,30/07/2005,2/4/2001,Aaaahhhhhhhh!,Enel Chile S.A.,37
+483,172,85.181,Tres-Zap,12:56 PM,12:18 AM,21/07/2002,4/6/2004,Aaaahhhhhhhhhhhh!,Scorpio Tankers Inc.,18
+899,20,437.416,Namfix,6:53 PM,6:46 AM,19/01/2004,27/10/2009,Aaaahhhhhhhhhh!,Cushing Renaissance Fund (The),63
+346,37,128.277,Keylex,1:02 AM,8:27 PM,16/07/2007,18/09/2015,Aaaahhhh!,"Skechers U.S.A., Inc.",83
+129,132,489.811,Biodex,2:01 AM,10:53 AM,5/3/2010,12/7/2009,Aaaahhhhhhhhhhhhh!,"Escalade, Incorporated",25
+11,94,142.323,Y-Solowarm,3:16 PM,1:27 AM,12/9/2000,20/12/2010,Aaaahhhh!,Two Harbors Investments Corp,55
+905,11,408.166,Ronstring,6:33 AM,11:38 AM,25/01/2002,9/3/2007,Aaaahhhhhh!,Kansas City Southern,52
+181,126,282.487,Konklab,10:59 PM,6:38 AM,19/02/2011,3/5/2011,Aaaahhhhhhhhhhhhhhh!,Sirius XM Holdings Inc.,40
+528,223,461.431,Wrapsafe,3:46 AM,1:28 AM,26/09/2012,22/05/2004,Aaaahhh!,L.S. Starrett Company (The),83
+170,177,145.541,Greenlam,10:27 PM,9:55 PM,28/11/2000,21/07/2007,Aaaahhhh!,Exxon Mobil Corporation,38
+631,123,51.748,Home Ing,7:21 PM,7:35 PM,17/11/2009,21/03/2012,Aaaahhhhh!,"Provident Financial Holdings, Inc.",81
+771,89,431.176,Gembucket,8:12 PM,4:02 PM,29/03/2010,8/9/2005,Aaaahhhhhh!,"Ocular Therapeutix, Inc.",72
+205,119,315.355,Alphazap,4:42 PM,8:22 AM,11/12/2012,29/01/2014,Aaaahhhhhhhhhh!,Eldorado Gold Corporation,12
+657,170,394.562,Alpha,4:36 PM,5:51 AM,22/08/2011,4/2/2013,Aaaahhh!,"Mondelez International, Inc.",14
+528,113,304.663,Voltsillam,7:01 PM,9:57 AM,9/10/2013,11/1/2010,Aaaahhhhhhhhhhh!,Taro Pharmaceutical Industries Ltd.,23
+761,67,176.736,Opela,3:40 PM,2:18 AM,20/04/2007,11/9/2012,Aaaahhhh!,Putnam Managed Municipal Income Trust,19
+296,37,136.658,Daltfresh,6:06 PM,4:33 PM,26/01/2005,17/11/2003,Aaaahhhhhhhh!,"Align Technology, Inc.",98
+549,218,484.474,Fix San,8:05 PM,4:33 PM,9/3/2008,25/10/2003,Aaaahhhhhhhhh!,DAQO New Energy Corp.,53
+821,57,300.189,Ventosanzap,4:51 AM,11:16 PM,17/08/2002,26/05/2012,Aaaahhh!,Schlumberger N.V.,53
+398,248,229.833,Sonsing,11:14 AM,12:47 PM,4/12/2008,27/06/2007,Aaaahhhh!,"America Movil, S.A.B. de C.V.",52
+255,103,470.735,Holdlamis,5:20 PM,12:29 AM,24/10/2000,11/4/2005,Aaaahhhhhhhhhh!,"Extreme Networks, Inc.",8
+457,170,414.987,Konklux,6:01 PM,5:28 AM,3/9/2001,10/6/2007,Aaaahhh!,National Retail Properties,87
+358,216,346.631,Zathin,2:10 AM,9:14 PM,1/11/2003,20/12/2008,Aaaahhhhhhhhhhh!,General Cable Corporation,52
+79,62,396.486,Matsoft,6:40 PM,4:10 PM,22/01/2002,18/02/2004,Aaaahhhhhhhhhhhhhhh!,iPath US Treasury Steepener ETN,18
+874,243,259.188,Prodder,6:28 PM,5:14 PM,15/06/2009,15/09/2003,Aaaahhh!,Oil-Dri Corporation Of America,21
+548,19,41.656,Lotstring,9:16 AM,3:39 AM,3/10/2016,9/1/2014,Aaaahhhhhhhhhhhh!,Avista Corporation,99
+753,77,461.245,It,8:05 PM,5:19 PM,26/01/2015,11/7/2015,Aaaahhhh!,Farmers Capital Bank Corporation,66
+654,99,224.309,Home Ing,2:50 PM,11:02 PM,7/8/2009,10/3/2014,Aaaahhhhhhhhhhhhhh!,MTS Systems Corporation,82
+773,99,64.617,Andalax,6:19 PM,3:43 AM,21/10/2000,24/07/2005,Aaaahhhhhhhhhhhh!,"Fuwei Films (Holdings) Co., Ltd.",74
+767,65,212.458,Tres-Zap,3:53 AM,1:42 AM,12/11/2005,29/08/2009,Aaaahhhhhhhhhhhhhh!,PolyOne Corporation,7
+571,146,121.52,Namfix,3:54 AM,2:10 PM,31/08/2009,4/4/2000,Aaaahhhhhhhhhhhhh!,Clorox Company (The),29
+306,32,247.881,Bytecard,11:47 PM,4:51 AM,27/05/2012,17/07/2001,Aaaahhhhhhhhhhhhh!,Graphic Packaging Holding Company,53
+674,51,121.169,Zontrax,9:00 AM,12:49 PM,8/8/2014,22/07/2012,Aaaahhhhhhhhhhhhhhh!,Materialise NV,80
+249,172,280.627,Mat Lam Tam,7:50 PM,1:56 PM,15/12/2002,13/05/2009,Aaaahhhhhhhhhhhhh!,Ellington Financial LLC,14
+962,180,473.467,Sub-Ex,11:30 AM,8:32 AM,16/06/2011,31/08/2000,Aaaahhhh!,"Xilinx, Inc.",81
+24,123,38.921,Bitwolf,8:11 PM,2:52 AM,19/12/2010,5/9/2016,Aaaahhhhh!,Ternium S.A.,32
+81,230,473.185,Stringtough,5:03 AM,2:13 PM,12/3/2007,15/02/2005,Aaaahhhhhh!,NewJersey Resources Corporation,18
+298,97,453.03,Alphazap,5:08 AM,11:56 AM,5/4/2004,25/12/2013,Aaaahhhhhhhhhhh!,"Stoneridge, Inc.",8
+469,67,19.834,Konklab,6:52 AM,3:45 AM,31/10/2015,16/02/2007,Aaaahhhhh!,"Blackrock MuniYield California Insured Fund, Inc.",7
+739,122,227.435,Hatity,3:34 PM,11:37 PM,21/12/2003,18/08/2007,Aaaahhhhhhhhhhhh!,"American Midstream Partners, LP",75
+935,169,88.178,Rank,8:22 PM,11:40 AM,23/02/2006,10/10/2007,Aaaahhh!,China Southern Airlines Company Limited,64
+755,198,98.318,Ventosanzap,2:19 AM,10:52 PM,21/11/2012,27/09/2002,Aaaahhhhhhhhhh!,Cerner Corporation,79
+504,156,271.205,Stim,7:46 PM,7:07 PM,7/8/2011,1/12/2010,Aaaahhh!,Eli Lilly and Company,78
+826,17,214.621,Cookley,2:51 PM,12:22 AM,26/04/2012,14/10/2012,Aaaahhhhh!,Greif Bros. Corporation,62
+132,186,34.025,Andalax,3:13 PM,2:09 PM,12/12/2003,26/11/2003,Aaaahhhhhhhhh!,"Hertz Global Holdings, Inc",64
+612,61,186.53,Alphazap,2:22 AM,4:37 PM,26/04/2012,4/12/2012,Aaaahhhhhhhhhh!,Pioneer Municipal High Income Advantage Trust,56
+23,194,477.382,Cardguard,10:41 AM,2:45 PM,16/02/2002,2/2/2016,Aaaahhhh!,Barclays Inverse US Treasury Composite ETN,23
+532,96,22.272,Andalax,7:40 AM,8:35 PM,31/05/2006,3/6/2009,Aaaahhhhhhhhhh!,Rosetta Genomics Ltd.,92
+39,71,335.354,Latlux,9:25 PM,4:42 AM,20/07/2005,26/10/2011,Aaaahhhhhhhhhhh!,Aceto Corporation,29
+228,80,368.205,Andalax,8:30 PM,2:14 AM,27/01/2013,24/03/2015,Aaaahhhhhhhhhhhhh!,Biogen Inc.,65
+6,143,66.014,Tres-Zap,6:17 PM,8:49 PM,22/08/2006,3/2/2013,Aaaahhhhhhhhhhhhhh!,Scudder Multi-Market Income Trust,76
+137,113,137.551,Latlux,10:02 AM,9:50 PM,30/03/2007,31/10/2011,Aaaahhhhhhhhhhhh!,Moog Inc.,41
+599,2,482.429,Bigtax,4:26 PM,5:11 PM,19/02/2008,30/12/2002,Aaaahhhhhhhhh!,Acacia Research Corporation,36
+749,78,448.056,Holdlamis,8:53 PM,12:23 PM,8/6/2012,13/10/2009,Aaaahhhhhhh!,"Iconix Brand Group, Inc.",76
+551,168,480.22,Tempsoft,7:19 AM,9:54 AM,11/6/2007,18/11/2009,Aaaahhhhhhhhhhhhhhh!,Foamix Pharmaceuticals Ltd.,93
+935,245,14.762,Span,4:41 PM,4:04 PM,5/12/2007,1/12/2013,Aaaahhhhhhhhhhhh!,JM Global Holding Company,28
+426,185,331.044,Holdlamis,7:07 PM,9:32 PM,30/07/2008,12/5/2000,Aaaahhhhh!,Denbury Resources Inc.,76
+947,81,42.43,Home Ing,2:54 AM,4:47 PM,15/11/2014,22/06/2008,Aaaahhhhhhh!,"Rennova Health, Inc.",28
+237,229,74.587,Mat Lam Tam,2:48 AM,2:03 AM,25/06/2016,18/06/2016,Aaaahhh!,First Defiance Financial Corp.,54
+132,48,200.729,Lotlux,3:35 PM,10:51 AM,3/12/2003,26/08/2010,Aaaahhhhhhhhhhhhhhh!,Gabelli Dividend,34
+444,40,293.199,Solarbreeze,7:53 PM,4:06 PM,21/04/2005,18/10/2009,Aaaahhhhhhhhhhhh!,National Retail Properties,47
+59,204,439.811,Tresom,9:55 PM,9:38 AM,24/03/2010,26/01/2009,Aaaahhh!,Standex International Corporation,84
+533,112,230.213,Duobam,12:38 PM,3:53 PM,17/08/2004,13/03/2002,Aaaahhhhhh!,Old Point Financial Corporation,2
+816,34,475.276,Kanlam,5:06 PM,10:44 PM,31/10/2006,20/07/2003,Aaaahhhhhhhhhhhhhhh!,"Amplify Snack Brands, inc.",39
+513,130,479.978,Kanlam,12:34 AM,3:25 AM,26/02/2005,2/12/2002,Aaaahhhhhh!,Liberty Global plc,9
+164,173,48.217,Pannier,10:24 PM,7:11 AM,16/07/2003,24/10/2012,Aaaahhhh!,"Sykes Enterprises, Incorporated",42
+65,216,167.69,Vagram,1:33 PM,11:35 AM,28/10/2005,12/7/2013,Aaaahhhhhhhhhhh!,"Willbros Group, Inc.",96
+646,162,396.952,Duobam,9:11 AM,8:44 PM,19/11/2010,9/3/2003,Aaaahhhhhhhhhhhhhh!,"Whole Foods Market, Inc.",61
+947,15,22.082,Stronghold,3:55 AM,1:11 AM,21/04/2003,14/04/2007,Aaaahhhhhhhhhh!,"Everest Re Group, Ltd.",53
+796,201,209.777,Job,4:22 AM,11:36 PM,21/08/2007,8/4/2006,Aaaahhh!,"Home BancShares, Inc.",19
+625,24,356.773,Zaam-Dox,5:34 AM,2:40 AM,18/12/2013,13/12/2012,Aaaahhhhhhh!,"Entergy Arkansas, Inc.",78
+653,247,372.813,Mat Lam Tam,4:31 PM,4:18 PM,4/2/2015,26/07/2003,Aaaahhhhhhhhhh!,"Great Elm Capital Group, Inc. ",42
+422,144,141.007,Stringtough,4:20 PM,10:57 PM,18/01/2014,16/09/2010,Aaaahhhhhhhhh!,WebMD Health Corp,35
+752,247,213.21,Viva,12:44 AM,10:29 PM,2/1/2016,12/5/2012,Aaaahhhhhhhhhhhhhh!,Smith (A.O.) Corporation,25
+408,149,111.446,Zaam-Dox,2:43 AM,1:18 PM,30/11/2015,27/11/2013,Aaaahhhhh!,W.R. Berkley Corporation,50
+604,103,245.752,Andalax,5:35 PM,11:14 PM,24/12/2012,29/04/2003,Aaaahhhhhhhhhhhh!,UnitedHealth Group Incorporated,76
+619,224,184.222,Vagram,4:27 AM,4:11 PM,5/8/2008,20/11/2005,Aaaahhhhhhhh!,CBRE Clarion Global Real Estate Income Fund,10
+354,173,152.765,Toughjoyfax,7:37 PM,10:38 AM,14/05/2007,27/02/2004,Aaaahhhhhhhhhhhhh!,Lazard Ltd.,34
+595,4,331.053,Mat Lam Tam,10:02 PM,9:38 AM,30/10/2007,29/10/2005,Aaaahhhh!,WisdomTree Japan Hedged SmallCap Equity Fund,25
+214,202,196.416,Domainer,9:26 AM,7:32 AM,8/11/2016,10/1/2009,Aaaahhh!,First Trust/Aberdeen Emerging Opportunity Fund,4
+251,169,206.016,Hatity,12:35 AM,7:48 AM,19/04/2012,31/08/2013,Aaaahhhhhhhhhhhh!,"Radius Health, Inc.",21
+197,113,431.445,Bitchip,11:56 AM,12:25 AM,8/3/2011,24/06/2013,Aaaahhhhhhhhhhhh!,"Legg Mason, Inc.",36
+899,154,238.944,Holdlamis,7:24 AM,7:22 AM,4/6/2007,4/9/2009,Aaaahhh!,New Senior Investment Group Inc.,64
+707,51,495.391,Latlux,3:49 PM,8:32 PM,8/4/2012,25/08/2000,Aaaahhhhhhh!,Modern Media Acquisition Corp.,80
+867,220,228.756,Zontrax,9:33 PM,8:51 AM,7/7/2009,2/3/2011,Aaaahhhhhhhhhhhh!,Natus Medical Incorporated,47
+963,68,399.318,Sub-Ex,11:52 AM,5:46 AM,5/8/2009,22/07/2000,Aaaahhhhhhhhhhhhhhh!,GasLog Partners LP,78
+476,220,336.737,Redhold,7:16 PM,6:47 AM,7/2/2013,14/05/2003,Aaaahhhhhhhhh!,Mackinac Financial Corporation,3
+874,202,218.314,Greenlam,9:45 PM,12:32 PM,3/12/2011,16/09/2015,Aaaahhhhhh!,CoreSite Realty Corporation,50
+942,131,202.505,Temp,5:50 AM,1:00 PM,6/5/2005,10/12/2013,Aaaahhhh!,"Wheeler Real Estate Investment Trust, Inc.",12
+432,89,261.392,Keylex,6:00 AM,7:56 AM,3/4/2015,12/8/2004,Aaaahhhhhhhhhhhh!,Integer Holdings Corporation,23
+183,177,25.25,Duobam,12:03 PM,2:17 AM,2/10/2002,30/03/2014,Aaaahhhhhhhhhh!,American Homes 4 Rent,89
+529,132,44.463,Flexidy,4:02 PM,3:31 PM,23/09/2007,12/10/2003,Aaaahhhhhhhhhh!,"ING Group, N.V.",85
+583,26,90.337,Domainer,9:42 AM,3:07 AM,17/02/2014,17/08/2003,Aaaahhhhh!,Calgon Carbon Corporation,73
+905,168,345.385,Ronstring,11:33 PM,7:22 PM,13/09/2015,12/1/2011,Aaaahhhhhhhhhhhhhh!,"HFF, Inc.",89
+275,224,377.706,Flexidy,11:11 PM,1:29 PM,18/07/2011,6/7/2001,Aaaahhhhhhhhhhhhhh!,"Western Asset Municipal High Income Fund, Inc.",64
+2,71,32.17,Pannier,10:30 PM,3:17 PM,13/02/2009,15/01/2002,Aaaahhhhhhhhhhhh!,"Shake Shack, Inc.",49
+391,83,226.773,Toughjoyfax,12:16 AM,9:22 AM,11/11/2016,12/6/2016,Aaaahhhhhhhhhh!,Black Hills Corporation,50
+865,173,301.877,Zamit,12:11 PM,12:59 AM,19/01/2008,3/7/2016,Aaaahhhh!,"Interpace Diagnostics Group, Inc.",7
+845,140,435.447,Solarbreeze,8:17 AM,3:38 PM,12/1/2008,23/03/2003,Aaaahhhhh!,"Nexeo Solutions, Inc.",5
+234,191,498.682,Otcom,8:38 PM,11:16 AM,7/6/2013,16/07/2004,Aaaahhhhhhhhhhhhh!,"Customers Bancorp, Inc",92
+427,139,5.331,Treeflex,6:52 AM,9:02 AM,24/03/2009,6/6/2010,Aaaahhhhhhhhh!,Fanhua Inc.,22
+103,96,7.498,Matsoft,1:21 AM,6:42 PM,4/8/2015,27/11/2008,Aaaahhhhh!,Nymox Pharmaceutical Corporation,30
+824,112,24.932,Toughjoyfax,7:49 PM,2:05 PM,18/03/2008,16/10/2010,Aaaahhhhhhhhhhh!,BioAmber Inc.,84
+90,100,184.677,Alphazap,9:13 PM,3:40 PM,11/6/2007,2/5/2008,Aaaahhhhhhhh!,WAVE Life Sciences Ltd.,95
+90,68,436.513,Alpha,8:17 AM,4:32 AM,22/07/2011,18/03/2008,Aaaahhh!,Changyou.com Limited,91
+278,56,144.461,Fix San,8:48 AM,6:06 AM,12/8/2009,27/01/2008,Aaaahhhhhhhhhhhh!,"Coeur Mining, Inc.",21
+100,241,54.262,Bamity,3:50 AM,6:29 AM,25/05/2014,18/02/2004,Aaaahhhhhhhhhhhhhhh!,"Soligenix, Inc.",5
+959,165,468.724,Wrapsafe,9:09 AM,7:02 AM,18/01/2014,4/11/2002,Aaaahhhhhhhhhh!,Quorum Health Corporation,97
+198,103,315.635,Bamity,8:57 AM,6:52 PM,9/7/2016,11/11/2012,Aaaahhhhhhhhhhhh!,Gamestop Corporation,24
+149,161,16.55,Bytecard,5:22 AM,10:07 AM,11/6/2011,25/05/2011,Aaaahhhhhhhhhhhhhhh!,Natl Westminster Pfd,34
+419,83,455.339,Transcof,11:51 AM,5:31 PM,17/06/2014,17/03/2002,Aaaahhhhhh!,Frontline Ltd.,84
+601,198,149.445,Voyatouch,8:52 AM,5:19 PM,5/2/2005,23/06/2011,Aaaahhhhhhhh!,IPG Photonics Corporation,86
+138,156,220.682,Andalax,5:45 PM,6:59 AM,30/11/2004,25/01/2001,Aaaahhhhhhh!,Cemtrex Inc.,66
+887,13,315.859,Treeflex,6:23 PM,2:32 AM,9/1/2002,20/04/2015,Aaaahhhhhhhhhhhhhh!,Grupo Televisa S.A.,23
+729,108,14.598,Viva,12:13 AM,1:22 AM,25/08/2013,25/01/2005,Aaaahhhhh!,"QTS Realty Trust, Inc.",65
+888,124,27.878,Ventosanzap,2:29 PM,1:13 AM,12/2/2008,22/06/2005,Aaaahhhhhh!,"Champions Oncology, Inc.",42
+592,190,360.561,Kanlam,5:30 AM,8:47 AM,8/11/2006,26/12/2000,Aaaahhhhhhhhhhhhh!,Histogenics Corporation,28
+36,207,380.012,Cookley,12:09 PM,6:34 AM,26/04/2006,22/02/2007,Aaaahhhhhhhh!,"TriState Capital Holdings, Inc.",57
+778,78,421.399,Zamit,8:02 AM,3:31 PM,5/12/2000,31/05/2007,Aaaahhhhh!,"Littelfuse, Inc.",67
+406,247,478.551,Sub-Ex,11:25 AM,7:07 AM,27/07/2009,6/3/2000,Aaaahhhhhh!,Public Storage,99
+733,70,493.056,Y-find,4:09 PM,12:17 PM,10/3/2008,11/8/2001,Aaaahhh!,Central Garden & Pet Company,99
+633,183,390.386,Stronghold,4:57 PM,3:18 PM,9/1/2014,8/4/2008,Aaaahhhh!,Numerex Corp.,70
+781,233,296.657,Keylex,4:07 AM,4:21 PM,2/7/2010,1/2/2000,Aaaahhh!,MTGE Investment Corp.,93
+795,99,45.898,Sub-Ex,2:51 AM,8:00 AM,13/09/2013,18/11/2001,Aaaahhhhhhhhhh!,Exelon Corporation,88
+458,40,458.23,Mat Lam Tam,10:34 PM,6:30 PM,15/02/2003,23/10/2000,Aaaahhhhhh!,BiondVax Pharmaceuticals Ltd.,14
+183,57,273.803,Bitchip,6:55 AM,8:47 AM,21/07/2001,23/09/2015,Aaaahhhhhhhhhhhhhhh!,"Republic Bancorp, Inc.",15
+713,133,110.379,Pannier,2:51 AM,2:00 AM,26/09/2010,7/6/2005,Aaaahhhhhhhhhhhhh!,"Delcath Systems, Inc.",29
+480,157,349.007,Namfix,5:39 AM,3:54 AM,1/6/2005,4/5/2014,Aaaahhhhhhh!,Public Storage,69
+810,197,172.173,Latlux,12:26 PM,1:23 PM,30/03/2014,30/06/2004,Aaaahhhhhhhhhhhhhh!,"Alder BioPharmaceuticals, Inc.",68
+517,36,8.326,Bamity,5:16 AM,5:57 PM,29/06/2013,27/09/2009,Aaaahhhhhhhhhhh!,Getty Realty Corporation,11
+920,194,374.786,Bigtax,11:40 AM,12:24 AM,24/01/2013,23/10/2000,Aaaahhhhhhhhhhh!,First Trust Strategic Income ETF,28
+107,58,340.495,Fintone,3:09 AM,7:34 AM,11/5/2008,7/11/2016,Aaaahhhhhhhhh!,Oxbridge Re Holdings Limited,56
+859,126,253.162,Zathin,3:15 PM,8:23 AM,2/7/2012,16/11/2014,Aaaahhhhhhhhhhhh!,Quaker Chemical Corporation,56
+174,52,457.679,Otcom,3:51 PM,8:18 AM,13/05/2005,13/09/2010,Aaaahhhhhhh!,"Southwest Bancorp, Inc.",11
+968,21,36.421,Vagram,10:57 AM,5:47 AM,21/11/2010,5/5/2001,Aaaahhhhhh!,Silver Run Acquisition Corporation II,23
+723,60,265.468,Treeflex,4:44 PM,7:31 AM,24/11/2014,13/08/2013,Aaaahhhhhhhhhhhhhh!,Rent-A-Center Inc.,6
+569,184,297.511,Ventosanzap,11:19 AM,9:56 PM,26/03/2006,9/12/2005,Aaaahhhh!,Dynegy Inc.,42
+108,8,276.469,Voyatouch,3:44 PM,9:52 PM,8/9/2006,9/4/2011,Aaaahhhhh!,"Live Nation Entertainment, Inc.",33
+221,214,158.809,Matsoft,12:17 PM,6:50 PM,2/2/2008,10/3/2000,Aaaahhhh!,Arotech Corporation,81
+965,43,339.466,Tin,7:54 AM,1:40 PM,20/07/2005,21/11/2012,Aaaahhh!,Flaherty & Crumrine Preferred Securities Income Fund Inc,4
+684,157,264.992,Flexidy,8:10 AM,5:11 AM,2/10/2011,27/05/2006,Aaaahhhhhhhh!,Repligen Corporation,40
+567,236,479.782,Fixflex,10:04 PM,6:44 AM,31/03/2013,30/07/2004,Aaaahhhh!,"Take-Two Interactive Software, Inc.",22
+626,99,316.971,Rank,1:49 AM,6:52 AM,13/09/2014,5/7/2004,Aaaahhhhhhhh!,Bank Mutual Corporation,91
+348,17,21.374,Subin,4:39 PM,5:20 AM,12/3/2016,5/5/2004,Aaaahhhhhhhhhhhhhh!,Five Oaks Investment Corp.,42
+878,174,456.887,Bamity,6:00 PM,12:00 AM,25/07/2011,14/06/2009,Aaaahhhhhhhhhhhh!,"Nuance Communications, Inc.",81
+872,75,451.661,Wrapsafe,5:30 PM,5:57 PM,5/5/2016,17/05/2004,Aaaahhhhhhhhhhh!,"Ryder System, Inc.",29
+573,23,291.253,Temp,9:23 PM,3:49 PM,30/09/2008,6/7/2008,Aaaahhhhhh!,"ClearOne, Inc.",61
+663,196,36.216,Voyatouch,10:07 AM,12:02 AM,21/03/2004,1/10/2004,Aaaahhhhhhhhhh!,"ADDvantage Technologies Group, Inc.",16
+993,109,368.722,Bytecard,10:32 AM,6:24 AM,14/10/2008,18/02/2005,Aaaahhhhhh!,CHS Inc,67
+49,142,227.108,Lotstring,1:42 PM,11:00 AM,18/04/2000,4/1/2015,Aaaahhhhhhhhhh!,Presbia PLC,43
+285,99,135.14,Transcof,4:41 AM,4:11 PM,8/1/2013,29/09/2003,Aaaahhhhhhhhhh!,Landmark Infrastructure Partners LP,27
+711,234,374.086,Alphazap,7:24 PM,3:21 AM,28/06/2016,28/01/2003,Aaaahhhhhhhhhhhhhhh!,"American Assets Trust, Inc.",92
+285,53,267.003,Redhold,6:58 AM,3:25 PM,23/06/2007,14/02/2001,Aaaahhhhhhhh!,"MediciNova, Inc.",34
+275,112,36.163,Latlux,3:51 PM,9:04 AM,3/4/2007,15/10/2013,Aaaahhhhhhh!,"Wheeler Real Estate Investment Trust, Inc.",75
+589,82,74.389,Redhold,7:36 AM,4:48 PM,9/5/2002,28/04/2016,Aaaahhhh!,Summit Therapeutics plc,10
+40,99,223.554,Andalax,6:15 PM,1:41 AM,29/12/2016,16/08/2005,Aaaahhhh!,ASA Gold and Precious Metals Limited,51
+54,126,488.87,Bitwolf,1:21 AM,9:39 AM,17/02/2008,19/01/2014,Aaaahhhhhhhhhh!,"W.W. Grainger, Inc.",46
+717,20,2.274,Cardguard,6:21 AM,4:13 AM,19/12/2015,6/12/2004,Aaaahhh!,"Ingles Markets, Incorporated",46
+424,244,247.289,Fix San,5:39 AM,10:29 PM,14/07/2003,15/05/2009,Aaaahhhhh!,Pacific Special Acquisition Corp.,26
+68,201,258.261,Toughjoyfax,1:58 AM,12:29 AM,23/11/2014,14/10/2012,Aaaahhhhhhhhhhhhhhh!,Apollo Commercial Real Estate Finance,97
+14,70,58.545,Fintone,6:35 AM,6:15 AM,17/05/2016,11/7/2001,Aaaahhhhhhhhh!,Navient Corporation,22
+868,230,409.531,It,11:40 AM,10:23 PM,2/11/2001,15/07/2001,Aaaahhh!,National Energy Services Reunited Corp.,8
+19,129,114.118,Mat Lam Tam,2:16 PM,1:15 PM,25/05/2014,13/01/2001,Aaaahhhhhhhhhhh!,"QuinStreet, Inc.",7
+340,70,419.998,Veribet,5:34 AM,5:19 PM,7/2/2006,20/12/2001,Aaaahhhhhhhh!,"BroadSoft, Inc.",54
+110,128,426.492,Subin,4:18 PM,11:39 PM,19/04/2015,9/1/2017,Aaaahhh!,Synalloy Corporation,79
+575,241,53.251,Zaam-Dox,1:38 PM,12:47 AM,16/11/2003,20/10/2007,Aaaahhhhhh!,"Collectors Universe, Inc.",9
+668,165,412.666,Zoolab,2:16 PM,1:36 AM,19/02/2011,25/02/2012,Aaaahhhhhhhhhhhh!,Boyd Gaming Corporation,67
+34,247,391.651,Transcof,5:57 AM,2:59 PM,27/09/2008,14/11/2015,Aaaahhhhhhhh!,Snap Inc.,44
+960,118,441.882,Holdlamis,9:17 PM,10:18 PM,16/03/2012,30/06/2010,Aaaahhhhhhhhhhhhhh!,"Gap, Inc. (The)",91
+775,7,274.173,Ronstring,6:27 AM,10:10 AM,25/09/2013,8/7/2012,Aaaahhhh!,"Ritter Pharmaceuticals, Inc.",87
+565,183,396.024,Keylex,8:07 PM,3:09 PM,28/02/2016,30/09/2003,Aaaahhhh!,Bitauto Holdings Limited,19
+48,225,84.901,Biodex,7:20 PM,12:13 PM,9/6/2011,2/5/2010,Aaaahhhhhhhhhhhhhh!,"Real Goods Solar, Inc.",42
+645,69,363.277,Zontrax,11:15 AM,5:50 PM,9/2/2015,15/12/2004,Aaaahhhhhhhhhhh!,Quorum Health Corporation,87
+819,112,489.224,Alphazap,3:41 AM,11:59 AM,28/11/2007,8/9/2005,Aaaahhhhhhhhhhhhhhh!,"Universal Stainless & Alloy Products, Inc.",46
+431,54,404.139,Lotlux,3:11 PM,11:56 AM,10/9/2010,7/10/2015,Aaaahhhhhhhhhhhhhh!,Howard Hughes Corporation (The),7
+20,145,192.416,Flowdesk,10:21 AM,8:44 AM,16/01/2015,15/11/2001,Aaaahhhhhhhhhhh!,AbbVie Inc.,8
+296,112,392.276,Ventosanzap,1:50 PM,3:47 AM,2/4/2010,17/05/2003,Aaaahhh!,Gentherm Inc,61
+657,57,470.792,Bigtax,8:13 PM,6:57 PM,4/2/2000,25/11/2013,Aaaahhhh!,Lianluo Smart Limited,40
+202,200,160.723,Domainer,12:56 AM,11:58 AM,15/10/2007,21/07/2005,Aaaahhhh!,Zymeworks Inc.,31
+490,27,280.449,Tres-Zap,12:30 PM,7:21 PM,15/03/2012,18/12/2016,Aaaahhhhhh!,SEACOR Marine Holdings Inc.,84
+566,184,370.788,Tin,8:32 PM,11:46 AM,13/04/2004,9/11/2015,Aaaahhh!,"Kindred Healthcare, Inc.",1
+40,120,441.873,Treeflex,12:57 PM,7:30 PM,9/12/2015,23/11/2013,Aaaahhhhhhhhhh!,Resolute Energy Corporation,58
+802,84,371.303,Tampflex,11:02 PM,5:51 PM,2/7/2015,16/03/2000,Aaaahhhhhhhh!,"Affiliated Managers Group, Inc.",18
+331,69,139.579,Treeflex,7:02 PM,7:38 PM,4/12/2004,30/09/2014,Aaaahhhhhhh!,"Niagara Mohawk Holdings, Inc.",87
+536,204,304.918,Prodder,10:03 AM,12:31 PM,20/06/2000,15/07/2012,Aaaahhhhhhhhh!,UNIVERSAL INSURANCE HOLDINGS INC,34
+809,187,134.719,Sonair,6:02 AM,5:05 PM,29/10/2013,28/03/2008,Aaaahhhhhhhhhh!,"Tandem Diabetes Care, Inc.",8
+396,152,76.23,Duobam,10:06 PM,10:49 AM,10/4/2004,1/3/2004,Aaaahhhhhhhh!,"First Connecticut Bancorp, Inc.",97
+935,57,178.176,Daltfresh,4:43 PM,7:28 PM,20/04/2005,14/01/2013,Aaaahhhhhhhhh!,The Organics ETF,64
+793,241,14.804,Sonsing,9:18 AM,3:46 PM,30/05/2003,7/1/2012,Aaaahhhhhhhhhhhhhhh!,"XPO Logistics, Inc.",81
+519,94,249.139,Solarbreeze,8:02 PM,2:00 PM,22/02/2015,17/06/2005,Aaaahhhhhhhhhh!,Avista Healthcare Public Acquisition Corp.,74
+970,242,66.437,Wrapsafe,2:19 PM,11:24 AM,22/09/2006,10/4/2002,Aaaahhhhhhh!,"Olympic Steel, Inc.",89
+229,175,305.675,Stronghold,3:56 AM,4:21 PM,6/6/2014,15/06/2016,Aaaahhhhhhhhhhh!,Cypress Semiconductor Corporation,61
+643,194,42.111,Mat Lam Tam,8:07 PM,11:18 PM,4/9/2011,10/5/2003,Aaaahhhhhhhhhhhhh!,"Xilinx, Inc.",66
+198,140,493.341,Fintone,1:41 AM,1:44 PM,17/09/2016,13/02/2014,Aaaahhhh!,Gencor Industries Inc.,99
+143,98,199.87,Tin,4:34 PM,11:37 PM,27/04/2001,17/12/2011,Aaaahhhhhhhhh!,PowerShares FTSE RAFI US 1500 Small-Mid Portfolio,67
+302,41,482.826,Bamity,12:24 AM,1:52 AM,24/07/2009,20/12/2007,Aaaahhhhhhhhh!,Whiting Petroleum Corporation,33
+34,30,403.118,Fixflex,4:42 PM,12:36 AM,9/6/2000,2/6/2005,Aaaahhhhhhhhhhhhhhh!,MV Oil Trust,55
+390,172,51.867,Stronghold,4:30 AM,12:57 AM,25/10/2007,25/03/2015,Aaaahhhh!,"Hibbett Sports, Inc.",26
+532,147,459.973,Cardguard,4:04 AM,5:47 PM,12/2/2007,29/11/2008,Aaaahhh!,Valley National Bancorp,76
+236,80,331.361,Temp,12:58 AM,11:58 PM,15/01/2011,30/06/2010,Aaaahhhhhh!,"PB Bancorp, Inc.",13
+43,119,397.469,Lotstring,11:12 AM,10:39 PM,2/12/2000,4/1/2007,Aaaahhhhhhhhhh!,Seaspan Corporation,2
+764,121,116.354,Latlux,6:54 PM,3:31 PM,17/12/2002,17/02/2016,Aaaahhhhhhhhhhh!,"Safeguard Scientifics, Inc.",42
+787,71,357.768,Konklux,3:01 PM,7:09 PM,25/12/2006,18/05/2009,Aaaahhhhh!,Optical Cable Corporation,9
+624,21,219.417,Fix San,2:01 PM,5:18 AM,14/02/2016,29/12/2012,Aaaahhhhhhhhhh!,Resource Capital Corp.,100
+73,187,189.647,Transcof,5:29 AM,9:30 AM,27/08/2005,27/08/2010,Aaaahhhhhh!,PowerShares Golden Dragon China Portfolio,21
+352,200,482.614,Viva,5:27 PM,3:23 PM,2/3/2013,5/5/2004,Aaaahhhhh!,Blackstone GSO Long Short Credit Income Fund,15
+708,110,63.108,Tempsoft,6:19 AM,3:00 AM,11/1/2006,9/4/2007,Aaaahhhhhhhh!,"ZAIS Group Holdings, Inc.",59
+917,137,121.265,It,9:47 PM,9:09 PM,16/04/2016,2/7/2004,Aaaahhhh!,"Yatra Online, Inc.",78
+325,162,462.788,Treeflex,6:02 AM,5:03 PM,28/08/2011,6/7/2000,Aaaahhhhhhhhh!,Ralph Lauren Corporation,83
+191,4,297.634,Wrapsafe,9:56 AM,3:47 AM,7/8/2003,17/12/2005,Aaaahhhhhh!,Avista Healthcare Public Acquisition Corp.,9
+468,16,85.986,Zaam-Dox,8:46 PM,5:38 AM,3/10/2012,14/09/2009,Aaaahhhhhhhhhhhhh!,"Great Southern Bancorp, Inc.",77
+806,155,74.48,Y-Solowarm,9:11 PM,10:24 PM,12/8/2016,23/09/2010,Aaaahhhhhhhhhh!,Kemper Corporation,83
+655,33,2.887,Zoolab,1:03 PM,1:16 PM,20/12/2008,30/09/2001,Aaaahhhhhh!,AllianzGI Diversified Income & Convertible Fund,76
+543,240,145.091,Matsoft,4:41 AM,7:32 PM,7/9/2009,19/10/2011,Aaaahhhhhhhhhhhhhh!,"Globus Medical, Inc.",94
+834,160,392.207,Treeflex,2:29 PM,9:09 AM,5/10/2003,13/06/2015,Aaaahhhhhhhhhhhhhh!,"MaxLinear, Inc",77
+382,173,148.385,Y-Solowarm,7:30 PM,4:41 PM,17/10/2016,21/07/2011,Aaaahhhhhhhhhhhhhhh!,GATX Corporation,53
+204,74,321.829,Sub-Ex,3:52 PM,10:51 AM,12/5/2007,26/01/2012,Aaaahhhh!,"Pacific Ethanol, Inc.",25
+73,143,433.275,Vagram,10:34 PM,3:58 PM,19/01/2003,30/06/2003,Aaaahhhhhhhhhhhhhhh!,"Cadiz, Inc.",29
+149,156,232.812,Gembucket,7:02 PM,7:46 AM,28/02/2011,16/08/2010,Aaaahhhhhhh!,"Lifetime Brands, Inc.",41
+118,175,198.852,Bytecard,9:27 PM,5:16 PM,7/6/2006,17/08/2016,Aaaahhhhhhhhhh!,"INC Research Holdings, Inc.",74
+916,109,54.645,Bigtax,12:28 PM,9:23 AM,16/01/2010,17/08/2015,Aaaahhhhhhhhhhh!,Kayne Anderson Energy Development Company,15
+25,221,162.869,Gembucket,12:36 PM,2:55 AM,11/4/2002,5/1/2011,Aaaahhh!,"United Financial Bancorp, Inc. ",22
+765,189,192.571,Vagram,7:00 PM,11:42 AM,7/9/2009,26/05/2011,Aaaahhhhhhhhhhhh!,Xcerra Corporation,53
+62,238,7.635,Flexidy,2:24 PM,1:39 PM,3/12/2005,5/4/2012,Aaaahhhhhhhhhhhhhh!,Garrison Capital Inc.,65
+978,72,397.804,Zontrax,1:50 AM,4:03 AM,19/10/2008,11/11/2010,Aaaahhhhhhhhhhh!,"Chiasma, Inc.",32
+875,121,72.278,Keylex,3:55 AM,11:48 PM,15/09/2016,6/5/2006,Aaaahhhh!,Cigna Corporation,1
+836,6,180.687,Pannier,1:06 AM,6:38 PM,26/02/2008,15/12/2012,Aaaahhhhhhhhhhh!,"Colony NorthStar, Inc.",58
+730,234,62.259,Rank,8:31 PM,7:57 PM,9/8/2015,11/1/2001,Aaaahhhhhhhhhhhh!,Axar Acquisition Corp.,73
+843,82,318.11,Otcom,11:57 PM,6:04 PM,22/04/2004,18/03/2014,Aaaahhhhhh!,The Priceline Group Inc. ,79
+510,226,264.805,Alpha,11:08 PM,10:53 PM,26/11/2002,4/1/2006,Aaaahhhhh!,JM Global Holding Company,93
+702,250,197.209,Aerified,9:03 AM,2:24 AM,3/1/2002,20/02/2006,Aaaahhhhhhhhh!,Peoples Financial Services Corp. ,97
+104,181,259.438,Veribet,10:27 AM,1:27 AM,13/05/2014,24/07/2013,Aaaahhhhhhhhhhh!,Korea Electric Power Corporation,11
+62,120,209.761,Solarbreeze,2:45 PM,3:26 PM,12/1/2016,16/10/2004,Aaaahhh!,New Age Beverages Corporation,56
+162,5,126.804,Gembucket,5:17 PM,6:46 AM,16/09/2013,1/11/2014,Aaaahhhhhhhhhhhh!,Rex Energy Corporation,10
+202,128,240.316,Home Ing,6:09 AM,1:00 AM,15/11/2010,21/07/2007,Aaaahhhhhh!,"ONEOK, Inc.",94
+819,160,440.269,Flowdesk,2:20 AM,7:10 PM,11/3/2015,15/05/2015,Aaaahhhhhhhhhhh!,Perry Ellis International Inc.,10
+888,235,138.646,Cardify,9:35 AM,5:48 PM,29/10/2008,9/3/2011,Aaaahhhhhh!,"Scudder Global High Income Fund, Inc.",58
+561,38,268.577,Zontrax,11:51 AM,1:39 PM,12/5/2004,20/09/2004,Aaaahhh!,ChannelAdvisor Corporation,74
+27,35,450.458,Sub-Ex,3:30 AM,8:06 PM,25/12/2005,7/8/2007,Aaaahhhhhhh!,"Manhattan Associates, Inc.",7
+539,231,227.915,Keylex,2:10 AM,10:26 AM,11/11/2004,31/08/2010,Aaaahhhhhh!,Qwest Corporation,52
+12,250,280.698,Bitchip,4:32 PM,11:18 PM,17/08/2012,6/8/2012,Aaaahhhhh!,INVESCO MORTGAGE CAPITAL INC,92
+621,155,477.671,Flowdesk,10:29 PM,12:36 PM,13/01/2002,6/5/2008,Aaaahhhhhh!,HealthSouth Corporation,56
+791,146,396.296,Wrapsafe,11:02 PM,12:04 PM,9/6/2008,28/12/2012,Aaaahhhh!,NXP Semiconductors N.V.,14
+877,125,351.499,Otcom,2:50 AM,1:37 AM,13/09/2010,12/11/2002,Aaaahhhhh!,Chemung Financial Corp,6
+461,211,191.5,Toughjoyfax,7:29 AM,9:08 PM,7/5/2006,31/03/2014,Aaaahhhhhhhhh!,Toro Company (The),24
+837,181,12.541,Trippledex,8:43 PM,7:02 PM,23/11/2013,8/10/2016,Aaaahhhhhhhhhhh!,"Wecast Network, Inc.",65
+111,194,285.751,Quo Lux,11:06 PM,7:38 PM,12/10/2010,7/11/2008,Aaaahhhhhhhhh!,CVS Health Corporation,3
+499,102,2.522,Job,2:50 PM,11:54 PM,22/10/2016,7/7/2010,Aaaahhhhhhhhhhhh!,"Kratos Defense & Security Solutions, Inc.",26
+891,162,354.305,Stim,2:56 AM,11:01 AM,20/04/2012,10/5/2007,Aaaahhhhhh!,"Maui Land & Pineapple Company, Inc.",87
+514,115,360.426,Home Ing,12:32 PM,11:26 AM,11/7/2004,9/5/2002,Aaaahhhhhhhhhhhhhh!,"1-800 FLOWERS.COM, Inc.",46
+737,180,245.087,Overhold,3:57 PM,6:32 PM,24/06/2003,4/10/2011,Aaaahhhhhhhh!,"Basic Energy Services, Inc.",21
+794,171,238.535,Bitchip,1:46 PM,7:39 AM,28/09/2012,2/4/2015,Aaaahhhhhh!,"First Savings Financial Group, Inc.",97
+194,72,83.64,Zontrax,3:53 PM,4:15 PM,4/11/2004,19/11/2008,Aaaahhhhh!,PrimeEnergy Corporation,20
+504,157,21.831,Tampflex,7:15 AM,2:08 AM,12/3/2010,11/3/2009,Aaaahhhhhhh!,Integra LifeSciences Holdings Corporation,57
+307,178,365.557,Bigtax,2:41 AM,5:04 PM,9/7/2015,19/01/2000,Aaaahhhhhhhhhhh!,Fulton Financial Corporation,59
+219,185,184.132,Home Ing,10:47 PM,9:55 PM,25/12/2016,4/11/2013,Aaaahhh!,American Vanguard Corporation,47
+880,61,48.223,Zamit,11:29 PM,6:56 PM,11/8/2001,27/10/2004,Aaaahhh!,"Viking Therapeutics, Inc.",74
+939,182,251.279,Stim,8:26 PM,5:25 PM,14/04/2001,30/12/2003,Aaaahhhhh!,"TCW Strategic Income Fund, Inc.",24
+930,4,223.133,Greenlam,10:54 PM,1:16 PM,5/10/2016,1/12/2014,Aaaahhh!,"BioTelemetry, Inc.",24
+209,183,213.986,Fixflex,5:52 PM,11:55 PM,29/06/2016,14/05/2008,Aaaahhhhhh!,Cross Timbers Royalty Trust,12
+667,78,361.659,Lotstring,10:00 PM,3:50 PM,3/8/2005,16/06/2013,Aaaahhhhhhhhhhhh!,iRadimed Corporation,69
+81,9,39.526,Namfix,8:12 AM,7:36 PM,17/01/2006,10/10/2005,Aaaahhhhhh!,"Genesis Energy, L.P.",37
+518,78,219.898,Greenlam,5:20 PM,2:05 AM,6/9/2000,8/3/2001,Aaaahhhhhhhhhhh!,XOMA Corporation,78
+372,49,211.757,Aerified,12:58 AM,12:06 AM,21/09/2001,4/11/2006,Aaaahhhhhhhhhh!,"Spark Therapeutics, Inc.",69
+357,172,253.552,Stringtough,5:49 AM,7:56 PM,13/06/2010,16/12/2007,Aaaahhhhhhhhh!,Express Scripts Holding Company,1
+583,169,469.896,Treeflex,1:57 AM,1:41 PM,26/10/2003,27/01/2014,Aaaahhhhhhhhhh!,Balchem Corporation,32
+676,74,214.787,Fixflex,4:29 AM,3:43 AM,1/1/2002,23/12/2007,Aaaahhhhhhh!,"Ruby Tuesday, Inc.",80
+439,110,84.59,Kanlam,4:41 PM,3:40 PM,30/12/2007,24/02/2014,Aaaahhhhhhhhhhhh!,Chesapeake Energy Corporation,61
+84,115,342.18,Temp,3:25 PM,10:10 AM,28/01/2005,1/3/2010,Aaaahhh!,Energous Corporation,32
+294,97,365.7,Fix San,12:09 AM,10:38 PM,3/10/2014,28/08/2000,Aaaahhhhhhhh!,Chimera Investment Corporation,43
+111,140,108.233,Treeflex,1:56 AM,5:36 AM,5/11/2003,31/10/2005,Aaaahhhhhhhhhhhhhh!,GW Pharmaceuticals Plc,58
+747,147,58.493,Duobam,12:44 AM,9:51 PM,24/01/2003,24/04/2001,Aaaahhhhhhhhhhhh!,"Qorvo, Inc.",86
+608,128,330.593,Bitwolf,8:16 AM,6:11 AM,29/12/2000,12/9/2015,Aaaahhhhhhhhhhh!,"Sensus Healthcare, Inc.",61
+378,25,145.361,Aerified,2:28 AM,1:14 AM,26/01/2011,2/12/2009,Aaaahhhhh!,Masonite International Corporation,90
+393,11,358.977,Ventosanzap,4:27 PM,4:10 PM,20/01/2000,30/07/2001,Aaaahhhhhhhhhhhhhh!,"Real Industry, Inc. ",30
+215,241,397.566,Stim,4:57 PM,11:18 PM,5/9/2003,17/09/2014,Aaaahhhhhhhhhhhhhhh!,PowerShares DWA Industrials Momentum Portfolio,19
+918,125,4.93,Zaam-Dox,12:30 PM,6:28 AM,22/12/2010,7/1/2014,Aaaahhhhhhh!,"Apogee Enterprises, Inc.",62
+6,225,201.49,Trippledex,7:20 AM,10:59 PM,14/10/2007,21/07/2015,Aaaahhhhhhhhh!,"Templeton Emerging Markets Income Fund, Inc.",30
+308,248,34.047,Flexidy,3:41 PM,4:31 AM,19/11/2013,26/01/2012,Aaaahhhhhhhhhhhhhhh!,Hoegh LNG Partners LP,93
+635,5,474.568,Namfix,6:10 AM,1:30 PM,11/6/2015,19/04/2000,Aaaahhhhhhhhhhhh!,"Taubman Centers, Inc.",24
+959,34,143.107,Cardify,6:57 AM,10:07 PM,13/09/2005,27/09/2006,Aaaahhhhhhhhhhh!,iShares MSCI Europe Small-Cap ETF,99
+346,237,130.937,Sonsing,11:09 PM,11:45 AM,25/03/2006,4/5/2012,Aaaahhhh!,Radian Group Inc.,8
+32,221,199.127,Hatity,10:33 AM,9:50 PM,14/01/2003,20/11/2004,Aaaahhhhhhhhhhhhh!,"Kelly Services, Inc.",54
+56,219,346.098,Flowdesk,12:44 AM,12:51 AM,8/1/2001,21/05/2008,Aaaahhhhhhh!,"CoreCivic, Inc.",17
+639,89,283.922,Opela,2:36 PM,7:35 AM,20/10/2003,6/10/2002,Aaaahhhh!,"HD Supply Holdings, Inc.",84
+122,84,342.417,Y-Solowarm,2:07 PM,5:08 PM,3/8/2002,7/6/2010,Aaaahhhhhhhhhh!,Ameren Corporation,74
+386,31,470.913,Zontrax,6:32 PM,4:27 PM,19/11/2005,8/3/2006,Aaaahhhhhhhhhhhhhh!,Putnam Master Intermediate Income Trust,2
+274,140,180.213,Cardguard,11:43 PM,10:28 AM,3/9/2002,11/8/2002,Aaaahhhhhhhhhhhhhhh!,Saban Capital Acquisition Corp.,92
+59,249,57.805,Stim,10:36 AM,4:11 AM,24/07/2014,25/12/2000,Aaaahhh!,"Bojangles&#39;, Inc.",3
+462,184,239.377,Flowdesk,4:51 AM,4:47 PM,27/03/2003,11/6/2001,Aaaahhhhhhhhhhhhhh!,National Holdings Corporation,50
+958,133,481.689,Hatity,12:27 PM,3:53 AM,27/11/2003,19/12/2002,Aaaahhhhhhhhhhh!,"Foot Locker, Inc.",31
+423,121,377.331,Alphazap,9:12 PM,5:00 PM,16/06/2000,31/12/2011,Aaaahhhhhhhhhhhhhh!,Deckers Outdoor Corporation,70
+883,248,447.434,Bitwolf,3:31 PM,1:45 PM,11/9/2010,14/07/2012,Aaaahhhhhh!,"Enbridge Energy, L.P.",8
+236,249,167.091,Redhold,11:11 PM,2:58 AM,4/1/2005,29/05/2002,Aaaahhhhhhhhhhhhhh!,AquaVenture Holdings Limited,98
+591,51,454.197,Tempsoft,5:47 AM,1:18 PM,16/10/2000,27/01/2013,Aaaahhhh!,Quaker Chemical Corporation,15
+944,33,7.174,Cookley,2:57 PM,5:14 AM,19/05/2000,13/12/2010,Aaaahhhhhhhhhhhhhh!,"PC Connection, Inc.",91
+209,211,72.262,Tin,1:46 AM,12:34 PM,15/08/2000,11/6/2001,Aaaahhhhhhhhh!,Annaly Capital Management Inc,82
+239,94,89.194,Daltfresh,3:59 PM,6:04 AM,4/4/2000,25/02/2016,Aaaahhh!,Heritage Financial Corporation,73
+395,106,168.523,Matsoft,3:43 AM,9:26 PM,31/10/2010,9/9/2008,Aaaahhhhhhh!,BalckRock Taxable Municipal Bond Trust,52
+166,17,322.005,Overhold,4:27 PM,6:00 AM,14/08/2000,3/9/2010,Aaaahhhhhhhhhhhh!,Arcos Dorados Holdings Inc.,75
+52,68,105.357,Otcom,11:26 AM,9:07 AM,14/09/2008,20/11/2008,Aaaahhhhhhhh!,"Myers Industries, Inc.",82
+232,182,453.882,Cardguard,1:31 AM,11:33 PM,6/7/2009,31/10/2000,Aaaahhhhhhhhhh!,"DST Systems, Inc.",46
+620,234,111.261,Tempsoft,7:35 AM,8:24 PM,15/02/2003,3/3/2011,Aaaahhhhhhh!,"Caseys General Stores, Inc.",19
+307,30,132.027,Sub-Ex,6:55 PM,12:54 PM,14/05/2013,7/8/2012,Aaaahhhhhhhhhhh!,"Presidio, Inc.",94
+594,95,8.909,Konklab,3:12 PM,5:37 AM,30/03/2016,17/09/2000,Aaaahhhhhhhhhhhhhhh!,Destination Maternity Corporation,15
+600,222,115.485,Gembucket,1:10 PM,6:23 PM,17/12/2000,14/09/2013,Aaaahhhhhhhhhhhh!,Invesco Plc,93
+43,249,473.389,Tresom,3:04 PM,11:09 AM,26/07/2003,13/03/2002,Aaaahhhhhhhhh!,Mallinckrodt plc,75
+894,76,288.407,Veribet,12:04 AM,7:59 PM,1/9/2000,19/11/2009,Aaaahhhhh!,First Trust BICK Index Fund,67
+80,116,372.274,Bytecard,10:05 PM,4:44 AM,25/05/2014,12/6/2002,Aaaahhhhhh!,Prudential Public Limited Company,26
+145,220,423.746,Y-find,8:10 PM,10:16 PM,27/06/2010,11/9/2014,Aaaahhhhh!,GasLog LP.,45
+157,2,379.63,It,12:58 PM,3:23 PM,20/04/2008,1/11/2010,Aaaahhhhhhhhhhh!,StoneCastle Financial Corp,18
+12,162,483.968,Alpha,4:38 AM,4:59 PM,14/03/2005,8/1/2010,Aaaahhhhhhh!,"Boston Private Financial Holdings, Inc.",79
+619,127,433.75,Temp,3:54 AM,2:59 PM,29/08/2015,8/1/2004,Aaaahhhhhhhhhh!,"HopFed Bancorp, Inc.",50
+754,198,339.32,Lotstring,10:09 AM,5:53 PM,30/08/2001,11/3/2001,Aaaahhhhhhhhhhhhhh!,Ciner Resources LP,76
+382,42,153.353,Tempsoft,5:39 PM,7:03 PM,16/09/2001,23/12/2010,Aaaahhh!,"MasTec, Inc.",77
+574,167,282.627,Matsoft,8:12 PM,12:05 PM,29/10/2007,19/06/2008,Aaaahhhhhhhhhh!,Cooper-Standard Holdings Inc.,94
+80,112,145.994,Rank,1:50 AM,3:16 AM,18/04/2005,22/04/2004,Aaaahhhhhhhh!,Rowan Companies plc,97
+609,50,469.851,Treeflex,12:27 AM,10:01 PM,9/10/2006,27/07/2011,Aaaahhh!,VictoryShares Dividend Accelerator ETF,35
+150,198,175.47,Opela,4:46 AM,1:32 PM,22/09/2006,19/04/2005,Aaaahhh!,"Analog Devices, Inc.",50
+564,80,394.039,Voltsillam,9:05 AM,11:14 AM,11/5/2014,16/02/2004,Aaaahhhhhhh!,Mercer International Inc.,85
+552,218,484.623,Veribet,9:22 PM,1:18 AM,10/6/2005,23/12/2010,Aaaahhhhhhhhh!,CTS Corporation,47
+568,185,303.698,Matsoft,8:35 PM,1:45 AM,4/11/2014,4/8/2004,Aaaahhhhhhhhhhhh!,DCP Midstream LP,30
+34,186,442.998,Fintone,3:42 PM,12:26 AM,2/4/2006,11/4/2014,Aaaahhhhhhhhhhhhhhh!,Barings Corporate Investors,49
+47,197,284.178,Regrant,7:53 PM,5:58 AM,24/01/2009,8/11/2008,Aaaahhhhhhhhhhhhhhh!,First Trust NASDAQ Smartphone Index Fund,46
+361,238,254.826,Greenlam,3:28 AM,8:37 PM,29/04/2012,14/03/2000,Aaaahhhhhhhhhhh!,"Lydall, Inc.",5
+563,105,475.554,Quo Lux,5:11 PM,3:11 PM,13/02/2008,11/4/2005,Aaaahhhhhhhhhhhhhhh!,Wells Fargo & Company,14
+710,76,296.058,Cardguard,5:37 PM,2:39 PM,5/3/2012,11/12/2007,Aaaahhhhhhhhhhh!,BBVA Banco Frances S.A.,80
+812,214,451.67,Lotstring,7:05 PM,8:35 PM,3/8/2001,22/04/2004,Aaaahhhhhh!,"SK Telecom Co., Ltd.",61
+748,142,436.922,Bamity,5:15 PM,6:52 PM,30/11/2001,26/09/2007,Aaaahhhhhhhhhhhhhhh!,"AMC Entertainment Holdings, Inc.",82
+943,113,33.757,Stim,7:30 PM,4:56 PM,12/10/2006,13/09/2010,Aaaahhhhhh!,Eagle Bulk Shipping Inc.,99
+341,109,117.081,Span,10:55 AM,4:34 PM,19/07/2008,23/01/2014,Aaaahhh!,"Gray Television, Inc.",44
+934,50,181.172,Span,5:31 AM,12:37 AM,1/6/2015,6/7/2000,Aaaahhhh!,iShares S&P Emerging Markets Infrastructure Index Fund,74
+865,11,403.237,Zontrax,12:38 AM,12:31 AM,14/08/2003,7/6/2005,Aaaahhhhhhhhh!,Tejon Ranch Co,92
+61,79,437.041,Y-Solowarm,10:44 AM,2:02 AM,28/11/2012,30/04/2014,Aaaahhhhhhh!,"Sensus Healthcare, Inc.",79
+123,78,100.2,Zontrax,4:22 PM,1:43 AM,15/02/2008,2/2/2007,Aaaahhhhh!,Royal Dutch Shell PLC,45
+306,137,493.385,Job,12:43 AM,12:31 AM,23/10/2012,3/5/2016,Aaaahhhhhhhhh!,"McCormick & Company, Incorporated",37
+915,7,351.376,Gembucket,8:53 PM,1:23 PM,25/10/2013,11/6/2012,Aaaahhhhhhhhh!,"Broadridge Financial Solutions, Inc.",27
+776,139,55.715,Hatity,1:05 AM,1:49 AM,31/12/2009,21/10/2001,Aaaahhhhhhhhhhhhhh!,"ModusLink Global Solutions, Inc",16
+49,117,87.478,Biodex,4:45 AM,6:14 PM,18/09/2000,25/02/2004,Aaaahhhhhhhhhhhh!,"Camping World Holdings, Inc.",45
+871,36,161.822,Fixflex,2:47 AM,5:10 AM,23/01/2013,6/9/2003,Aaaahhhhhh!,"Minerva Neurosciences, Inc",58
+48,12,272.422,Stronghold,5:44 PM,8:36 AM,12/8/2014,18/08/2011,Aaaahhhhhhhhhhhhhhh!,XBiotech Inc.,68
+732,224,361.611,Domainer,5:53 PM,1:53 AM,28/10/2012,15/02/2010,Aaaahhhhh!,Tuniu Corporation,75
+334,33,203.623,Konklux,4:15 AM,4:33 PM,31/01/2007,20/11/2003,Aaaahhhh!,Corcept Therapeutics Incorporated,11
+321,18,67.681,Latlux,4:50 PM,4:30 AM,1/6/2004,17/05/2012,Aaaahhh!,ARRIS International plc,45
+192,111,307.921,It,3:26 AM,12:35 AM,23/12/2005,22/11/2000,Aaaahhhhh!,Telecom Argentina Stet - France Telecom S.A.,86
+500,131,499.544,Matsoft,8:31 AM,12:06 AM,13/01/2014,7/4/2001,Aaaahhhhhhhh!,Brookfield Global Listed Infrastructure Income Fund,31
+224,157,126.649,Lotlux,9:49 PM,8:16 PM,4/8/2011,31/07/2003,Aaaahhhhhhhhhhhhhhh!,JetBlue Airways Corporation,84
+618,210,174.25,Holdlamis,12:51 PM,11:17 PM,23/07/2009,24/08/2014,Aaaahhhhh!,Navient Corporation,29
+828,196,123.205,Prodder,2:47 AM,8:06 PM,14/08/2013,22/01/2013,Aaaahhhhhhhhhhhhhh!,Kimco Realty Corporation,65
+241,32,148.958,Latlux,5:34 PM,1:20 PM,7/12/2002,30/11/2015,Aaaahhhhhhhhhhh!,Infinera Corporation,80
+644,22,464.211,Fix San,4:38 AM,12:54 AM,22/12/2014,28/12/2007,Aaaahhhhhhhhhh!,"STARWOOD PROPERTY TRUST, INC.",19
+720,238,267.044,Tin,8:58 PM,4:13 PM,18/03/2011,11/9/2006,Aaaahhhhhhhhhh!,"Gamco Investors, Inc.",18
+864,215,184.215,Transcof,4:01 AM,7:40 AM,15/06/2001,17/04/2010,Aaaahhh!,"CST Brands, Inc.",55
+917,101,92.696,Zontrax,12:23 PM,9:34 PM,17/09/2012,27/05/2005,Aaaahhhhhhhhhhhhh!,First Financial Bancorp.,67
+152,64,168.202,Biodex,5:50 AM,8:34 AM,1/6/2010,8/6/2011,Aaaahhhhhhhhhhh!,State Street Corporation,18
+681,209,324.632,Bamity,2:20 AM,2:03 PM,9/12/2001,1/10/2013,Aaaahhh!,TESSCO Technologies Incorporated,86
+889,172,53.295,Stim,8:37 PM,1:58 PM,19/06/2009,17/04/2004,Aaaahhhhhhhhhhhhh!,"CAS Medical Systems, Inc.",8
+623,95,167.222,Y-find,10:54 PM,2:16 PM,17/10/2009,23/03/2006,Aaaahhhh!,Nortel Inversora SA,46
+74,24,23.781,Latlux,6:32 AM,10:15 AM,29/09/2012,25/05/2015,Aaaahhhhh!,"Box, Inc.",28
+423,238,96.234,Bigtax,10:39 PM,9:10 PM,23/03/2006,13/06/2001,Aaaahhhhhhhhhhhhhhh!,"Kandi Technologies Group, Inc.",23
+386,219,67.694,Sub-Ex,11:47 AM,10:21 AM,9/9/2001,5/11/2010,Aaaahhhhhhhhhh!,"Gener8 Maritime, Inc.",6
+278,217,388.575,Tresom,6:18 PM,3:09 PM,27/09/2014,18/07/2010,Aaaahhhhhh!,"CBL & Associates Properties, Inc.",6
+954,155,95.567,Zaam-Dox,8:05 PM,3:09 AM,17/10/2003,28/07/2011,Aaaahhhhhhhhhhh!,Kayne Anderson MLP Investment Company,46
+718,74,88.983,Bitwolf,10:19 AM,4:45 AM,13/03/2011,10/9/2001,Aaaahhh!,Invesco Quality Municipal Income Trust,28
+704,71,228.474,Wrapsafe,4:30 PM,10:25 PM,26/09/2008,16/02/2014,Aaaahhhhhhhhhhhhhhh!,"PHI, Inc.",8
+248,75,470.151,Latlux,4:02 AM,3:28 AM,4/2/2006,13/11/2008,Aaaahhhhhhhhhhhh!,"RealPage, Inc.",27
+820,162,232.89,Home Ing,10:19 AM,9:24 AM,15/05/2012,11/10/2009,Aaaahhhhhhhhhhhhh!,The First of Long Island Corporation,7
+660,229,286.407,Kanlam,3:47 PM,7:04 AM,22/01/2007,12/10/2003,Aaaahhhh!,Dextera Surgical Inc.,31
+185,78,424.084,Domainer,1:54 AM,12:26 PM,1/4/2003,16/10/2015,Aaaahhhhhhh!,Sherwin-Williams Company (The),87
+335,125,400.272,Voyatouch,10:32 AM,5:26 PM,24/06/2013,28/04/2012,Aaaahhhhhhhh!,Check-Cap Ltd.,55
+300,176,11.057,Cardguard,9:51 AM,6:25 PM,6/1/2007,7/11/2000,Aaaahhhhhhhhhhh!,Regency Centers Corporation,18
+586,183,411.382,Redhold,10:32 AM,10:01 PM,15/05/2010,24/06/2000,Aaaahhhhhhhhhhhh!,Alpine Global Premier Properties Fund,29
+347,111,399.789,Rank,12:09 PM,10:32 PM,8/8/2014,3/5/2012,Aaaahhhhhhhhhhhhhhh!,"Revlon, Inc.",7
+691,103,436.307,Holdlamis,4:44 AM,4:41 PM,12/3/2009,20/07/2011,Aaaahhhhhhhh!,Quorum Health Corporation,34
+202,241,105.338,Wrapsafe,11:20 PM,11:26 PM,1/2/2000,24/01/2010,Aaaahhhhhhhhhhhhhhh!,"Align Technology, Inc.",68
+352,10,87.689,Zaam-Dox,2:12 AM,3:35 PM,25/05/2001,5/9/2004,Aaaahhhhhh!,IntriCon Corporation,25
+238,151,225.223,Sonsing,4:51 PM,12:39 AM,9/5/2000,8/12/2015,Aaaahhhhh!,"PNC Financial Services Group, Inc. (The)",54
+902,231,464.623,Voltsillam,10:55 PM,12:05 AM,19/06/2013,22/09/2014,Aaaahhh!,Nuveen Floating Rate Income Fund,55
+184,40,264.453,Vagram,10:36 AM,10:51 PM,26/01/2007,15/02/2006,Aaaahhhh!,"NxStage Medical, Inc.",4
+961,132,197.385,Flexidy,7:45 PM,10:46 AM,16/09/2008,6/6/2000,Aaaahhhhhhhh!,VivoPower International PLC,6
+705,87,133.226,It,4:39 PM,11:39 PM,14/02/2013,2/3/2010,Aaaahhhhhhhhhhhhhh!,"RCM Technologies, Inc.",81
+478,166,311.815,Transcof,9:33 PM,12:17 PM,25/02/2014,9/6/2011,Aaaahhhh!,"Protagonist Therapeutics, Inc.",78
+158,142,467.941,Fix San,4:15 AM,7:37 PM,7/7/2011,31/05/2011,Aaaahhhhhhh!,"Washington Trust Bancorp, Inc.",86
+312,124,482.637,Vagram,5:32 PM,10:37 AM,14/02/2009,26/12/2001,Aaaahhhhhhhh!,Regal Entertainment Group,34
+695,43,28.682,Toughjoyfax,6:21 AM,8:44 AM,6/5/2008,25/11/2005,Aaaahhhhhhhhhhhhhhh!,BlackRock Capital Investment Corporation,39
+407,114,291.49,Aerified,1:06 PM,5:21 PM,16/02/2007,28/05/2011,Aaaahhhhhhhhhhhh!,Zions Bancorporation,46
+329,34,169.372,Daltfresh,11:55 PM,12:24 PM,18/05/2002,12/1/2003,Aaaahhhhhh!,ResMed Inc.,33
+231,208,435.511,Y-find,1:36 AM,12:42 PM,24/01/2014,9/1/2007,Aaaahhhhhhh!,"Neos Therapeutics, Inc.",67
+694,21,178.332,Zaam-Dox,2:29 AM,6:04 PM,6/1/2001,14/02/2010,Aaaahhhh!,"Boston Beer Company, Inc. (The)",81
+862,41,44.75,Y-Solowarm,9:44 AM,1:22 PM,4/2/2016,17/07/2012,Aaaahhhhhhhhhhhhh!,Legg Mason Global Infrastructure ETF,10
+700,79,44.123,Trippledex,3:16 PM,12:22 AM,31/08/2005,11/9/2005,Aaaahhhhhh!,Cypress Semiconductor Corporation,98
+126,71,271.019,Regrant,7:47 AM,2:06 PM,8/6/2008,31/12/2005,Aaaahhhhhhhhhhhhhhh!,"LightInTheBox Holding Co., Ltd.",25
+672,225,100.469,Temp,1:41 PM,9:35 PM,15/04/2005,21/06/2012,Aaaahhhhh!,"LightPath Technologies, Inc.",65
+617,55,405.006,Ronstring,1:39 PM,2:13 PM,20/01/2013,28/03/2001,Aaaahhhhhhhhhh!,"CalAtlantic Group, Inc.",10
+190,68,332.42,Quo Lux,8:40 AM,10:34 AM,8/10/2009,13/10/2014,Aaaahhhhhhhhhhhhhh!,Tekla Life Sciences Investors,13
+947,143,336.353,Sonair,8:58 PM,11:51 PM,12/4/2001,20/05/2007,Aaaahhhhhhhhhhhh!,Fastenal Company,47
+412,88,158.134,Viva,9:02 AM,2:28 AM,18/02/2002,5/3/2004,Aaaahhhhhh!,"USA Technologies, Inc.",25
+892,139,219.091,Ronstring,11:19 PM,1:33 PM,25/01/2005,22/01/2002,Aaaahhhhhhhhh!,"ATN International, Inc.",13
+262,59,167.104,Duobam,2:08 AM,12:47 AM,6/4/2001,20/10/2001,Aaaahhhhhhhhhhhhh!,CombiMatrix Corporation,28
+598,82,241.815,Zathin,3:18 PM,10:35 PM,30/07/2012,13/02/2016,Aaaahhh!,iStar Financial Inc.,37
+947,160,402.202,Viva,8:35 AM,11:22 PM,23/06/2006,25/09/2000,Aaaahhhhhhhhhh!,"BancorpSouth, Inc.",33
+751,57,414.628,Flexidy,9:08 AM,6:56 PM,10/2/2007,16/11/2013,Aaaahhhhhhhhhhhhhhh!,Axis Capital Holdings Limited,18
+579,3,84.432,Sonsing,2:40 PM,1:16 PM,9/11/2005,29/11/2014,Aaaahhhhhhhh!,"Nexeo Solutions, Inc.",12
+193,54,17.861,Namfix,9:49 AM,8:17 PM,28/11/2008,13/02/2010,Aaaahhhhhhh!,"Activision Blizzard, Inc",18
+677,223,163.153,Fixflex,5:43 AM,4:14 AM,30/06/2006,23/12/2011,Aaaahhh!,"YRC Worldwide, Inc.",41
+926,47,323.54,Daltfresh,2:44 PM,8:27 PM,6/9/2003,4/1/2013,Aaaahhhhhhhhhhhhh!,"MCBC Holdings, Inc.",1
+219,193,148.618,It,12:47 PM,10:48 PM,8/9/2008,16/10/2006,Aaaahhh!,"Nasdaq, Inc.",55
+553,111,112.015,Redhold,10:58 AM,8:24 AM,16/04/2003,21/03/2016,Aaaahhhhhhhhhhhhhhh!,"West Marine, Inc.",22
+775,200,381.656,Toughjoyfax,11:57 AM,2:59 AM,29/06/2010,16/06/2016,Aaaahhhhhhhhh!,"Royal Bancshares of Pennsylvania, Inc.",52
+903,145,170.193,Sonair,3:40 AM,8:16 AM,14/11/2014,24/10/2003,Aaaahhh!,D/B/A Chubb Limited New,39
+804,36,155.513,Trippledex,5:25 PM,5:13 PM,15/01/2005,19/04/2001,Aaaahhhhhhh!,"Nutanix, Inc.",87
+378,32,93.611,Zaam-Dox,6:39 PM,3:08 AM,5/11/2005,19/09/2000,Aaaahhhhhhhhhhhh!,Southern Copper Corporation,14
+157,75,497.369,Y-Solowarm,9:20 PM,9:06 PM,18/06/2003,6/2/2006,Aaaahhhhhhhhh!,"CSW Industrials, Inc.",20
+842,169,264.524,Viva,10:04 AM,7:19 PM,23/12/2007,26/03/2012,Aaaahhhhhhhh!,Anheuser-Busch Inbev SA,32
+932,214,202.698,Greenlam,10:36 PM,3:59 PM,22/04/2013,12/7/2004,Aaaahhhhhhh!,Simmons First National Corporation,14
+667,236,144.434,Rank,7:23 AM,11:22 PM,19/03/2012,27/09/2006,Aaaahhhhhhhhhhhhh!,"Activision Blizzard, Inc",15
+714,230,487.335,Cardguard,5:57 AM,3:13 AM,10/4/2016,29/08/2010,Aaaahhhhhhhhhhhhhh!,"LSC Communications, Inc.",69
+179,140,396.311,Regrant,4:33 AM,5:52 PM,27/11/2012,5/11/2014,Aaaahhhhhhhhh!,"Caseys General Stores, Inc.",74
+834,163,132.802,Namfix,12:29 AM,6:31 AM,28/02/2002,18/06/2005,Aaaahhhhhhhhhh!,"W.W. Grainger, Inc.",75
+203,54,93.061,Lotlux,5:49 PM,6:14 PM,19/08/2013,18/12/2000,Aaaahhhhhh!,"Banco Santander, S.A.",83
+800,151,106.633,Voltsillam,6:59 PM,9:36 AM,1/12/2005,25/05/2000,Aaaahhhh!,Novartis AG,6
+532,215,171.185,Zathin,11:02 PM,1:35 PM,28/09/2013,17/09/2011,Aaaahhhhhhhhhh!,"Amicus Therapeutics, Inc.",98
+210,46,58.035,Quo Lux,6:29 AM,9:24 AM,28/03/2003,7/5/2010,Aaaahhhh!,Nuveen Select Tax Free Income Portfolio,69
+129,143,271.571,Viva,4:05 AM,9:20 PM,10/7/2013,6/2/2008,Aaaahhhhhh!,Modern Media Acquisition Corp.,89
+346,193,70.202,Konklab,7:13 PM,2:33 PM,27/04/2011,11/12/2007,Aaaahhh!,"Cracker Barrel Old Country Store, Inc.",25
+533,93,305.459,Stim,7:49 AM,10:20 PM,14/10/2001,26/05/2002,Aaaahhhhhhhh!,"Mettler-Toledo International, Inc.",15
+853,16,439.491,Solarbreeze,11:51 PM,6:22 PM,4/6/2010,17/08/2016,Aaaahhhhhhhh!,Pimco Corporate & Income Opportunity Fund,44
+703,163,347.407,Gembucket,4:40 PM,6:49 AM,15/10/2008,19/04/2016,Aaaahhhhhhhhhhh!,"Conifer Holdings, Inc.",73
+417,211,137.324,Zamit,5:15 AM,5:53 PM,31/01/2006,29/09/2011,Aaaahhhhhhhhhh!,LPL Financial Holdings Inc.,75
+565,244,465.823,Lotlux,7:01 AM,9:56 PM,29/01/2008,26/07/2008,Aaaahhhh!,J P Morgan Chase & Co,6
+122,123,498.408,Tempsoft,7:13 PM,8:58 AM,30/05/2005,25/08/2000,Aaaahhhhhhhhhhhhhh!,Tocagen Inc.,78
+938,177,230.457,Aerified,7:44 PM,10:54 PM,9/5/2006,6/12/2014,Aaaahhhhhhhhhhhhhhh!,Oconee Federal Financial Corp.,45
+740,26,253.717,Fix San,8:57 PM,1:38 PM,6/9/2009,12/4/2008,Aaaahhhhhhhhhhhhhhh!,Balchem Corporation,56
+745,248,359.462,Duobam,7:45 PM,11:24 PM,27/12/2006,6/11/2009,Aaaahhhhhhhhhhhhhhh!,Saban Capital Acquisition Corp.,61
+149,46,337.442,Prodder,6:02 AM,9:30 PM,12/8/2015,23/08/2000,Aaaahhhhhhhhhhhhhhh!,"Prosperity Bancshares, Inc.",54
+812,212,8.26,Prodder,6:00 PM,9:35 PM,7/8/2007,18/10/2000,Aaaahhhhh!,Artisan Partners Asset Management Inc.,56
+538,178,66.902,Overhold,7:26 PM,7:12 PM,17/01/2012,7/12/2010,Aaaahhhhh!,Capital Product Partners L.P.,4
+749,155,184.16,Bamity,10:14 AM,1:25 PM,10/4/2010,13/07/2001,Aaaahhhhh!,"Rogers Communication, Inc.",100
+649,17,147.806,Alpha,12:57 PM,5:35 AM,18/05/2010,29/05/2013,Aaaahhhhhh!,"Reinsurance Group of America, Incorporated",58
+611,42,120.02,Stringtough,6:41 AM,12:29 AM,8/5/2009,1/8/2002,Aaaahhh!,iShares S&P/Citigroup 1-3 Year International Treasury Bond Fun,40
+415,229,124.161,Bigtax,1:30 PM,7:41 PM,3/12/2012,17/03/2014,Aaaahhhhhhhhhhhhhh!,"Alexander&#39;s, Inc.",25
+942,10,408.302,Bitwolf,8:37 PM,4:21 AM,26/11/2000,9/1/2011,Aaaahhhhhhhhh!,"SilverSun Technologies, Inc.",14
+901,225,394.521,Y-Solowarm,4:56 PM,4:28 PM,11/6/2016,23/07/2004,Aaaahhhhhhhhhhhhhh!,Axar Acquisition Corp.,46
+120,194,364.492,Sonsing,6:55 AM,9:49 PM,13/05/2014,12/3/2004,Aaaahhhhhhhhh!,Wells Fargo & Company,58
+26,175,232.722,Sub-Ex,8:19 PM,3:33 AM,22/08/2015,12/4/2004,Aaaahhhh!,"TPG Specialty Lending, Inc.",87
+49,192,447.371,Fixflex,1:43 PM,7:48 PM,20/04/2006,14/07/2008,Aaaahhhhhhhh!,Guaranty Bancorp,84
+264,27,17.47,Veribet,8:03 PM,12:09 PM,24/10/2015,8/8/2004,Aaaahhhhhhhhhhhhhhh!,Territorial Bancorp Inc.,56
+103,55,380.27,Toughjoyfax,1:33 PM,3:00 PM,29/08/2012,1/9/2010,Aaaahhhhhhhhhhh!,Halcon Resources Corporation,52
+188,122,81.083,Y-find,8:55 AM,12:13 AM,17/03/2001,4/5/2014,Aaaahhhhhhhhhhhhh!,Dynegy Inc.,80
+88,236,352.32,Flexidy,10:05 AM,2:31 AM,29/12/2008,19/04/2016,Aaaahhhhhhhhhh!,"Church & Dwight Company, Inc.",99
+121,223,437.224,Fixflex,6:06 PM,8:34 PM,27/12/2013,14/09/2016,Aaaahhhhhhh!,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",67
+656,45,139.624,Aerified,7:22 AM,3:41 PM,20/08/2004,21/09/2009,Aaaahhhhhhh!,Frank&#39;s International N.V.,73
+899,46,394.676,Lotstring,6:03 AM,8:24 PM,20/11/2000,12/1/2004,Aaaahhhhhhhh!,"Gray Television, Inc.",38
+151,77,200.83,Wrapsafe,7:40 AM,9:03 AM,15/05/2011,3/2/2008,Aaaahhhhhh!,International Bancshares Corporation,2
+496,230,28.348,Lotlux,4:09 AM,8:12 AM,27/06/2009,8/9/2011,Aaaahhhhhhhh!,"Calithera Biosciences, Inc.",59
+867,146,60.085,Solarbreeze,2:20 PM,8:57 AM,28/08/2005,9/5/2010,Aaaahhhhhhhhhh!,Voya International High Dividend Equity Income Fund,87
+929,80,453.05,Span,8:19 PM,6:44 PM,28/09/2008,18/12/2003,Aaaahhhhhhh!,Astoria Financial Corporation,81
+159,163,182.166,Fintone,3:39 AM,4:57 AM,27/09/2004,2/9/2013,Aaaahhhhhhhhhhhhh!,Adamis Pharmaceuticals Corporation,99
+731,116,289.041,Asoka,4:23 PM,4:57 PM,13/07/2008,10/9/2000,Aaaahhhhhh!,Duke Realty Corporation,11
+167,165,450.795,Ronstring,1:46 AM,2:55 AM,31/03/2003,1/5/2006,Aaaahhhh!,PowerShares DWA Technology Momenum Portfolio,78
+992,86,294.089,Ronstring,7:15 PM,6:46 AM,17/11/2013,4/9/2004,Aaaahhhhhh!,Transportadora De Gas Sa Ord B,70
+376,214,393.661,Vagram,1:04 AM,4:27 PM,5/10/2004,9/11/2003,Aaaahhhhhhhhhh!,Ardmore Shipping Corporation,95
+79,29,272.63,Bitwolf,6:37 AM,10:03 AM,14/07/2014,9/7/2002,Aaaahhhhhhh!,Southern Company (The),63
+622,245,314.803,Flexidy,10:38 AM,1:11 AM,13/08/2002,29/03/2001,Aaaahhhhhhhhhhh!,Ceragon Networks Ltd.,37
+733,210,27.454,Stronghold,3:22 AM,4:16 AM,5/5/2015,14/07/2012,Aaaahhhhhhhhhhhhhh!,Virtusa Corporation,34
+711,11,136.653,Stringtough,12:05 AM,9:12 AM,3/9/2007,23/01/2012,Aaaahhhhhhhh!,Abbott Laboratories,92
+43,118,219.375,Sonair,1:29 PM,10:46 PM,1/12/2002,19/11/2005,Aaaahhhhhhhhhhhh!,Royal Dutch Shell PLC,57
+727,29,139.324,Veribet,11:29 PM,6:41 AM,13/03/2002,26/11/2005,Aaaahhhhhhh!,"CytomX Therapeutics, Inc.",89
+944,167,480.148,Tampflex,6:27 PM,5:52 PM,4/2/2011,25/03/2006,Aaaahhhhhhh!,United States Cellular Corporation,34
+734,178,9.843,Pannier,4:06 PM,11:08 AM,5/7/2011,11/3/2009,Aaaahhhhhhhhhhhhhh!,Novelion Therapeutics Inc. ,7
+927,83,410.812,Latlux,12:40 PM,12:44 AM,2/9/2013,30/03/2004,Aaaahhhhhhhhhhhh!,"IES Holdings, Inc.",22
+560,154,387.196,Rank,5:09 PM,6:36 PM,15/05/2007,14/05/2016,Aaaahhhhhhhhhhhhhhh!,PIMCO Municipal Income Fund,99
+161,107,229.098,Otcom,6:22 AM,11:20 AM,1/12/2000,27/05/2012,Aaaahhhhhhhhhhhhhh!,Robert Half International Inc.,47
+476,47,206.823,Zaam-Dox,12:51 AM,7:02 AM,3/5/2007,20/01/2000,Aaaahhh!,Arbor Realty Trust,61
+611,176,270.772,Zamit,1:17 PM,3:00 AM,19/02/2003,25/06/2006,Aaaahhhhhhhhhhh!,GSV Capital Corp,40
+183,218,265.71,Redhold,7:54 AM,12:52 PM,4/2/2007,28/06/2008,Aaaahhhhhhhhhhhhhh!,SemiLEDS Corporation,40
+347,38,185.364,Prodder,2:01 PM,6:55 AM,30/03/2000,26/06/2009,Aaaahhhhhhhhh!,Blackrock Health Sciences Trust,17
+54,196,270.832,Stringtough,9:21 PM,3:31 PM,7/12/2009,26/06/2014,Aaaahhhhh!,BlackRock Utility and Infrastructure Trust,65
+52,250,27.419,Tres-Zap,8:28 AM,7:12 AM,24/04/2008,10/11/2012,Aaaahhhhhhhhhh!,National Steel Company,49
+167,104,99.225,Home Ing,8:53 AM,2:07 AM,10/4/2001,7/11/2007,Aaaahhhhh!,"Vital Therapies, Inc.",85
+507,49,396.838,Domainer,3:51 AM,8:28 PM,1/8/2015,19/12/2013,Aaaahhhhhhhhh!,iStar Financial Inc.,26
+827,79,243.874,Bytecard,6:11 AM,1:49 AM,19/05/2015,5/11/2004,Aaaahhhhhhh!,"Ocean Power Technologies, Inc.",40
+504,234,3.325,It,8:03 AM,9:05 PM,3/8/2012,28/10/2002,Aaaahhhhhhhhhhhhhhh!,Crescent Point Energy Corporation,3
+770,77,333.795,Matsoft,4:48 PM,6:02 AM,15/05/2013,27/01/2010,Aaaahhhhhhhh!,"Korea Fund, Inc. (The)",22
+640,44,20.685,Voltsillam,10:28 PM,1:23 PM,6/12/2006,13/11/2000,Aaaahhhhhhhhhhhh!,"United Fire Group, Inc",77
+602,163,83.055,Prodder,1:57 AM,11:50 PM,15/03/2014,10/10/2003,Aaaahhhhh!,"1-800 FLOWERS.COM, Inc.",90
+607,10,300.586,Job,1:22 AM,12:54 AM,14/01/2004,12/6/2010,Aaaahhhhhhhhhhhhhhh!,Wendy&#39;s Company (The),13
+694,160,29.911,Duobam,6:53 AM,8:36 PM,9/10/2011,25/01/2014,Aaaahhhhhhh!,"CenterPoint Energy, Inc.",87
+300,59,423.665,Daltfresh,8:07 PM,2:31 AM,20/02/2001,27/12/2004,Aaaahhhhhhhhhhh!,Saban Capital Acquisition Corp.,34
+768,138,344.412,Fix San,12:08 PM,1:07 PM,28/09/2007,21/09/2006,Aaaahhhhhhhhhhhhh!,CABCO Series 2004-101 Trust,15
+402,126,63.631,Prodder,11:43 AM,11:04 AM,13/03/2002,19/01/2016,Aaaahhhhhhhhhhhh!,OCI Partners LP,14
+723,145,3.675,Bitwolf,2:39 AM,8:36 AM,23/11/2001,4/7/2011,Aaaahhhhhhhhhhhhh!,Webster Financial Corporation,16
+621,44,387.447,Prodder,12:58 AM,10:28 AM,7/7/2010,5/8/2013,Aaaahhhhhhhhh!,"NextEra Energy, Inc.",71
+789,228,270.417,Bitchip,10:30 PM,11:19 PM,14/11/2016,4/9/2012,Aaaahhhhhhhhhhhhhh!,"Vitamin Shoppe, Inc",24
+999,198,96.027,Domainer,4:30 AM,2:11 AM,27/07/2015,11/5/2013,Aaaahhhhh!,Compass Diversified Holdings,79
+269,246,208.074,Wrapsafe,2:09 AM,5:10 PM,27/06/2016,6/12/2015,Aaaahhhhhhhhhhh!,"Prologis, Inc.",2
+654,200,490.39,Fix San,8:56 AM,11:57 AM,23/09/2015,20/12/2016,Aaaahhhhhhhhhhhhhhh!,Sears Canada Inc. ,24
+830,9,484.813,Trippledex,6:41 AM,5:16 PM,4/9/2006,20/12/2002,Aaaahhhhhhhhhhhh!,"Vital Therapies, Inc.",76
+909,186,444.3,Cardguard,4:59 PM,9:12 PM,19/01/2008,7/9/2016,Aaaahhhhhhhhhh!,Frontier Communications Corporation,45
+993,94,455.16,Voltsillam,9:55 AM,1:51 PM,25/05/2016,19/09/2012,Aaaahhhhhh!,"Electronics for Imaging, Inc.",1
+252,44,358.617,Domainer,8:40 PM,3:25 AM,25/01/2002,5/1/2012,Aaaahhhhhhhhhhhhhhh!,"Selective Insurance Group, Inc.",45
+507,222,248.26,Tresom,1:52 PM,1:58 PM,23/05/2006,27/12/2008,Aaaahhhhhhhhhhh!,"Orion Group Holdings, Inc.",27
+759,102,109.384,Zaam-Dox,6:48 AM,1:22 PM,20/10/2012,15/12/2016,Aaaahhhhhhhhhh!,"Sensus Healthcare, Inc.",96
+300,17,449.479,Domainer,4:31 PM,12:27 PM,23/04/2009,20/08/2013,Aaaahhhhhhhhhh!,DarioHealth Corp.,94
+993,143,131.216,Transcof,5:45 AM,8:20 PM,5/4/2005,9/1/2004,Aaaahhhhhhhhhh!,Neptune Technologies & Bioresources Inc,11
+206,56,105.451,Lotstring,10:30 PM,10:44 PM,15/08/2016,8/2/2013,Aaaahhhhhhhhhhhhh!,"Ominto, Inc.",21
+261,72,397.071,Stringtough,12:36 PM,11:42 PM,24/09/2011,23/01/2004,Aaaahhhhhhhhhhhhh!,Navient Corporation,82
+23,54,174.52,Job,2:57 AM,4:38 PM,23/10/2003,1/1/2017,Aaaahhhh!,Crawford & Company,87
+825,120,28.802,Bitwolf,5:49 PM,2:00 PM,5/4/2013,24/05/2010,Aaaahhhhhhhhhhhh!,Salient Midstream & MLP Fund,24
+681,3,99.949,Tampflex,1:37 PM,5:04 PM,12/12/2007,24/09/2010,Aaaahhhhhhhhhhhh!,Good Times Restaurants Inc.,24
+527,226,332.917,Opela,9:25 AM,11:14 PM,3/9/2005,29/12/2001,Aaaahhhhhhhhhhhhhhh!,VelocityShares Daily Inverse VIX Short-Term ETN,14
+442,94,373.835,Prodder,8:42 AM,12:53 PM,12/6/2008,23/03/2013,Aaaahhhh!,Clifton Bancorp Inc.,63
+739,146,92.935,Duobam,1:04 PM,3:40 AM,8/8/2010,5/9/2012,Aaaahhhhh!,"athenahealth, Inc.",5
+196,209,72.214,Mat Lam Tam,5:54 AM,6:29 PM,16/07/2012,26/08/2013,Aaaahhhhhhhhhh!,"Kayne Anderson Midstream Energy Fund, Inc",18
+227,56,34.742,Stringtough,7:55 AM,4:02 PM,19/09/2001,6/9/2002,Aaaahhhhhhh!,iRobot Corporation,93
+406,17,19.469,Stim,3:07 PM,12:09 AM,26/08/2008,9/1/2003,Aaaahhh!,Western Asset Emerging Markets Debt Fund Inc,72
+9,171,235.747,Namfix,7:09 PM,6:18 AM,31/08/2009,19/04/2007,Aaaahhhhhhhhh!,"First Business Financial Services, Inc.",68
+782,243,447.181,Stim,6:06 AM,12:20 AM,22/07/2013,25/01/2016,Aaaahhhhhhhh!,Redhill Biopharma Ltd.,90
+524,164,436.618,Solarbreeze,8:56 PM,12:49 PM,20/07/2016,19/11/2001,Aaaahhhhh!,"Aimmune Therapeutics, Inc.",78
+16,135,153.494,Overhold,3:00 AM,11:07 AM,26/05/2005,18/05/2014,Aaaahhhhhhh!,VOC Energy Trust,33
+577,241,345.242,Mat Lam Tam,7:10 AM,4:37 PM,30/12/2016,21/02/2007,Aaaahhhhhhhhhhhhhh!,"BGC Partners, Inc.",30
+40,202,101.936,Ronstring,12:17 PM,12:42 AM,6/6/2001,8/10/2008,Aaaahhhhhhhhh!,Petroleo Brasileiro S.A.- Petrobras,15
+546,47,244.601,Veribet,5:43 AM,9:12 AM,19/01/2014,1/1/2011,Aaaahhhhhhhhhhhhh!,"Innovative Solutions and Support, Inc.",2
+151,26,327.151,Alphazap,1:37 AM,6:17 PM,15/08/2000,14/10/2011,Aaaahhhhhhhh!,"Stericycle, Inc.",26
+213,169,412.762,Zontrax,9:57 PM,6:16 PM,23/02/2013,17/07/2008,Aaaahhhhh!,First Trust RiverFront Dynamic Emerging Markets ETF,66
+15,165,11.571,Andalax,8:56 AM,4:50 AM,23/11/2015,13/08/2003,Aaaahhhhhhhhhhh!,"BioLife Solutions, Inc.",72
+741,235,487.047,Fix San,3:45 AM,2:36 AM,28/12/2012,29/11/2000,Aaaahhhhh!,Constellation Brands Inc,77
+779,122,252.15,Sub-Ex,7:33 AM,10:46 PM,12/10/2008,2/6/2012,Aaaahhhhhhhhh!,"Eagle Bancorp Montana, Inc.",89
+450,53,79.337,Rank,8:25 PM,12:35 PM,15/10/2014,9/11/2009,Aaaahhhhhhhhhhhhhh!,Huntsman Corporation,91
+898,68,420.689,Andalax,7:26 AM,9:22 PM,28/08/2008,30/07/2014,Aaaahhhhhhhhh!,"CoStar Group, Inc.",61
+569,223,484.167,Cardify,8:02 AM,12:55 PM,29/10/2010,31/10/2008,Aaaahhhhhhhhhhhhh!,Double Eagle Acquisition Corp.,34
+706,121,189.963,Ronstring,8:54 AM,2:55 AM,29/01/2016,16/01/2013,Aaaahhhhhhhhhh!,Ark Restaurants Corp.,9
+252,25,257.891,Home Ing,6:18 AM,10:08 PM,7/1/2003,8/12/2006,Aaaahhhhh!,"SilverBow Resorces, Inc.",9
+27,25,78.91,Flowdesk,1:16 PM,1:02 AM,28/07/2012,29/07/2014,Aaaahhhhhhhhhhhhh!,SunPower Corporation,31
+310,207,257.44,Fixflex,4:24 PM,8:12 PM,8/9/2000,21/08/2012,Aaaahhhhhhhh!,Acuity Brands Inc,27
+321,137,492.648,Tin,2:41 PM,7:49 AM,25/11/2016,1/5/2010,Aaaahhhhhh!,Select Medical Holdings Corporation,31
+719,48,113.356,Alphazap,1:34 PM,6:07 AM,31/12/2001,24/02/2000,Aaaahhhhhhhhhhh!,"Spark Therapeutics, Inc.",57
+151,138,265.274,Flowdesk,12:42 PM,1:46 AM,3/10/2006,12/3/2000,Aaaahhhhhhhhhh!,Mobile TeleSystems OJSC,29
+962,66,376.705,Job,2:52 AM,10:34 PM,20/12/2014,21/12/2005,Aaaahhh!,Kayne Anderson Acquisition Corp.,57
+433,45,269.212,Solarbreeze,5:03 AM,12:19 PM,14/11/2013,6/1/2011,Aaaahhhhhhhhhhhhhh!,"Hawaiian Electric Industries, Inc.",79
+434,217,438.615,Regrant,9:42 AM,11:01 AM,22/10/2001,19/10/2014,Aaaahhhhh!,Diversicare Healthcare Services Inc.,73
+638,26,14.78,Zamit,1:21 AM,11:09 AM,14/03/2003,19/10/2005,Aaaahhhhh!,Innodata Inc.,10
+581,157,367.468,Cardify,11:23 PM,3:59 AM,3/3/2006,3/5/2014,Aaaahhhhhhhhhh!,"Dollar Tree, Inc.",6
+238,241,318.006,Cardguard,4:00 PM,3:38 AM,22/01/2006,22/02/2003,Aaaahhhhhhh!,BalckRock Taxable Municipal Bond Trust,62
+339,76,293.879,Sub-Ex,10:06 PM,3:32 PM,25/09/2015,21/11/2006,Aaaahhhhhhhhhhhh!,Public Storage,51
+534,65,129.985,Stim,11:48 AM,1:32 PM,21/01/2005,20/11/2004,Aaaahhhhhhhhhhhhh!,"DineEquity, Inc",7
+531,234,220.005,Tres-Zap,10:17 AM,1:56 AM,27/11/2011,15/09/2000,Aaaahhhhhhhhhhhhhh!,Murphy Oil Corporation,65
+12,14,267.648,Regrant,10:32 PM,5:36 AM,14/08/2008,1/9/2010,Aaaahhhhhhhhhh!,"Avnet, Inc.",68
+428,96,255.224,Overhold,8:57 PM,11:09 AM,11/2/2001,8/12/2010,Aaaahhhhhhh!,Vanguard International Dividend Appreciation ETF,100
+509,197,312.874,Voltsillam,11:27 AM,4:33 AM,21/01/2014,30/11/2005,Aaaahhhhhhhhh!,Express Scripts Holding Company,28
+833,52,332.327,Regrant,8:23 AM,4:17 PM,11/9/2008,18/09/2014,Aaaahhhhh!,Independent Bank Corp.,74
+921,102,298.895,Zathin,3:10 PM,5:18 AM,20/11/2013,17/03/2002,Aaaahhhhhhhh!,China Unicom (Hong Kong) Ltd,32
+979,160,114.454,Greenlam,1:53 AM,11:31 PM,15/05/2011,19/08/2011,Aaaahhhhhhhhhh!,BancFirst Corporation,47
+325,191,240.736,Quo Lux,7:26 AM,12:20 AM,24/08/2007,20/02/2005,Aaaahhhhh!,"Sabra Healthcare REIT, Inc.",11
+705,92,376.266,Prodder,9:48 PM,3:56 AM,20/01/2003,27/04/2001,Aaaahhhhhhhhhhhhhhh!,"Popular, Inc.",57
+682,157,45.259,Tempsoft,2:14 AM,7:52 PM,6/1/2017,23/11/2000,Aaaahhh!,PacWest Bancorp,70
+18,195,419.106,Y-find,10:15 PM,4:17 AM,11/2/2002,30/11/2005,Aaaahhhhhhhhhhh!,VanEck Vectors Pharmaceutical ETF,87
+126,185,489.974,Holdlamis,11:10 PM,3:41 PM,25/11/2015,4/10/2005,Aaaahhhhhhhhhhhh!,Tsakos Energy Navigation Ltd,86
+129,109,449.157,Fix San,7:58 PM,6:07 PM,18/04/2007,10/8/2016,Aaaahhhhhhh!,"Ramaco Resources, Inc.",89
+201,143,291.858,Job,10:21 AM,7:37 PM,26/03/2007,3/12/2015,Aaaahhhhhhhh!,Fifth Third Bancorp,20
+349,139,449.773,Mat Lam Tam,3:44 AM,9:34 AM,30/07/2003,5/5/2001,Aaaahhhhhh!,Kornit Digital Ltd.,99
+303,151,12.095,Hatity,1:27 AM,7:33 AM,26/07/2015,30/09/2009,Aaaahhhhhhhhhhh!,Seritage Growth Properties,55
+23,244,177.995,Y-find,12:42 PM,8:35 PM,9/12/2000,30/09/2014,Aaaahhhhhhh!,"Innophos Holdings, Inc.",71
+331,121,240.315,Bytecard,3:15 AM,9:16 AM,13/12/2007,26/10/2001,Aaaahhhh!,OFG Bancorp,71
+239,182,239.638,Zamit,9:48 PM,6:25 PM,27/08/2011,26/01/2009,Aaaahhhhhhhh!,"Valmont Industries, Inc.",49
+753,13,29.879,Alphazap,11:48 AM,10:34 AM,19/07/2005,12/4/2016,Aaaahhh!,Textron Inc.,53
+740,133,193.11,Sonsing,9:21 PM,2:08 PM,22/06/2008,30/12/2007,Aaaahhhhhhhhhh!,"Intermolecular, Inc.",63
+941,60,329.848,Voyatouch,6:15 AM,12:11 AM,20/04/2004,10/7/2013,Aaaahhhhhhhhhh!,"Sunstone Hotel Investors, Inc.",38
+224,107,215.868,Kanlam,9:08 AM,9:10 AM,16/10/2003,27/07/2004,Aaaahhhhhhhhhh!,"Ryman Hospitality Properties, Inc.",19
+237,60,433.755,Fix San,7:20 AM,7:53 AM,17/01/2006,15/10/2009,Aaaahhhhh!,Investors Real Estate Trust,75
+264,93,429.775,Fixflex,4:00 AM,4:58 AM,11/2/2003,23/01/2004,Aaaahhhhhhhhhhhhhhh!,Andina Acquisition Corp. II,4
+308,153,200.142,Domainer,4:20 PM,12:51 PM,10/5/2015,11/6/2014,Aaaahhhhhhhhh!,"YuMe, Inc.",75
+980,245,437.084,Hatity,2:59 AM,8:39 AM,29/08/2002,30/04/2000,Aaaahhhhhhhhhh!,Vanguard Emerging Markets Government Bond ETF,13
+205,221,134.004,Flowdesk,12:01 PM,5:12 PM,13/03/2004,20/07/2006,Aaaahhhhhhhh!,Invesco Municipal Trust,79
+393,66,377.645,Konklux,2:22 AM,12:19 PM,27/03/2013,15/07/2005,Aaaahhhhhhhhhh!,Dataram Corporation,100
+9,106,2.136,Cardguard,6:21 PM,12:49 PM,16/12/2006,21/05/2002,Aaaahhhhhhh!,Johnson Outdoors Inc.,11
+994,55,147.49,Zoolab,12:38 AM,3:27 AM,30/10/2011,31/03/2014,Aaaahhhhhhhhhhhhhhh!,Sotheby&#39;s,79
+497,89,23.199,Mat Lam Tam,5:59 PM,7:57 AM,31/12/2013,27/12/2000,Aaaahhhhhhhhhh!,PIMCO Municipal Income Fund III,32
+637,239,129.659,Flexidy,7:07 AM,2:00 AM,30/08/2004,4/6/2003,Aaaahhhh!,Envision Healthcare Corporation,56
+217,77,88.637,Subin,9:48 PM,1:43 PM,9/8/2016,6/11/2007,Aaaahhhhhhhhhh!,"Orion Group Holdings, Inc.",70
+704,87,122.053,Daltfresh,4:26 AM,1:44 AM,23/09/2003,9/12/2012,Aaaahhhhhhhh!,"Ocera Therapeutics, Inc.",58
+835,227,334.659,Transcof,10:39 PM,8:11 AM,2/5/2000,3/10/2014,Aaaahhh!,WisdomTree Middle East Dividend Fund,57
+722,5,481,Biodex,5:15 PM,9:20 PM,15/10/2016,15/03/2009,Aaaahhhhhhhhhhhhhh!,Exelon Corporation,86
+639,124,56.261,Tampflex,2:26 AM,10:52 PM,27/05/2016,5/1/2003,Aaaahhhhhhhhh!,Masco Corporation,78
+383,117,183.777,Lotlux,6:08 AM,10:22 PM,19/01/2015,9/2/2004,Aaaahhhhh!,"Bridgeline Digital, Inc.",34
+147,126,168.273,Tresom,11:08 AM,2:41 AM,18/06/2011,8/10/2011,Aaaahhh!,EchoStar Corporation,62
+946,22,497.229,Job,11:49 AM,3:26 PM,15/03/2013,31/05/2014,Aaaahhhhhh!,Aspen Insurance Holdings Limited,76
+125,55,264.383,Temp,11:00 AM,11:53 AM,12/8/2010,12/5/2010,Aaaahhhhh!,"DWS High Income Opportunities Fund, Inc.",27
+256,237,152.109,Voyatouch,10:24 AM,11:18 PM,21/01/2000,8/10/2010,Aaaahhhhhhhhh!,"Hasbro, Inc.",80
+567,26,144.86,Treeflex,1:33 PM,9:59 AM,7/8/2015,15/09/2005,Aaaahhhhhhhhhhhhhh!,"Donegal Group, Inc.",48
+163,85,212.27,Daltfresh,11:05 PM,11:50 PM,24/01/2012,4/9/2007,Aaaahhhhhhhhhhhhh!,"GSI Technology, Inc.",70
+188,81,151.434,Domainer,3:44 AM,11:02 PM,5/9/2015,17/02/2015,Aaaahhhhhhhhh!,"PT Telekomunikasi Indonesia, Tbk",48
+743,221,341.447,Stronghold,7:50 PM,3:16 AM,23/09/2012,4/4/2004,Aaaahhhhhhhhhhh!,Key Tronic Corporation,79
+289,86,25.256,Y-Solowarm,5:32 PM,7:55 AM,6/2/2006,11/10/2013,Aaaahhhhhhhhhhhhhhh!,iStar Financial Inc.,33
+900,51,366.528,Stringtough,6:34 PM,1:40 PM,16/07/2015,21/06/2013,Aaaahhhhh!,Vuzix Corporation,91
+218,15,308.254,Hatity,12:19 PM,7:18 PM,18/06/2011,29/12/2009,Aaaahhhhhhhh!,"Mota Group, Inc.",4
+109,162,73.998,Solarbreeze,5:00 PM,12:59 AM,4/10/2004,29/08/2006,Aaaahhhhhhhhhhhhhh!,Navient Corporation,21
+124,130,141.657,Matsoft,12:31 AM,2:53 PM,5/7/2007,27/02/2010,Aaaahhhhhhhhhhhhhhh!,"FS Bancorp, Inc.",16
+245,7,154.034,Tres-Zap,1:51 PM,2:33 PM,6/11/2014,13/10/2016,Aaaahhhhhhhhhhhhhh!,"Group 1 Automotive, Inc.",51
+504,169,23.427,Wrapsafe,11:10 PM,4:50 AM,9/3/2010,25/06/2009,Aaaahhhhhhhhhhhhhh!,"Universal Forest Products, Inc.",12
+669,144,485.049,Trippledex,12:49 PM,10:51 PM,28/06/2013,14/09/2008,Aaaahhhhhhh!,"SPS Commerce, Inc.",51
+816,100,260.694,Gembucket,2:36 PM,12:26 PM,24/01/2000,19/08/2014,Aaaahhhh!,Microchip Technology Incorporated,89
+165,119,474.656,Zathin,10:08 PM,3:04 AM,27/11/2013,20/08/2009,Aaaahhh!,Guggenheim Strategic Opportunities Fund,3
+921,241,421.027,Pannier,6:01 AM,7:16 PM,2/3/2007,11/9/2001,Aaaahhhhhhhhhhhh!,"Archrock, Inc.",35
+345,196,492.566,Wrapsafe,5:11 PM,8:29 PM,29/05/2015,6/11/2012,Aaaahhhhhhhh!,"Advanced Energy Industries, Inc.",47
+523,83,298.823,Tresom,5:28 PM,2:56 AM,27/07/2015,30/01/2011,Aaaahhhhh!,Origin Agritech Limited,91
+77,116,318.205,Sonsing,12:44 AM,10:16 PM,13/04/2005,4/1/2011,Aaaahhhhhhh!,Huntington Bancshares Incorporated,95
+190,51,23.213,Pannier,3:43 AM,10:37 AM,27/04/2002,31/10/2014,Aaaahhhhhhhhhhhh!,Otelco Inc.,60
+221,172,107.201,Temp,7:44 AM,7:57 AM,13/04/2003,19/02/2016,Aaaahhhh!,ProShares Ultra Nasdaq Biotechnology,5
+737,99,37.607,Zathin,10:45 PM,5:27 AM,16/10/2004,1/10/2008,Aaaahhhhhhhhhhhhhh!,Capital City Bank Group,32
+275,85,218.713,Zathin,4:16 PM,10:18 AM,9/6/2003,7/7/2013,Aaaahhhhhhhhhhhh!,Gulfport Energy Corporation,3
+179,49,26.725,Pannier,4:53 PM,1:37 AM,2/9/2000,4/10/2002,Aaaahhhh!,Pembina Pipeline Corp.,1
+565,238,246.753,Prodder,10:37 AM,2:57 AM,13/02/2008,31/07/2001,Aaaahhhhhhhhhhhhh!,"Forest City Realty Trust, Inc.",37
+450,208,59.002,Solarbreeze,11:07 AM,7:30 PM,14/11/2002,17/10/2009,Aaaahhhhhhhhhhhh!,"BioCryst Pharmaceuticals, Inc.",14
+343,22,17.939,Tampflex,3:54 AM,3:46 AM,29/04/2010,4/4/2000,Aaaahhhhhhhhh!,TransUnion,38
+406,13,97.555,Domainer,7:45 PM,7:12 PM,9/8/2015,29/06/2009,Aaaahhhhhhhhhhhhhh!,"Oceaneering International, Inc.",75
+248,102,29.372,Alpha,1:44 AM,5:35 PM,1/1/2005,11/5/2005,Aaaahhhhhhh!,Allstate Corporation (The),74
+918,98,491.024,Stringtough,1:50 PM,7:55 PM,27/05/2012,25/04/2015,Aaaahhhhhhhhhhhh!,"Zogenix, Inc.",66
+264,2,284.636,Bitwolf,7:46 PM,4:09 AM,26/08/2011,5/12/2007,Aaaahhhhhhhhhhhhhh!,58.com Inc.,76
+185,133,221.444,Zoolab,4:18 PM,5:09 AM,2/8/2001,27/11/2006,Aaaahhhhhhhhh!,"Colony NorthStar, Inc.",60
+468,226,169.567,Y-Solowarm,1:41 PM,5:14 AM,22/05/2002,18/02/2001,Aaaahhhhhhhhhhhhhhh!,First Trust NASDAQ Global Auto Index Fund,33
+681,102,420.583,Fixflex,5:15 PM,4:37 PM,9/12/2014,19/01/2008,Aaaahhhhhhhhh!,Scorpio Tankers Inc.,83
+688,145,134.176,Flexidy,8:02 AM,4:12 PM,10/8/2005,8/3/2015,Aaaahhhhhhhhhhhh!,Mechel PAO,87
+957,64,136.105,Latlux,6:31 PM,4:24 PM,19/07/2011,9/1/2006,Aaaahhhhhhhhhh!,Insight Select Income Fund,74
+412,196,33.723,Tampflex,5:48 AM,3:09 PM,6/7/2010,1/6/2001,Aaaahhhh!,National Energy Services Reunited Corp.,23
+161,242,389.579,Domainer,8:21 PM,2:09 PM,13/08/2016,3/11/2005,Aaaahhh!,"Teligent, Inc.",77
+121,208,55.937,Biodex,7:58 PM,11:44 PM,5/12/2014,8/3/2015,Aaaahhhhhh!,F.N.B. Corporation,43
+267,96,141.924,Fixflex,8:19 AM,4:47 AM,30/01/2009,20/01/2010,Aaaahhhhhhh!,First Trust High Income ETF,97
+798,68,388.106,Biodex,12:17 AM,11:33 PM,14/05/2001,7/1/2009,Aaaahhh!,"Fuwei Films (Holdings) Co., Ltd.",43
+762,247,392.647,Lotlux,1:20 PM,9:31 PM,22/08/2004,4/5/2004,Aaaahhhhhh!,"China Biologic Products, Inc.",48
+960,39,92.459,Flexidy,8:18 AM,4:49 AM,24/07/2006,3/3/2016,Aaaahhhhhhhhhhhhh!,"Global Brokerage, Inc.",34
+881,228,105.008,Konklux,11:49 AM,7:00 AM,26/10/2015,9/7/2012,Aaaahhhhhhhhhhhhhh!,PowerShares Water Resources Portfolio,100
+436,213,444.841,Bitwolf,1:24 PM,1:34 AM,18/06/2006,7/1/2005,Aaaahhhhhhhhhh!,"Nexeo Solutions, Inc.",30
+643,153,102.822,Keylex,7:36 AM,9:13 AM,13/01/2006,21/01/2000,Aaaahhhhhhhhhhhhhhh!,"Impinj, Inc.",85
+364,180,117.064,Span,2:03 AM,9:37 AM,29/12/2008,16/12/2013,Aaaahhhh!,Curtiss-Wright Corporation,81
+504,5,26.566,Zathin,3:50 AM,1:08 PM,12/6/2013,29/03/2015,Aaaahhhhhhh!,"Fogo de Chao, Inc.",35
+770,193,189.599,Greenlam,3:01 PM,4:10 AM,3/10/2003,5/8/2016,Aaaahhhhhh!,"Presidio, Inc.",73
+310,129,277.066,Andalax,6:37 PM,8:14 AM,12/4/2000,26/03/2005,Aaaahhhhhhhhhhhhh!,"Manhattan Bridge Capital, Inc",15
+332,104,344.631,Tres-Zap,7:37 AM,11:02 PM,26/05/2007,7/11/2004,Aaaahhhhhhhh!,National Fuel Gas Company,54
+577,63,220.969,Transcof,7:38 AM,8:37 PM,10/10/2010,16/05/2010,Aaaahhhhhhhhhh!,"SenesTech, Inc.",56
+319,121,442.054,Y-Solowarm,7:31 AM,11:26 AM,19/01/2012,25/06/2008,Aaaahhhhhhhhh!,"AquaBounty Technologies, Inc.",72
+942,104,307.766,Zontrax,3:23 AM,8:20 PM,17/02/2016,18/03/2006,Aaaahhhhhhhhhhhhhhh!,"Miller Industries, Inc.",18

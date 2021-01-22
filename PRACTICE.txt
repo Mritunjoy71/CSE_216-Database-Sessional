@@ -1,0 +1,278 @@
+BEGIN
+ DBMS_OUTPUT.PUT_LINE('Hello World') ;
+END ;
+/
+DECLARE
+ ENAME VARCHAR2(100) ;
+BEGIN
+ SELECT (FIRST_NAME || LAST_NAME) INTO ENAME
+ FROM EMPLOYEES
+ WHERE EMPLOYEE_ID = 100 ;
+ DBMS_OUTPUT.PUT_LINE('The name is : ' || ENAME) ;
+END ;
+/
+
+
+DECLARE
+ JDATE DATE ;
+ MONTHS NUMBER ;
+ RMONTHS NUMBER ;
+BEGIN
+ SELECT HIRE_DATE INTO JDATE
+ FROM EMPLOYEES
+ WHERE EMPLOYEE_ID = 100 ;
+MONTHS := MONTHS_BETWEEN(SYSDATE, JDATE) ;
+ RMONTHS := ROUND(MONTHS, 0) ;
+ DBMS_OUTPUT.PUT_LINE('The employee worked ' || RMONTHS || ' months.') ;
+END ;
+/
+
+DECLARE
+ JDATE DATE ;
+YEARS NUMBER;
+BEGIN
+ SELECT HIRE_DATE INTO JDATE
+ FROM EMPLOYEES
+ WHERE EMPLOYEE_ID = 100 ;
+ YEARS := (MONTHS_BETWEEN(SYSDATE, JDATE) / 12) ;
+ IF YEARS >= 10 THEN
+ DBMS_OUTPUT.PUT_LINE('The employee worked 10 years or more') ;
+ ELSE
+ DBMS_OUTPUT.PUT_LINE('The employee worked less than 10 years') ;
+ END IF ;
+END ;
+/
+
+DECLARE
+ ESALARY NUMBER ;
+BEGIN
+ SELECT SALARY INTO ESALARY
+ FROM EMPLOYEES
+ WHERE EMPLOYEE_ID = 100 ;
+ IF ESALARY < 1000 THEN
+ DBMS_OUTPUT.PUT_LINE('Job grade is D') ;
+ ELSIF ESALARY >= 1000 AND ESALARY < 2000 THEN
+ DBMS_OUTPUT.PUT_LINE('Job grade is C') ;
+ ELSIF ESALARY >= 2000 AND ESALARY < 3000 THEN
+ DBMS_OUTPUT.PUT_LINE('Job grade is B') ;
+ ELSIF ESALARY >= 3000 AND ESALARY < 5000 THEN
+ DBMS_OUTPUT.PUT_LINE('Job grade is A') ;
+ ELSE
+ DBMS_OUTPUT.PUT_LINE('Job grade is A+') ;
+ END IF ;
+END ;
+/
+
+DECLARE
+ JDATE DATE ;
+ YEARS NUMBER ;
+BEGIN
+ --first retrieve hire_date and store the value into JDATE variable
+ SELECT HIRE_DATE INTO JDATE
+ FROM EMPLOYEES
+ WHERE EMPLOYEE_ID = 10000 ;
+ --calculate years from the hire_date field
+ YEARS := (MONTHS_BETWEEN(SYSDATE, JDATE) / 12) ;
+
+
+IF YEARS >= 10 THEN
+ DBMS_OUTPUT.PUT_LINE('The employee worked 10 years or more') ;
+ ELSE
+ DBMS_OUTPUT.PUT_LINE('The employee worked less than 10 years') ;
+ END IF ;
+EXCEPTION
+--handle exceptions one by one here
+WHEN NO_DATA_FOUND THEN
+DBMS_OUTPUT.PUT_LINE('Employee is not present in database.') ;
+WHEN OTHERS THEN
+DBMS_OUTPUT.PUT_LINE('I dont know what happened!') ;
+END ;
+/
+DECLARE
+BEGIN
+FOR j in reverse 1..100
+LOOP
+DBMS_OUTPUT.PUT_LINE(j);
+END LOOP ;
+End ;
+/
+
+
+DECLARE
+i number;
+BEGIN
+i := 1;
+WHILE i<=100
+LOOP
+DBMS_OUTPUT.PUT_LINE(i);
+i := i + 2;
+END LOOP ;
+End ;
+/
+
+DECLARE
+i number;
+BEGIN
+--this is an unconditional loop, must have EXIT WHEN inside loop
+i := 1;
+LOOP
+DBMS_OUTPUT.PUT_LINE(i);
+i := i + 1;
+EXIT WHEN (i > 100) ;
+END LOOP ;
+End ;
+/
+
+
+BEGIN
+ --COUNTER := 0 ;
+ --the following for loop will iterate over all rows of the SELECT results
+ FOR R IN (SELECT E.FIRST_NAME "NAME",D.DEPARTMENT_NAME "DN" FROM EMPLOYEES E JOIN DEPARTMENTS D ON(E.DEPARTMENT_ID=D.DEPARTMENT_ID)
+ LOOP
+ --variable R is used to retrieve columns
+  DBMS_OUTPUT.PUT_LINE('NAME: '||R.NAME ||'DEPT: '||R.DN);
+ 
+ END IF ;
+ END LOOP ;
+ --DBMS_OUTPUT.PUT_LINE('Number of employees worked 10 years or more: ' ||
+--COUNTER) ;
+END ;
+/
+
+
+CREATE OR REPLACE PROCEDURE IS_SENIOR_EMPLOYEE(EID IN VARCHAR2) IS
+ JDATE DATE ;
+ YEARS NUMBER ;
+BEGIN
+ SELECT HIRE_DATE INTO JDATE
+ FROM EMPLOYEES
+ WHERE EMPLOYEE_ID = EID ;
+ YEARS := (MONTHS_BETWEEN(SYSDATE, JDATE) / 12) ;
+ IF YEARS >= 10 THEN
+ DBMS_OUTPUT.PUT_LINE('The employee worked 10 years or more') ;
+ ELSE
+ DBMS_OUTPUT.PUT_LINE('The employee worked less than 10 years') ;
+ END IF ;
+END ;
+/
+
+
+CREATE OR REPLACE FUNCTION GET_SENIOR_EMPLOYEE(EID IN VARCHAR2)
+RETURN VARCHAR2 IS
+ JDATE DATE ;
+ YEARS NUMBER ;
+MSG VARCHAR2(100) ;
+BEGIN
+ SELECT HIRE_DATE INTO JDATE
+ FROM EMPLOYEES
+ WHERE EMPLOYEE_ID = EID ;
+ YEARS := (MONTHS_BETWEEN(SYSDATE, JDATE) / 12) ;
+ IF YEARS >= 10 THEN
+ MSG := 'The employee worked 10 years or more' ;
+ ELSE
+ MSG := 'The employee worked less than 10 years' ;
+ END IF ;
+RETURN MSG ; --return the message
+EXCEPTION
+--you must return value from this section also
+WHEN NO_DATA_FOUND THEN
+RETURN 'No employee found.' ;
+WHEN TOO_MANY_ROWS THEN
+RETURN 'More than one employee found.' ;
+WHEN OTHERS THEN
+RETURN 'Some unknown error occurred.' ;
+END ;
+/
+BEGIN
+MESSAGE := GET_SENIOR_EMPLOYEE(10000) ;
+DBMS_OUTPUT.PUT_LINE(MESSAGE) ;
+MESSAGE := GET_SENIOR_EMPLOYEE(105) ;
+DBMS_OUTPUT.PUT_LINE(MESSAGE) ;
+END ;
+
+CREATE OR REPLACE FUNCTION GET_SENIOR_EMPLOYEE(EID IN VARCHAR2)
+RETURN VARCHAR2 IS
+ JDATE DATE ;
+ YEARS NUMBER ;
+MSG VARCHAR2(100) ;
+BEGIN
+ SELECT HIRE_DATE INTO JDATE
+ FROM EMPLOYEES
+ WHERE EMPLOYEE_ID = EID ;
+ YEARS := (MONTHS_BETWEEN(SYSDATE, JDATE) / 12) ;
+ IF YEARS >= 10 THEN
+ MSG := 'The employee worked 10 years or more' ;
+ ELSE
+ MSG := 'The employee worked less than 10 years' ;
+ END IF ;
+RETURN MSG ; --return the message
+EXCEPTION
+--you must return value from this section also
+WHEN NO_DATA_FOUND THEN
+RETURN 'No employee found.' ;
+WHEN TOO_MANY_ROWS THEN
+RETURN 'More than one employee found.' ;
+WHEN OTHERS THEN
+RETURN 'Some unknown error occurred.' ;
+END ;
+/
+
+DECLARE
+MESSAGE VARCHAR2(100) ;
+BEGIN
+MESSAGE := GET_SENIOR_EMPLOYEE(10000) ;
+DBMS_OUTPUT.PUT_LINE(MESSAGE) ;
+MESSAGE := GET_SENIOR_EMPLOYEE(105) ;
+DBMS_OUTPUT.PUT_LINE(MESSAGE) ;
+END ;
+/
+
+
+
+CREATE OR REPLACE FUNCTION SALARYGRADE(EID IN VARCHAR2)
+RETURN VARCHAR2 IS
+ SAL NUMBER ;
+MSG VARCHAR2(100) ;
+BEGIN
+ SELECT SALARY*12 INTO SAL
+ FROM EMPLOYEES
+ WHERE EMPLOYEE_ID = EID ;
+ --YEARS := (MONTHS_BETWEEN(SYSDATE, JDATE) / 12) ;
+ IF SAL < 60000 THEN
+ MSG := 'LOW' ;
+END IF;
+ IF SAL>=60000 AND SAL<100000 THEN
+ MSG := 'MEDIUM' ;
+	END IF ;
+IF SAL>100000 THEN
+MSG := 'HIGH' ;
+END IF;
+RETURN MSG ; --return the message
+EXCEPTION
+--you must return value from this section also
+WHEN NO_DATA_FOUND THEN
+RETURN 'No employee found.' ;
+WHEN TOO_MANY_ROWS THEN
+RETURN 'More than one employee found.' ;
+WHEN OTHERS THEN
+RETURN 'Some unknown error occurred.' ;
+END ;
+/
+
+
+DECLARE
+MESSAGE VARCHAR2(100) ;
+BEGIN
+MESSAGE := SALARYGRADE(100) ;
+DBMS_OUTPUT.PUT_LINE(MESSAGE) ;
+END ;
+/
+
+
+
+
+---R DIYE SOB EMPLOYEE ER GRADE KORA
+
+
+
+

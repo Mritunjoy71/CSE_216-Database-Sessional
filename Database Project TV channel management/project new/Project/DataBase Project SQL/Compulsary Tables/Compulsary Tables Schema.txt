@@ -1,0 +1,56 @@
+1. Table_name: Employees
+	I.Emp_id(pk: 1-250)
+	II.first_name
+	III.Last_name
+	IV.Gender
+	V.Email
+	VI.Mobile_no.
+	VII.Address
+	IX.Designation
+	X.Salary
+	XI.Date_of_birth
+	XII.Joining_date
+
+
+2.Table_name: Channel
+	I.Program_id(pk: 1-1000)
+	II.Emp_id(1-250)
+
+3.Table_name: Programs
+	I.program_id(pk: 1-1000)
+	II.Emp_id(1-250)
+	III.program_name
+	IV.TRP
+	V.Starting_time
+	VI.Ending_Time
+	VII.Starting_Date
+	VIII.Ending_Date
+	// IX.Program_type(Edit)
+	X.Sponsor
+	XI.Number_of_episodes
+
+
+5.Table_name: Advertisement
+	I. Product_name
+	II. Product_id(pk)
+	III. Slot
+	IV.Sponsor_fee
+
+6.Table_name: Ad_during_prg
+	I.Product_id(pk)
+	II.prgrm_Id(fk)
+
+// 7.Table_name: Date:
+	I.Date(01/01/2000-01/10/2017)
+	II.Program_id
+	III.Number_of_episode
+
+
+
+
+
+
+
+
+
+	

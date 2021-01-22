@@ -1,0 +1,183 @@
+
+
+SELECT LAST_NAME, SALARY 
+FROM EMPLOYEES 
+WHERE SALARY >  
+( 
+SELECT SALARY 
+FROM EMPLOYEES 
+WHERE LAST_NAME = 'Abel' 
+) ; 
+
+SELECT FIRST_NAME 
+FROM EMPLOYEES 
+WHERE EMPLOYEE_ID =  
+( 
+SELECT EMPLOYEE_ID 
+FROM EMPLOYEES 
+WHERE LAST_NAME LIKE 'D%' 
+) ; 
+
+
+
+
+SELECT LAST_NAME, SALARY 
+FROM EMPLOYEES 
+WHERE JOB_ID =  
+( 
+SELECT JOB_ID 
+FROM EMPLOYEES 
+WHERE EMPLOYEE_ID = 141 
+)  
+AND SALARY > 
+( 
+SELECT SALARY 
+FROM EMPLOYEES 
+WHERE EMPLOYEE_ID = 141 
+)  ;
+
+
+-----CORRELATED -------
+SELECT * 
+FROM EMPLOYEES E1 
+WHERE 3 <= ( 
+SELECT COUNT(*) 
+FROM EMPLOYEES E2 
+WHERE E2.SALARY < E1.SALARY 
+)  ; 
+
+-------ANY-------
+SELECT LAST_NAME, JOB_ID, SALARY 
+FROM EMPLOYEES 
+WHERE  JOB_ID <> 'IT_PROG' 
+AND SALARY < ANY  
+( 
+SELECT SALARY 
+FROM EMPLOYEES 
+WHERE JOB_ID = 'IT_PROG' 
+)  ;  
+
+-------ALL-------
+SELECT LAST_NAME, JOB_ID, SALARY 
+FROM EMPLOYEES 
+WHERE  JOB_ID <> 'IT_PROG' 
+AND SALARY < ALL 
+( 
+SELECT SALARY 
+FROM EMPLOYEES 
+WHERE JOB_ID = 'IT_PROG' 
+)  ;
+
+--------------------JOIN----------------
+drop table student1;
+drop table student2;
+create table student1(
+name varchar2(50),
+fname varchar2(60),
+age number
+);
+
+create table student2(
+name varchar2(50),
+fathername varchar2(60),
+salary number
+);
+
+create table student3(
+name varchar2(50),
+faname varchar2(60),
+income number
+);
+
+insert into student1 values('A','X',50);
+insert into student1 values('B','Y',60);
+insert into student1 values('C','B',25);
+
+insert into student2 values('B','M',60);
+insert into student2 values('C','N',20);
+insert into student2 values('D','B',30);
+
+insert into student3 values('B','M',60);
+insert into student3 values('D','N',20);
+insert into student3 values('E','B',30);
+
+
+
+select * from student1,student2;
+select * from student1,student2 where student1.name=student2.name;
+
+select * from student1 natural join student2;
+
+select * from student1 inner join student2 on student1.name=student2.name;
+
+select * from student1 left outer join student2 on student1.name=student2.name;
+
+select * from student1 right outer join student2 on student1.name=student2.name;
+
+select * from student1 full outer join student2 on student1.name=student2.name;
+
+select * from student1 inner join student2 on (student1.name=student2.name and student1.age=student2.salary);
+
+------EXISTS------
+SELECT DEPARTMENT_NAME 
+FROM DEPARTMENTS D 
+WHERE  EXISTS 
+( 
+SELECT * 
+FROM EMPLOYEES E 
+WHERE E.DEPARTMENT_ID = D.DEPARTMENT_ID AND JOB_ID = 'IT_PROG' 
+) ; 
+
+------NOT EXISTS------
+SELECT LAST_NAME, SALARY, DEPARTMENT_ID 
+FROM EMPLOYEES E1 
+WHERE  NOT EXISTS 
+( 
+SELECT * 
+FROM EMPLOYEES E2 
+WHERE E2.DEPARTMENT_ID = E1.DEPARTMENT_ID AND 
+E2.SALARY > E1.SALARY 
+)  ; 
+
+
+----VIEW----
+select * from EMPLOYEES;
+
+create view Dept20 as select first_name,job_id, SALARY*12 as "Annual Salary" from EMPLOYEES where DEPARTMENT_ID=20;
+
+create or replace view Dept30(Ename, Job_id, "Annual Salary") as select first_name, job_id, salary*12 from employees where department_id=30;
+
+select * from Dept20;
+
+---------Sequence---------
+drop table student4;
+create table student4(
+id number,
+name varchar2(50),
+faname varchar2(60),
+income number
+);
+drop sequence mysequence;
+create sequence mysequence minvalue 1 start with 1 increment by 1;
+alter sequence mysequence maxvalue 3;
+
+insert into student4 values(mysequence.nextval,'A','X',50);
+insert into student4 values(mysequence.nextval,'B','Y',60);
+insert into student4 values(mysequence.nextval,'C','B',25);
+insert into student4 values(mysequence.nextval,'D','B',25);
+insert into student4 values(mysequence.nextval,'E','B',25);
+
+alter sequence mysequence maxvalue 50 increment by 5;
+
+select * from student4;
+
+------ALTER-------
+alter table student4 add dob date;
+select * from student4;
+alter table student4 add age number default 50;
+select * from student4;
+alter table student4 add (
+mname number,
+commission number);
+select * from student4;
+alter table student4 modify mname VARCHAR2(50);
